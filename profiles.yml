@@ -1,0 +1,14 @@
+dbt_project:
+  target: dev
+  outputs:
+    dev:
+      type: snowflake
+      account: su79932.ca-central-1.aws
+      user: SIXUAN
+      password: 
+      role: ACCOUNTADMIN
+      database: SIXUAN_DBT_PROJECT
+      warehouse: SIXUAN_WAREHOUSE
+      schema: DEV_SCHEMA
+      threads: 1
+      client_session_keep_alive: False
