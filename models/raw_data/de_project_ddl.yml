@@ -1,0 +1,16 @@
+[0m14:59:55  Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x1100340b0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x1101f0ce0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x1101f0a70>]}
+[0m14:59:55  Running with dbt=1.8.6
+[0m14:59:55  running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'log_cache_events': 'False', 'write_json': 'True', 'partial_parse': 'True', 'cache_selected_only': 'False', 'profiles_dir': '/Users/sixuan/Documents/dbt_project/dbt_project', 'debug': 'True', 'version_check': 'True', 'log_path': '/Users/sixuan/Documents/dbt_project/dbt_project/logs', 'fail_fast': 'False', 'warn_error': 'None', 'use_colors': 'True', 'use_experimental_parser': 'False', 'no_print': 'None', 'quiet': 'False', 'empty': 'None', 'log_format': 'default', 'invocation_command': 'dbt --debug run-operation generate_source --args {"schema_name": "DEV_SCHEMA", "database_name": "SIXUAN_DBT_PROJECT", "table_names":["inventory_data", "product_data"], "generate_columns": true, "include_data_types": true}', 'static_parser': 'True', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'target_path': 'None', 'introspect': 'True', 'send_anonymous_usage_stats': 'True'}
+[0m14:59:56  Sending event: {'category': 'dbt', 'action': 'project_id', 'label': '547b9097-e013-4f88-880c-0e08fcc6ef89', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x110c5cb30>]}
+[0m14:59:56  Sending event: {'category': 'dbt', 'action': 'adapter_info', 'label': '547b9097-e013-4f88-880c-0e08fcc6ef89', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x1101bd220>]}
+[0m14:59:56  Registered adapter: snowflake=1.8.3
+[0m14:59:56  checksum: 2f2fb10c73cafe3e79aa104295a8244291492b32b5598ce46af770f7d0bd5194, vars: {}, profile: , target: , version: 1.8.6
+[0m14:59:56  Encountered an error:
+Parsing Error
+  Error reading dbt_project: raw_data/de_project_ddl.yml - Runtime Error
+    unacceptable character #x001b: control characters are not allowed
+      in "<unicode string>", position 0
+[0m14:59:56  Resource report: {"command_name": "run-operation", "command_wall_clock_time": 0.6058332, "process_user_time": 1.631684, "process_kernel_time": 0.221424, "process_mem_max_rss": "114180096", "command_success": false, "process_in_blocks": "0", "process_out_blocks": "0"}
+[0m14:59:56  Command `dbt run-operation` failed at 10:59:56.183532 after 0.61 seconds
+[0m14:59:56  Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x1101f0cb0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x110debbc0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x110e81370>]}
+[0m14:59:56  Flushing usage events
