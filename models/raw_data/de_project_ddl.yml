@@ -1,16 +1,220 @@
-[0m14:59:55  Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x1100340b0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x1101f0ce0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x1101f0a70>]}
-[0m14:59:55  Running with dbt=1.8.6
-[0m14:59:55  running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'log_cache_events': 'False', 'write_json': 'True', 'partial_parse': 'True', 'cache_selected_only': 'False', 'profiles_dir': '/Users/sixuan/Documents/dbt_project/dbt_project', 'debug': 'True', 'version_check': 'True', 'log_path': '/Users/sixuan/Documents/dbt_project/dbt_project/logs', 'fail_fast': 'False', 'warn_error': 'None', 'use_colors': 'True', 'use_experimental_parser': 'False', 'no_print': 'None', 'quiet': 'False', 'empty': 'None', 'log_format': 'default', 'invocation_command': 'dbt --debug run-operation generate_source --args {"schema_name": "DEV_SCHEMA", "database_name": "SIXUAN_DBT_PROJECT", "table_names":["inventory_data", "product_data"], "generate_columns": true, "include_data_types": true}', 'static_parser': 'True', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'target_path': 'None', 'introspect': 'True', 'send_anonymous_usage_stats': 'True'}
-[0m14:59:56  Sending event: {'category': 'dbt', 'action': 'project_id', 'label': '547b9097-e013-4f88-880c-0e08fcc6ef89', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x110c5cb30>]}
-[0m14:59:56  Sending event: {'category': 'dbt', 'action': 'adapter_info', 'label': '547b9097-e013-4f88-880c-0e08fcc6ef89', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x1101bd220>]}
-[0m14:59:56  Registered adapter: snowflake=1.8.3
-[0m14:59:56  checksum: 2f2fb10c73cafe3e79aa104295a8244291492b32b5598ce46af770f7d0bd5194, vars: {}, profile: , target: , version: 1.8.6
-[0m14:59:56  Encountered an error:
-Parsing Error
-  Error reading dbt_project: raw_data/de_project_ddl.yml - Runtime Error
-    unacceptable character #x001b: control characters are not allowed
-      in "<unicode string>", position 0
-[0m14:59:56  Resource report: {"command_name": "run-operation", "command_wall_clock_time": 0.6058332, "process_user_time": 1.631684, "process_kernel_time": 0.221424, "process_mem_max_rss": "114180096", "command_success": false, "process_in_blocks": "0", "process_out_blocks": "0"}
-[0m14:59:56  Command `dbt run-operation` failed at 10:59:56.183532 after 0.61 seconds
-[0m14:59:56  Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x1101f0cb0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x110debbc0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x110e81370>]}
-[0m14:59:56  Flushing usage events
+version: 2
+
+sources:
+  - name: DE_SCHEMA
+    database: ecommerce_dbt
+    tables:
+      - name: inventory_data
+        columns:
+          - name: inventory_id
+            data_type: number
+          - name: product_id
+            data_type: varchar
+          - name: warehouse_id
+            data_type: number
+          - name: stock_level
+            data_type: number
+          - name: restock_date
+            data_type: date
+          - name: supplier_id
+            data_type: number
+          - name: storage_condition
+            data_type: varchar
+          - name: inventory_status
+            data_type: varchar
+          - name: last_audit_date
+            data_type: timestamp_ntz
+          - name: reorder_level
+            data_type: number
+          - name: quantity_in_stock
+            data_type: number
+          - name: rating
+            data_type: varchar
+          - name: sales_volume
+            data_type: number
+          - name: weight
+            data_type: varchar
+          - name: discounts
+            data_type: varchar
+          - name: safety_stock
+            data_type: number
+          - name: average_monthly_demand
+            data_type: number
+          - name: last_restock_date
+            data_type: date
+          - name: next_restock_date
+            data_type: date
+
+      - name: product_data
+        columns:
+          - name: product_id
+            data_type: varchar
+          - name: product_name
+            data_type: varchar
+          - name: product_category
+            data_type: varchar
+          - name: price
+            data_type: number
+          - name: supplier_id
+            data_type: varchar
+          - name: product_color
+            data_type: varchar
+          - name: manufacturing_date
+            data_type: date
+          - name: expiration_date
+            data_type: date
+          - name: warranty_period
+            data_type: varchar
+          - name: quantity_in_stock
+            data_type: number
+          - name: rating
+            data_type: number
+          - name: sales_volume
+            data_type: number
+          - name: weight_grams
+            data_type: number
+          - name: discount_percentage
+            data_type: number
+
+      - name: user_data
+        columns:
+          - name: user_id
+            data_type: varchar
+          - name: first_name
+            data_type: varchar
+          - name: last_name
+            data_type: varchar
+          - name: email
+            data_type: varchar
+          - name: signup_date
+            data_type: varchar
+          - name: preferred_language
+            data_type: varchar
+          - name: dob
+            data_type: varchar
+          - name: marketing_opt_in
+            data_type: varchar
+          - name: account_status
+            data_type: varchar
+          - name: loyalty_points_balance
+            data_type: varchar
+
+      - name: user_journey
+        columns:
+          - name: search_event_id
+            data_type: varchar
+          - name: timestamp
+            data_type: timestamp_ntz
+          - name: collector_tstamp
+            data_type: timestamp_ntz
+          - name: app_id
+            data_type: varchar
+          - name: has_qv
+            data_type: boolean
+          - name: has_pdp
+            data_type: boolean
+          - name: has_atc
+            data_type: boolean
+          - name: has_purchase
+            data_type: boolean
+          - name: impressions_with_attributions
+            data_type: varchar
+          - name: cart_id
+            data_type: varchar
+          - name: session_id
+            data_type: varchar
+          - name: search_request_id
+            data_type: varchar
+          - name: search_results_count
+            data_type: number
+          - name: search_terms
+            data_type: varchar
+          - name: search_feature
+            data_type: varchar
+          - name: search_terms_type
+            data_type: varchar
+          - name: search_type
+            data_type: varchar
+          - name: aes_hash
+            data_type: varchar
+          - name: date_last_login
+            data_type: varchar
+          - name: date_last_purchase
+            data_type: date
+          - name: grocery_home_store_id
+            data_type: varchar
+          - name: lifetime_offline_orders_count
+            data_type: number
+          - name: lifetime_online_orders_count
+            data_type: number
+          - name: login_status
+            data_type: varchar
+          - name: user_id
+            data_type: varchar
+          - name: registration_status
+            data_type: varchar
+          - name: rx_home_store_id
+            data_type: varchar
+          - name: sha256_hash
+            data_type: varchar
+          - name: banner
+            data_type: varchar
+          - name: auto_localized_store_id
+            data_type: varchar
+          - name: fulfillment_type
+            data_type: varchar
+          - name: selected_store_id
+            data_type: number
+          - name: selected_timeslot_date
+            data_type: date
+          - name: selected_timeslot_time
+            data_type: varchar
+          - name: selected_timeslot_type
+            data_type: varchar
+          - name: shopping_mode
+            data_type: varchar
+          - name: device_class
+            data_type: varchar
+          - name: br_viewwidth
+            data_type: number
+          - name: br_viewheight
+            data_type: number
+          - name: dvce_screenwidth
+            data_type: number
+          - name: dvce_screenheight
+            data_type: number
+          - name: doc_width
+            data_type: number
+          - name: doc_height
+            data_type: number
+          - name: mkt_medium
+            data_type: varchar
+          - name: mkt_source
+            data_type: varchar
+          - name: mkt_content
+            data_type: varchar
+          - name: mkt_campaign
+            data_type: varchar
+          - name: br_lang
+            data_type: varchar
+          - name: page_language
+            data_type: varchar
+          - name: geo_country
+            data_type: varchar
+          - name: geo_region
+            data_type: varchar
+          - name: geo_city
+            data_type: varchar
+          - name: geo_zipcode
+            data_type: varchar
+          - name: geo_latitude
+            data_type: number
+          - name: geo_longitude
+            data_type: number
+          - name: geo_timezone
+            data_type: varchar
+          - name: search_model
+            data_type: varchar
+          - name: product_id
+            data_type: varchar
+

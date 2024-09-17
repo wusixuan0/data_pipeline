@@ -24,6 +24,11 @@ python -m pip install dbt-core dbt-snowflake
 dbt --version
 pip freeze > requirements.txt
 ```
+install the package in packages.yml
 ```
-dbt --quiet run-operation generate_source --args '{"schema_name": "DEV_SCHEMA", "database_name": "SIXUAN_DBT_PROJECT", "table_names":["inventory_data", "product_data"], "generate_columns": true, "include_data_types": true}' > models/raw_data/de_project_ddl.yml
+dbt deps
+```
+generate YAML for  source tables
+```
+dbt --quiet run-operation generate_source --args '{"schema_name": "de_project", "database_name": "brave_database", "table_names":["inventory_data", "product_data", "user_data", "user_journey"], "generate_columns": true, "include_data_types": true}' > models/raw_data/de_project_ddl.yml
 ```

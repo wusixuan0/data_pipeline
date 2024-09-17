@@ -1,0 +1,1001 @@
+PRODUCT_ID,PRODUCT_NAME,PRODUCT_CATEGORY,PRICE,SUPPLIER_ID,PRODUCT_COLOR,MANUFACTURING_DATE,EXPIRATION_DATE,WARRANTY_PERIOD,QUANTITY_IN_STOCK,RATING,SALES_VOLUME,WEIGHT_GRAMS,DISCOUNT_PERCENTAGE
+prod-00001,Marie Callender's Chicken Pot Pie (1),Frozen Foods,71.72,9df39d76-26e4-4433-af3c-83e925c47148,Orange,2021-01-10,2027-05-14,22 months,152,4.3,1227,1013,5
+prod-00002,Organic Baby Spinach (2),Vegetables,54.45,36d6369c-56fd-490d-8e85-d7c7f0ade773,Green,2021-03-07,2025-05-02,32 months,485,3.3,3572,316,5
+prod-00003,Seedless Red Grapes (3),Fruits,62.34,9fb61472-76d9-4409-ad57-5d74c9d78ae5,Green,2021-06-19,2027-01-19,31 months,910,4.3,1369,1480,5
+prod-00004,Cabot Vermont Cheddar (4),Dairy,85.97,c60cded2-6ddd-43bb-90d2-8a2fe2e70a95,Purple,2024-08-11,2028-02-03,34 months,320,3.4,3878,745,5
+prod-00005,Russet Potatoes 5lb (5),Vegetables,90.49,4971d910-659d-45df-afb5-57955f5eec55,Orange,2022-06-07,2028-11-12,25 months,156,4.5,743,1104,0
+prod-00006,Doritos Nacho Cheese (6),Snacks,84.38,a6458dda-717a-48f6-8e0a-535e423f0f02,White,2021-03-10,2028-01-29,8 months,121,3.7,2878,1409,10
+prod-00007,Bananas Bunch (7),Fruits,27.29,ebdec5be-dcd3-4bcb-b98c-e40ca08d770a,Green,2019-09-23,2025-01-31,22 months,750,4.4,125,1602,25
+prod-00008,Sargento Shredded Cheddar (8),Dairy,7.18,d331465e-dddd-49a2-8b8f-bf90298de76e,Green,2024-04-28,2027-12-13,10 months,70,3.1,3422,645,5
+prod-00009,Oreo Double Stuf Cookies (9),Snacks,27.65,4f9dfb7e-f290-4bbe-8eb5-df7880a60eba,Yellow,2019-12-21,2027-12-02,16 months,664,3.8,2145,822,0
+prod-00010,Birds Eye Steamfresh Broccoli (10),Frozen Foods,88.11,b4a21bbe-e970-428f-a30c-5490f713fa67,Green,2023-12-17,2025-11-14,8 months,171,4.4,4037,1821,20
+prod-00011,Oreo Double Stuf Cookies (11),Snacks,72.35,f800c269-a924-4fb9-b030-2c4805e6b922,Orange,2023-08-28,2026-08-31,20 months,516,3.5,4907,1535,5
+prod-00012,Kind Protein Bars (12),Snacks,54.78,e398d0ca-bf4c-4f6c-9859-d313323762c1,White,2020-01-02,2028-06-22,19 months,264,4.6,1125,1067,30
+prod-00013,Thomas' English Muffins (13),Bakery,86.76,d6e3d10e-1709-4963-bfa9-684577970de0,Yellow,2023-06-29,2026-04-19,10 months,380,4.3,3930,1454,20
+prod-00014,Marie Callender's Chicken Pot Pie (14),Frozen Foods,27.89,f7df4387-95e3-45c6-828a-d9f2dae5bdd1,Orange,2023-10-22,2027-12-17,13 months,508,4.2,1168,792,20
+prod-00015,Nestle Pure Life Water 6-Pack (15),Beverages,42.27,54d06f28-4c0e-477e-8c12-ab89ef3948f9,Black,2019-12-12,2025-01-30,21 months,137,3.7,1038,883,15
+prod-00016,Strawberries 1lb (16),Fruits,65.23,1123deca-acf3-43ff-948c-97a2572bdb64,Orange,2023-12-08,2028-04-10,15 months,422,4.0,4198,1021,0
+prod-00017,Sara Lee Honey Wheat Bread (17),Bakery,61.08,230ad586-dfae-425f-925b-e6af0f5c235f,Green,2023-11-20,2026-11-01,13 months,149,4.2,1572,1572,0
+prod-00018,Wonder Bread Classic White (18),Bakery,12.26,11204d1a-ca5f-4b96-bb53-7eef54f102fe,Purple,2021-06-29,2025-03-19,35 months,921,3.9,3747,1820,5
+prod-00019,Land O'Lakes Butter (19),Dairy,43.82,51ffb0bd-e2b6-48ee-a0f9-067ec5bc30d4,Black,2023-12-18,2025-01-03,22 months,713,4.4,2425,1120,5
+prod-00020,Starbucks Cold Brew (20),Beverages,38.70,4817c5c6-0a61-4b94-81bb-3f94a5c66c38,Black,2021-09-03,2028-12-06,31 months,180,3.9,275,126,5
+prod-00021,Broccoli Crowns (21),Vegetables,66.70,4e726fae-20c6-4dba-84e0-8a8fead46cb8,Green,2020-05-09,2025-03-07,30 months,711,3.4,1243,1235,30
+prod-00022,Stouffer's Lasagna (22),Frozen Foods,28.04,288996c6-8802-42e9-bcf4-abd6a78b80bf,Red,2021-07-05,2027-10-19,22 months,358,3.4,3610,1615,0
+prod-00023,Carrots 2lb Bag (23),Vegetables,37.98,d7a8ffe0-4fa3-4102-9f53-645f32d5f026,Red,2024-04-09,2026-09-02,31 months,819,3.0,4162,1940,20
+prod-00024,Pepsi Zero Sugar (24),Beverages,87.61,de9dfa1e-0ca0-4548-880c-df65aad3fc89,Blue,2023-11-08,2028-12-27,13 months,393,3.6,1050,1260,20
+prod-00025,Nestle Pure Life Water 6-Pack (25),Beverages,30.70,33ad364d-9bc2-4edd-9921-e15a17f2dedf,Black,2024-06-21,2026-03-09,11 months,541,4.5,4536,1661,5
+prod-00026,Gatorade Lemon-Lime (26),Beverages,77.58,b2fbd722-a293-4344-8e13-577e0eb55ea3,Black,2020-05-06,2027-08-24,29 months,463,4.6,2844,361,20
+prod-00027,Pepsi Zero Sugar (27),Beverages,29.07,7b4172c3-280e-4092-ba1b-816aafddf6f6,Purple,2020-02-13,2025-01-10,12 months,855,3.4,220,746,5
+prod-00028,Seedless Red Grapes (28),Fruits,42.37,7324d596-9372-4f84-9fa1-e5c14cdc6d08,Blue,2022-01-28,2029-02-05,7 months,435,4.9,4770,1904,25
+prod-00029,Stouffer's Lasagna (29),Frozen Foods,96.68,5280df0f-5eb9-4d73-8e0c-cc2cf810fd03,White,2023-08-04,2026-03-04,21 months,241,4.0,2020,788,10
+prod-00030,Green Giant Cauliflower Rice (30),Frozen Foods,71.29,a44e519e-f17c-4a43-9f53-64a205f15841,Orange,2023-06-01,2029-04-06,10 months,326,4.8,1784,621,20
+prod-00031,Nestle Pure Life Water 6-Pack (31),Beverages,30.06,01b48ab7-daab-4433-aa52-4bddf2b637d2,Purple,2022-08-12,2028-10-06,18 months,210,4.4,1068,1422,25
+prod-00032,Popcorners Kettle Corn (32),Snacks,53.73,7551aa4a-13e7-48ea-9fad-dc2775d82586,Yellow,2021-01-04,2026-09-10,34 months,509,4.4,3908,1233,0
+prod-00033,Dave's Killer Bread (33),Bakery,46.53,dfc762a2-17e4-483a-9af5-71527c3f58de,Blue,2022-07-05,2029-07-24,28 months,363,3.2,4880,1556,25
+prod-00034,Navel Oranges (34),Fruits,80.06,e86501b1-503d-4361-b19c-6c7021f26979,Black,2020-08-31,2029-04-26,33 months,71,3.4,3415,1602,15
+prod-00035,Organic Baby Spinach (35),Vegetables,14.05,8c9934fc-cead-42b0-8ce0-3e2f5ef71285,Red,2024-03-12,2024-09-14,32 months,302,3.0,4838,723,25
+prod-00036,DiGiorno Pepperoni Pizza (36),Frozen Foods,26.55,1d63bd09-bf90-4323-8860-8e81aac66a35,Purple,2020-10-16,2028-02-23,24 months,797,4.4,1204,1736,25
+prod-00037,Silk Almond Milk (37),Dairy,18.26,d3fa7b06-1067-4472-9d2c-3e3b647f007f,Black,2023-09-03,2029-04-07,6 months,906,3.7,4489,1909,25
+prod-00038,Nature Valley Granola Bars (38),Snacks,25.07,1a653c04-a41a-4297-834b-b971273e55b2,Orange,2023-04-14,2026-06-19,27 months,610,4.6,2605,366,30
+prod-00039,Horizon Organic Whole Milk (39),Dairy,23.71,e7f0472f-dcd8-4a0b-b1a3-71ba5735f5f5,Blue,2021-12-30,2028-04-27,12 months,524,3.7,4942,877,0
+prod-00040,Silk Almond Milk (40),Dairy,19.25,50f98186-f054-4d52-9972-166c3cdeabd2,Black,2020-09-18,2027-01-26,29 months,108,4.6,3984,767,0
+prod-00041,Nature Valley Granola Bars (41),Snacks,39.05,0ddab9bd-7edf-4093-a937-0c099e07fcdc,Orange,2022-07-14,2029-07-24,15 months,560,3.3,832,1336,15
+prod-00042,Thomas' English Muffins (42),Bakery,46.38,bc42b131-d820-4d26-94d8-0300c31b6dfd,Red,2020-03-05,2025-03-01,34 months,731,3.3,1681,1432,5
+prod-00043,Popcorners Kettle Corn (43),Snacks,79.02,a9122ff1-be35-4e32-81c6-23ed5e0c4195,Purple,2022-04-13,2024-11-27,9 months,525,3.7,3779,153,20
+prod-00044,Popcorners Kettle Corn (44),Snacks,23.38,74981f93-dfe0-4e8e-9920-efcdb45f0f22,Yellow,2022-12-20,2027-02-23,36 months,749,3.8,3952,1788,0
+prod-00045,King's Hawaiian Rolls (45),Bakery,98.29,cd80d962-4b9a-4155-8aa2-a1a59d482346,White,2020-11-05,2027-05-28,12 months,832,3.7,2527,873,20
+prod-00046,Thomas' English Muffins (46),Bakery,12.42,d12376d4-87d8-4e19-8e77-80e7c4c8570e,Black,2023-05-07,2027-09-23,22 months,239,4.5,423,1997,30
+prod-00047,Strawberries 1lb (47),Fruits,77.06,457ad336-4069-40ab-a6d4-84399c52d5c3,Green,2022-12-03,2024-10-16,22 months,736,3.2,3799,494,15
+prod-00048,Russet Potatoes 5lb (48),Vegetables,39.87,9a3a1955-3df2-4998-949a-cc375f78c6f3,Purple,2022-10-20,2026-11-27,23 months,612,3.7,3092,611,25
+prod-00049,Stouffer's Lasagna (49),Frozen Foods,46.75,6b1c45c4-3f07-46a2-9542-c3493158626d,White,2023-02-23,2026-10-27,22 months,925,4.7,461,900,15
+prod-00050,King's Hawaiian Rolls (50),Bakery,87.62,5f0fd561-aa44-423e-af6c-7f49d1a62602,White,2023-05-05,2025-08-15,8 months,616,3.1,2200,424,30
+prod-00051,Marie Callender's Chicken Pot Pie (51),Frozen Foods,82.72,a48a102a-5b4f-47a1-845b-32e0130744b0,Yellow,2021-12-01,2025-08-16,14 months,293,4.9,4597,1861,20
+prod-00052,Chex Mix Traditional (52),Snacks,9.71,5c171a1d-deca-4727-b0aa-816cda842875,White,2020-09-21,2027-06-12,9 months,881,5.0,4876,195,20
+prod-00053,King's Hawaiian Rolls (53),Bakery,87.40,54b81020-a3d6-4b8c-a162-a0caeb98ff1b,Yellow,2023-09-26,2027-02-13,33 months,554,3.2,1992,273,30
+prod-00054,Red Bell Peppers (54),Vegetables,57.50,4d198915-559d-4366-ac9a-2fcab851d1d3,Green,2022-09-24,2029-03-03,26 months,180,3.6,2854,443,15
+prod-00055,Starbucks Cold Brew (55),Beverages,27.30,fec0fcb2-4883-4ede-80ac-9f7b2e734c2b,Purple,2023-10-07,2026-05-13,9 months,534,3.7,1572,304,5
+prod-00056,Land O'Lakes Butter (56),Dairy,92.46,f7e19b81-442b-4fdb-85e2-55e79ba45cb8,Black,2023-02-17,2027-04-23,36 months,868,4.6,1206,154,20
+prod-00057,Chobani Greek Yogurt (57),Dairy,86.77,21934d5b-9dfb-4eb3-8f62-708cc3579981,Orange,2023-01-06,2025-11-08,23 months,696,4.2,2526,1870,30
+prod-00058,Birds Eye Steamfresh Broccoli (58),Frozen Foods,99.37,9876d85d-4c0b-40e8-8523-4ccf39ad32fc,Purple,2022-06-01,2026-08-30,14 months,70,4.3,1903,809,10
+prod-00059,Navel Oranges (59),Fruits,64.96,18e30c68-3d5d-479e-a286-5aa68c05bd5e,Purple,2023-11-27,2028-12-20,25 months,890,4.5,2127,325,25
+prod-00060,Lay's Classic Potato Chips (60),Snacks,75.70,ba65e510-47c5-43f6-a7ba-538f9f90895d,Red,2022-12-23,2024-08-27,15 months,216,3.2,180,1430,30
+prod-00061,Navel Oranges (61),Fruits,77.37,291de6d8-0631-4d51-b829-5a57f12c351a,Purple,2023-07-05,2028-01-14,21 months,323,4.7,3068,1404,30
+prod-00062,Dave's Killer Bread (62),Bakery,9.02,67a8fb28-2295-4665-a383-ad4c2e2bdf52,Purple,2023-01-21,2026-11-09,27 months,437,4.4,2641,1740,10
+prod-00063,Broccoli Crowns (63),Vegetables,31.87,8080d4f7-86e2-48ff-be63-b3893c8ef2ac,Yellow,2022-12-21,2024-12-30,18 months,650,4.2,3839,1914,20
+prod-00064,King's Hawaiian Rolls (64),Bakery,47.73,9d33d449-33d8-4204-b3fd-0c1e87f98adc,Green,2021-01-26,2024-11-16,31 months,365,4.8,3088,1813,0
+prod-00065,Pringles Sour Cream & Onion (65),Snacks,88.21,f80545ab-572e-4fd1-974b-1d4318fae44d,White,2022-12-31,2026-12-04,17 months,63,4.4,4936,401,15
+prod-00066,Lay's Classic Potato Chips (66),Snacks,50.58,cda3ac47-5c39-4dd8-88af-46f4566e31fe,Green,2021-10-18,2025-05-13,11 months,291,3.4,424,1328,5
+prod-00067,Kind Protein Bars (67),Snacks,84.78,fa5503f1-dbde-4a1d-87d6-1fa810b6e65c,Black,2022-11-02,2027-11-11,27 months,826,3.9,2461,319,10
+prod-00068,Sargento Shredded Cheddar (68),Dairy,48.05,d2e4052e-a89c-4535-b688-6976184ed249,Red,2022-12-25,2025-04-03,22 months,395,4.0,1334,1103,10
+prod-00069,Chex Mix Traditional (69),Snacks,69.66,9bec5d68-76f8-42a9-841f-5ed1b037c1b9,Purple,2021-07-13,2027-09-27,20 months,614,3.1,202,527,0
+prod-00070,Silk Almond Milk (70),Dairy,87.47,a59483eb-3daa-41a1-a891-194f421d7724,Orange,2024-02-20,2028-05-05,21 months,947,4.9,846,240,20
+prod-00071,Nestle Pure Life Water 6-Pack (71),Beverages,88.62,2bf7b7f0-9399-415b-afff-0a9abff92aed,Blue,2020-08-09,2027-09-25,27 months,389,3.3,3791,554,0
+prod-00072,Entenmann's Chocolate Donuts (72),Bakery,29.19,9ab2dadf-6969-4606-b5b8-b641996cbccb,Black,2019-10-20,2027-04-07,13 months,141,4.4,3585,244,5
+prod-00073,Lay's Classic Potato Chips (73),Snacks,82.33,a93c29f3-bd7e-4b21-bf14-2e23d6ad5ce9,Yellow,2023-06-01,2028-06-06,33 months,416,4.0,1347,1068,20
+prod-00074,Blueberries Pint (74),Fruits,93.96,9883f439-5057-4089-95db-382e361d83d3,Green,2020-06-14,2027-04-25,14 months,504,3.1,3164,625,10
+prod-00075,Strawberries 1lb (75),Fruits,93.76,a4a5c978-e436-4571-96d6-ac06a7fc9dbc,Orange,2022-01-08,2027-08-21,23 months,477,4.8,1819,257,10
+prod-00076,Dole Pineapple Chunks (76),Fruits,86.60,e7ce160c-0bf3-4cf0-8f4d-99a166b238cf,Red,2024-05-28,2025-07-15,34 months,558,4.7,2302,204,30
+prod-00077,Kind Protein Bars (77),Snacks,16.38,3dd36a28-7ef4-4985-a266-460e3bb771b4,Red,2020-01-12,2029-05-20,7 months,825,4.0,3405,841,15
+prod-00078,Tropicana Orange Juice 1L (78),Beverages,23.77,639d4d74-f78b-4feb-909a-ac6bc92a15ea,Red,2021-01-18,2025-12-09,11 months,992,3.5,2636,989,5
+prod-00079,Avocados 4-Pack (79),Fruits,38.71,6ef5b560-7b96-4bf3-93e6-f1af7f7fb48a,Yellow,2022-11-12,2025-12-27,8 months,84,3.2,3585,388,30
+prod-00080,Sweet Potatoes (80),Vegetables,72.90,0874c47f-181d-4107-a103-5c7965795d0c,Purple,2019-09-14,2029-01-20,36 months,255,3.7,1889,731,30
+prod-00081,Red Bull Energy Drink (81),Beverages,52.01,22c510ed-90d5-4523-a88c-256cac22b215,White,2021-01-27,2027-09-08,27 months,130,3.5,1864,1817,10
+prod-00082,Land O'Lakes Butter (82),Dairy,22.43,518b4c4d-963f-4453-9b05-306bed87f25b,Red,2024-01-17,2027-07-22,27 months,981,4.0,3457,1308,0
+prod-00083,Green Giant Cauliflower Rice (83),Frozen Foods,42.78,db436e6f-bc88-4503-9844-083ce52a937d,Green,2020-02-14,2028-11-17,19 months,611,4.9,4782,1340,10
+prod-00084,Thomas' English Muffins (84),Bakery,16.09,8cad2d0c-cabc-491d-9480-f26eaf023bf8,White,2023-06-11,2026-06-20,10 months,921,4.1,3097,1154,0
+prod-00085,Broccoli Crowns (85),Vegetables,87.58,a0747978-fdaa-4b89-b173-65b74a820e18,Purple,2021-06-16,2027-03-18,22 months,437,4.8,359,378,0
+prod-00086,Starbucks Cold Brew (86),Beverages,67.08,fe743913-a9e0-470d-a9c9-cf714d695c16,Orange,2019-11-30,2025-05-25,19 months,51,4.3,2018,1047,25
+prod-00087,Green Giant Cauliflower Rice (87),Frozen Foods,68.07,723659ad-1d03-4333-8d26-9d899c0b6291,White,2024-08-05,2025-02-16,24 months,439,4.0,1886,1598,25
+prod-00088,Popcorners Kettle Corn (88),Snacks,44.42,e96306aa-1d80-4309-901b-f63f059e3390,Orange,2019-12-11,2027-08-21,10 months,615,4.7,199,324,30
+prod-00089,Land O'Lakes Butter (89),Dairy,41.88,4e8b35d6-dc06-42ff-9e01-4b6a0a237fd5,Yellow,2021-07-06,2025-05-09,12 months,155,3.9,4005,1945,25
+prod-00090,Lay's Classic Potato Chips (90),Snacks,44.77,7bed24ff-3507-4ec4-8234-becfa0f33a11,Purple,2022-03-02,2025-09-06,19 months,821,4.7,2442,1810,20
+prod-00091,Cucumbers 2-Pack (91),Vegetables,74.04,2aadf802-7321-4a14-a8b9-288f09b0824f,Green,2023-12-06,2025-08-15,21 months,871,3.6,3333,1300,20
+prod-00092,Popcorners Kettle Corn (92),Snacks,5.59,d194e877-9afd-487c-b8c5-fd455a4caddb,Green,2020-10-15,2029-08-19,30 months,526,3.3,3349,183,30
+prod-00093,Cabot Vermont Cheddar (93),Dairy,7.64,218d3002-a4d4-4b2d-827a-8069b7c1f947,Yellow,2020-03-03,2026-04-19,7 months,752,4.7,427,1691,10
+prod-00094,Seedless Red Grapes (94),Fruits,41.54,c2fc61fd-e369-4929-96fa-6423cd7ac4a0,Yellow,2022-06-08,2029-01-04,29 months,451,4.2,1451,191,10
+prod-00095,Land O'Lakes Butter (95),Dairy,11.83,bd5c6a49-ac41-4038-aac0-c50c6993d47e,Black,2020-07-21,2026-02-09,9 months,779,4.8,2911,107,0
+prod-00096,Chobani Greek Yogurt (96),Dairy,85.33,b13f3525-69e0-46db-bff7-7efab8beed94,Green,2020-12-29,2027-12-05,15 months,605,4.9,2389,1785,20
+prod-00097,Avocados 4-Pack (97),Fruits,26.47,3b27d32e-66cc-40e6-adb5-5329df4a27d2,Yellow,2023-11-16,2028-03-26,26 months,211,3.1,1465,1697,30
+prod-00098,Sweet Potatoes (98),Vegetables,17.71,bd5bc524-adf9-4fce-a72b-0c5fa882e7ad,Blue,2022-07-28,2028-04-15,36 months,251,4.0,3262,1177,10
+prod-00099,Ben & Jerry's Chocolate Fudge Brownie (99),Frozen Foods,2.08,dbdbd6b7-9051-4a01-85c6-9a3106e1ca07,Yellow,2021-06-10,2026-09-18,16 months,319,3.7,3199,1286,20
+prod-00100,Organic Gala Apples (100),Fruits,94.21,526de52a-97ff-4660-8619-d6d8e7f1e847,Blue,2024-04-30,2024-11-16,19 months,912,4.3,4654,1754,5
+prod-00101,Pepsi Zero Sugar (101),Beverages,46.50,5915dcf1-4899-4de6-b408-ffeb2de60bfe,Yellow,2019-11-17,2027-08-14,21 months,865,4.6,3802,578,0
+prod-00102,Marie Callender's Chicken Pot Pie (102),Frozen Foods,87.77,27be97a1-1b39-4b96-aa6c-9eb5fcbdb78e,Green,2024-05-11,2026-03-18,18 months,320,3.6,1508,207,25
+prod-00103,Broccoli Crowns (103),Vegetables,3.69,8cc0520a-d242-49ab-a459-c6cd3695a052,Purple,2024-07-21,2028-09-19,12 months,505,4.1,1610,1979,30
+prod-00104,Roma Tomatoes (104),Vegetables,34.53,3a4e04dd-d419-493d-9740-1c276ccae74b,Blue,2021-01-02,2026-03-19,32 months,511,4.4,319,1394,20
+prod-00105,Dave's Killer Bread (105),Bakery,31.60,245f8373-885a-4246-b265-7d9573216ffd,Purple,2022-02-05,2025-08-28,35 months,776,3.3,2268,1749,10
+prod-00106,Lipton Green Tea (106),Beverages,70.73,0c9b55f1-cb5c-490c-95e9-ce6b32797bf9,Red,2020-04-25,2029-04-30,18 months,301,4.6,3286,336,30
+prod-00107,Lay's Classic Potato Chips (107),Snacks,39.09,1efcc50a-f154-447f-869d-73622b237e13,Black,2022-10-05,2029-04-22,15 months,751,4.2,3339,1384,30
+prod-00108,Seedless Red Grapes (108),Fruits,59.83,e55ceef3-66ef-4497-848f-2a7780ccde34,Green,2023-12-30,2026-06-15,13 months,345,4.9,4630,1081,0
+prod-00109,Coca-Cola Classic 12-Pack (109),Beverages,33.29,1550f476-428d-43e1-bb48-d1ceb45644c1,Red,2021-01-19,2025-01-04,28 months,774,3.7,1369,628,15
+prod-00110,Land O'Lakes Butter (110),Dairy,16.46,075ebb27-da27-4d43-8ac5-8246f90f0a53,Green,2022-03-10,2028-06-27,26 months,769,3.2,4475,1727,0
+prod-00111,Yoplait Original Yogurt (111),Dairy,34.95,1dae2e90-1ed0-4ebe-b014-1ba0306fc0d2,Purple,2020-10-07,2028-04-05,23 months,798,4.0,3917,728,5
+prod-00112,Coca-Cola Classic 12-Pack (112),Beverages,7.96,7bd0e4de-6dfa-4024-a72f-ae76b5dd6d7b,Orange,2023-06-09,2026-11-18,28 months,387,3.2,167,1510,0
+prod-00113,Wonder Bread Classic White (113),Bakery,20.68,5fe7937c-3abf-4d9d-b0a8-2103a7228c20,Yellow,2023-02-18,2027-11-10,20 months,928,4.9,1771,1526,25
+prod-00114,Tropicana Orange Juice 1L (114),Beverages,26.92,b077919f-df43-4dcb-a98c-35e59cd0511b,Green,2022-04-01,2027-04-03,19 months,102,3.1,842,1481,25
+prod-00115,Birds Eye Steamfresh Broccoli (115),Frozen Foods,68.61,45671bd2-55f6-450e-96c2-dede023eb689,Blue,2024-05-30,2027-09-09,23 months,841,4.5,2112,1342,20
+prod-00116,Avocados 4-Pack (116),Fruits,48.61,9ab53ba1-d89d-49e5-9518-cb95a051314b,Purple,2023-09-08,2028-06-09,27 months,971,4.1,1805,1588,20
+prod-00117,Organic Baby Spinach (117),Vegetables,17.75,fb1ac21f-cb53-4708-be24-c20d5a5aabbf,Blue,2023-10-11,2025-11-01,15 months,266,3.7,1546,1091,10
+prod-00118,Doritos Nacho Cheese (118),Snacks,56.62,063b2de7-3b32-4b5f-9b38-ee9459d1186a,Blue,2021-11-13,2025-06-11,28 months,813,3.1,3169,1544,10
+prod-00119,Popcorners Kettle Corn (119),Snacks,13.26,8de536c2-b57b-4e69-a70b-0fa9b5f9611a,Orange,2023-01-03,2025-09-08,30 months,237,4.2,390,1272,0
+prod-00120,Chex Mix Traditional (120),Snacks,77.74,a1b7b37c-ed87-4b2a-b07e-b99cd7baee06,Black,2021-07-01,2026-04-07,33 months,429,4.2,3779,1480,25
+prod-00121,Birds Eye Steamfresh Broccoli (121),Frozen Foods,61.06,941cb1bd-87e0-450b-ba72-409641b8db2a,Yellow,2020-12-16,2028-12-30,28 months,542,3.6,4010,1174,0
+prod-00122,Stouffer's Lasagna (122),Frozen Foods,14.56,41f1e5ee-65be-4f40-852e-83f8e83ab511,Purple,2024-07-04,2026-08-22,34 months,90,4.8,4751,153,30
+prod-00123,Avocados 4-Pack (123),Fruits,56.36,89ecd98d-2f9b-4859-8ff1-e7b27a4708e7,Purple,2022-01-13,2026-11-20,15 months,206,3.6,452,1262,25
+prod-00124,Pepperidge Farm Milano Cookies (124),Bakery,85.03,4e818d9b-9b51-4f7c-a1b8-5df0e62d1ab8,Black,2022-03-24,2029-08-16,36 months,64,3.9,1363,1793,30
+prod-00125,Tropicana Orange Juice 1L (125),Beverages,78.83,2a22c9b3-4223-43e0-902c-4363ecd8def4,Red,2023-06-11,2028-09-14,34 months,862,4.1,1926,1981,0
+prod-00126,Chobani Greek Yogurt (126),Dairy,59.07,69c481f8-544c-42b6-b4fd-e945c37570ee,Purple,2024-07-15,2027-07-04,8 months,114,3.2,4478,848,20
+prod-00127,Popcorners Kettle Corn (127),Snacks,36.54,20d270e2-e571-47cc-8b2b-350dc4e2f2b3,Red,2023-04-10,2027-08-03,29 months,906,4.9,1705,1236,20
+prod-00128,Nestle Pure Life Water 6-Pack (128),Beverages,34.36,44d2e08e-645b-409f-a99b-4ba628a1762f,Yellow,2021-01-06,2027-08-07,22 months,888,3.7,3936,526,15
+prod-00129,Hot Pockets Ham & Cheese (129),Frozen Foods,58.34,eb14562b-4f16-4817-8b8e-69b9c21cc47a,Blue,2024-05-22,2027-06-19,9 months,570,3.2,3498,597,15
+prod-00130,Dole Pineapple Chunks (130),Fruits,92.90,c9c09190-5e2f-412f-90d0-6a6540d1584f,Blue,2023-07-03,2026-08-14,16 months,393,3.8,4651,1415,15
+prod-00131,Ben & Jerry's Chocolate Fudge Brownie (131),Frozen Foods,26.26,a1517078-ea34-4da8-80c6-686aaf40bc0a,Blue,2022-11-27,2027-01-27,23 months,178,4.2,3106,445,10
+prod-00132,Lipton Green Tea (132),Beverages,85.39,93abfe6d-629a-48fa-b766-98f17cbcc5f9,Orange,2020-11-19,2027-09-14,15 months,697,4.0,1104,610,20
+prod-00133,Stouffer's Lasagna (133),Frozen Foods,65.05,8fd6bd33-45f5-4ac7-9844-ee787e7ebb97,Blue,2020-12-31,2025-08-04,34 months,521,4.4,2178,540,0
+prod-00134,DiGiorno Pepperoni Pizza (134),Frozen Foods,51.89,5a41bd11-ac64-45bb-9e69-c4a3b5097f69,Black,2022-09-22,2028-01-23,34 months,112,3.1,2595,1869,0
+prod-00135,Blueberries Pint (135),Fruits,61.56,80cabc9f-1d53-449c-8941-7f8bfa126216,Purple,2024-03-15,2025-10-16,36 months,188,3.6,2361,1755,15
+prod-00136,Gatorade Lemon-Lime (136),Beverages,11.26,20725060-eefe-44d9-980c-b826997353a8,Yellow,2022-01-04,2029-08-09,14 months,548,4.6,3864,1726,10
+prod-00137,Philadelphia Cream Cheese (137),Dairy,11.61,2bc0b82b-b581-4953-963a-d02f67e62efb,Orange,2019-12-26,2025-09-13,32 months,642,3.2,1837,1021,10
+prod-00138,Avocados 4-Pack (138),Fruits,72.47,a2835000-ef3d-4f5f-877a-21db7facf392,White,2023-11-13,2026-03-04,23 months,441,4.7,3196,821,15
+prod-00139,Entenmann's Chocolate Donuts (139),Bakery,29.83,0ed1cd44-aaab-4981-95fb-4363ed1211a4,Purple,2020-04-10,2029-07-01,16 months,724,3.2,2544,1604,0
+prod-00140,Russet Potatoes 5lb (140),Vegetables,65.24,ab61fb42-1c0f-4f07-9634-be99a0ee8715,Red,2024-04-10,2027-10-24,13 months,468,4.7,436,327,10
+prod-00141,Entenmann's Chocolate Donuts (141),Bakery,56.35,f9a0d6e1-1d4c-498e-8dc8-30a8a8338cc6,White,2021-02-24,2028-12-10,34 months,338,3.7,3083,1096,25
+prod-00142,Silk Almond Milk (142),Dairy,5.65,a484db94-22c6-49c1-a337-4ca8933b17b5,Blue,2024-08-16,2029-07-26,22 months,428,4.2,1067,709,25
+prod-00143,Oreo Double Stuf Cookies (143),Snacks,32.49,7fe77f68-b04a-482b-a872-7b13777d789a,Red,2023-11-07,2025-05-24,13 months,822,3.3,771,927,5
+prod-00144,Roma Tomatoes (144),Vegetables,96.60,b72530b0-ec0f-43ac-9e7f-4252e6c7df84,Green,2022-10-03,2028-06-22,7 months,539,3.1,1403,1213,25
+prod-00145,Pepsi Zero Sugar (145),Beverages,30.40,af7386d3-04ae-4f4d-b414-b5b06ed9cbc0,Orange,2024-02-06,2029-05-10,19 months,280,3.4,4964,889,15
+prod-00146,Bananas Bunch (146),Fruits,25.64,c73cf1b6-c362-4043-97d9-aaab5055fdf5,Yellow,2021-01-17,2025-01-03,21 months,90,3.3,2770,1659,0
+prod-00147,Silk Almond Milk (147),Dairy,8.55,5b1eff4e-f2fc-4ef1-8ab6-62aa91a51ba1,Purple,2019-10-04,2025-08-03,28 months,77,3.6,2706,495,5
+prod-00148,Starbucks Cold Brew (148),Beverages,50.33,4f4f11c5-0145-4639-86ed-6db8513bbec8,White,2023-09-14,2027-09-12,17 months,184,4.0,1814,1198,20
+prod-00149,Sweet Potatoes (149),Vegetables,92.24,b721b5bb-c8ed-444d-a208-3fe6898c028d,Blue,2023-12-28,2025-09-27,9 months,250,4.2,2695,927,0
+prod-00150,King's Hawaiian Rolls (150),Bakery,16.75,1732e00c-7f0d-4e6d-8957-a2e118edfe47,Purple,2021-04-17,2028-01-07,11 months,889,4.6,3070,1784,30
+prod-00151,Land O'Lakes Butter (151),Dairy,97.45,c3c3a57a-4a2a-46bf-8765-2191e0160112,Orange,2023-03-17,2029-05-09,8 months,829,4.3,3369,1459,5
+prod-00152,Chobani Greek Yogurt (152),Dairy,30.81,88e22ae6-77d5-46c2-bb95-b2d37d3b6624,Blue,2021-11-07,2027-01-29,18 months,979,4.2,2701,1287,20
+prod-00153,Yoplait Original Yogurt (153),Dairy,92.77,22c10146-b0ea-417a-8da3-2ab9ce377e66,Blue,2024-01-20,2027-05-03,24 months,82,3.8,578,1642,10
+prod-00154,Seedless Red Grapes (154),Fruits,28.92,821ece7f-e796-49d3-aac2-4421a30a4051,Black,2023-04-24,2025-08-13,33 months,97,3.9,943,1056,0
+prod-00155,Seedless Red Grapes (155),Fruits,85.91,9d89d65d-408e-4b9c-bbe6-eb331cc88240,Green,2024-02-29,2029-03-27,16 months,552,3.8,1725,664,0
+prod-00156,Bananas Bunch (156),Fruits,1.91,0082148e-c795-43fb-8e0c-8d42a65b530a,Green,2021-11-05,2025-10-31,7 months,456,4.7,1980,255,10
+prod-00157,Doritos Nacho Cheese (157),Snacks,71.39,d0115866-8276-4ca9-9b68-16492f7b645a,Red,2021-03-02,2025-06-25,28 months,623,3.5,3751,891,0
+prod-00158,Organic Gala Apples (158),Fruits,46.98,ee5f9e37-c57b-4b77-9526-5d19c8332b56,Red,2019-08-27,2026-06-10,10 months,777,3.0,2217,602,15
+prod-00159,Bananas Bunch (159),Fruits,80.66,65f8f1d6-9480-4761-9a02-d2c7f5471a2f,White,2021-03-30,2026-04-15,34 months,854,4.3,604,1944,30
+prod-00160,Birds Eye Steamfresh Broccoli (160),Frozen Foods,98.46,8130143d-dbe0-442a-9108-3956aa594bc9,Yellow,2020-06-14,2026-04-17,6 months,148,3.4,209,880,5
+prod-00161,Organic Baby Spinach (161),Vegetables,82.89,dd0a5fb8-f6c5-4359-a1d1-5e13251347c6,Green,2023-03-18,2027-05-08,27 months,733,4.8,1505,433,20
+prod-00162,Yoplait Original Yogurt (162),Dairy,30.00,d13584fe-6705-4140-a747-bbd58052a93f,Blue,2023-09-12,2028-02-29,23 months,921,4.7,4592,590,20
+prod-00163,Green Giant Cauliflower Rice (163),Frozen Foods,6.02,40c6f32c-6649-45e8-a7f2-41983e44b077,White,2022-08-28,2025-12-12,20 months,775,3.2,3580,1730,5
+prod-00164,Marie Callender's Chicken Pot Pie (164),Frozen Foods,67.44,60ee20fc-4597-4b50-8f85-09e185a4f9d5,Green,2022-08-31,2028-08-17,28 months,596,3.2,450,427,15
+prod-00165,Coca-Cola Classic 12-Pack (165),Beverages,15.63,6d07d984-f51b-4fa7-bcc3-1511315d1960,Black,2021-10-21,2028-10-24,17 months,788,4.0,1657,100,0
+prod-00166,Broccoli Crowns (166),Vegetables,9.24,9495ac91-696b-40fa-a76b-5231bc88cad7,White,2021-11-02,2028-02-21,14 months,662,4.2,3142,1483,10
+prod-00167,Organic Gala Apples (167),Fruits,34.39,c2708f3a-ab7c-465b-9306-7cba16dca462,Red,2020-07-07,2028-06-09,11 months,992,3.5,2936,726,10
+prod-00168,Oreo Double Stuf Cookies (168),Snacks,67.15,f71801c1-8ece-4217-ad9c-fabb5c198b61,Red,2024-04-29,2028-06-26,25 months,511,4.4,3728,1460,30
+prod-00169,Cabot Vermont Cheddar (169),Dairy,75.39,717a2402-0c6c-46ea-87c3-f9f3958268ca,Blue,2024-07-08,2025-12-29,22 months,692,4.2,2141,1676,0
+prod-00170,Silk Almond Milk (170),Dairy,82.14,69966d58-e096-4f98-b5bb-2383f4ccedfb,White,2022-09-20,2027-05-28,34 months,818,3.6,210,286,25
+prod-00171,Chobani Greek Yogurt (171),Dairy,48.17,69606289-1200-410c-9756-edf9c1918fad,Purple,2021-10-22,2025-04-21,17 months,54,3.1,4404,368,20
+prod-00172,Coca-Cola Classic 12-Pack (172),Beverages,43.68,29cf2368-ca3c-45c5-9075-e8cfef84818f,White,2019-11-21,2027-03-16,7 months,267,4.5,1865,1554,5
+prod-00173,Seedless Red Grapes (173),Fruits,88.33,de5a71de-481c-45e0-b068-014b719917e9,Yellow,2024-07-26,2026-03-26,10 months,552,3.4,1301,1662,5
+prod-00174,Ben & Jerry's Chocolate Fudge Brownie (174),Frozen Foods,30.69,0963405b-764b-442b-b269-28cf4a4943cb,Yellow,2023-03-24,2027-01-23,16 months,816,4.7,3078,222,20
+prod-00175,Hot Pockets Ham & Cheese (175),Frozen Foods,20.80,cf9a2d66-6914-44cd-af1e-a3fc72464beb,Purple,2023-01-20,2026-06-10,16 months,447,3.8,2572,651,5
+prod-00176,Nestle Pure Life Water 6-Pack (176),Beverages,26.46,20d1d99a-c636-4f17-8a40-1c211720e0de,Blue,2023-11-26,2026-04-30,23 months,920,4.2,2475,1342,20
+prod-00177,Pepperidge Farm Milano Cookies (177),Bakery,20.10,f2c2561a-4950-4bdc-b383-bbe75f419a48,Orange,2024-08-01,2026-07-22,27 months,844,4.7,110,1539,15
+prod-00178,Gatorade Lemon-Lime (178),Beverages,94.14,ad065ed7-df4b-441a-9261-505f76dfc441,Orange,2024-04-22,2026-01-16,9 months,442,4.7,2401,1889,0
+prod-00179,Navel Oranges (179),Fruits,57.11,688bca0a-02c8-45ec-b318-d6552be09407,Purple,2019-09-07,2028-05-22,15 months,256,3.7,1689,1309,20
+prod-00180,Carrots 2lb Bag (180),Vegetables,1.86,32a9ff81-7b2b-4ae9-b3d3-747b65133770,Green,2021-07-25,2026-03-23,15 months,64,3.4,1601,687,15
+prod-00181,Entenmann's Chocolate Donuts (181),Bakery,30.93,e646e61d-092c-48a3-bc94-d6921b54d442,Green,2019-12-28,2025-12-18,29 months,907,4.6,228,1687,20
+prod-00182,Coca-Cola Classic 12-Pack (182),Beverages,69.19,0a2e1931-334f-426f-a4f0-37a4a6560d49,Blue,2023-08-07,2028-07-15,35 months,603,3.9,3703,1328,15
+prod-00183,Cucumbers 2-Pack (183),Vegetables,4.99,11540048-e1bd-4466-a27a-6b7a5d6b4dd6,Yellow,2023-02-23,2028-10-20,19 months,941,3.4,4295,435,15
+prod-00184,Dole Pineapple Chunks (184),Fruits,85.83,5e57be98-2227-4130-8a7e-1da3614c3389,Yellow,2021-03-11,2028-04-07,11 months,510,4.8,389,1925,15
+prod-00185,Chobani Greek Yogurt (185),Dairy,27.07,dc7cd775-f15e-44b3-bda7-e387fd51a5ca,Red,2020-11-27,2026-07-23,8 months,740,3.4,1776,489,30
+prod-00186,Russet Potatoes 5lb (186),Vegetables,20.94,90551411-e480-48c8-9d12-cfd19e6d45b3,Purple,2022-02-10,2027-10-08,32 months,624,3.1,1944,403,0
+prod-00187,Kind Protein Bars (187),Snacks,22.78,6a0d7868-d24c-469e-b0ce-379b46712729,Yellow,2020-07-06,2027-05-20,17 months,913,3.0,3735,1013,30
+prod-00188,Gatorade Lemon-Lime (188),Beverages,17.70,2f1f26b9-580b-4568-95be-9dca0c1befbb,White,2020-07-01,2026-06-24,23 months,792,4.2,2793,948,20
+prod-00189,DiGiorno Pepperoni Pizza (189),Frozen Foods,84.77,4206e54b-1184-408f-830a-7ebf92f2beea,White,2022-02-16,2029-05-06,9 months,290,4.3,1927,1802,25
+prod-00190,Lay's Classic Potato Chips (190),Snacks,51.42,d4697ce4-6849-4449-85a2-00e5815820bd,Purple,2020-04-06,2027-12-30,12 months,613,3.6,4860,1635,30
+prod-00191,Doritos Nacho Cheese (191),Snacks,93.35,3ed05264-5de6-46dc-8fc9-b454b5d9484d,Green,2021-08-06,2029-07-07,30 months,145,3.6,1470,1898,20
+prod-00192,Bananas Bunch (192),Fruits,4.32,55ceb437-e55a-49da-bb5f-27f5a97f0d88,Green,2024-03-20,2025-08-06,21 months,949,3.7,4893,1897,20
+prod-00193,Navel Oranges (193),Fruits,54.99,6df63f01-49be-44a6-a42d-fe986a0b1956,White,2019-12-15,2026-10-22,14 months,783,4.4,3922,1071,15
+prod-00194,Yoplait Original Yogurt (194),Dairy,90.75,cc022365-2fdd-4122-b2a5-845b9a554f25,Orange,2021-09-17,2025-05-03,26 months,534,3.1,282,325,5
+prod-00195,Roma Tomatoes (195),Vegetables,51.74,cc6b8781-840d-420a-9de9-4d7dba4df4ff,Red,2022-12-07,2026-01-04,29 months,456,4.9,450,1944,5
+prod-00196,Starbucks Cold Brew (196),Beverages,8.31,164a3252-c7b1-49c0-aff8-19b6df519898,Orange,2022-06-17,2024-12-29,8 months,280,3.4,3686,612,20
+prod-00197,Marie Callender's Chicken Pot Pie (197),Frozen Foods,81.60,39706acb-294e-466c-81db-5ee0a92e0b7d,Red,2020-04-19,2026-07-05,31 months,798,5.0,1501,1109,5
+prod-00198,Roma Tomatoes (198),Vegetables,58.57,6b600728-4ca4-49b9-a988-9de18176c055,Orange,2023-07-28,2026-08-07,18 months,704,3.3,2855,128,25
+prod-00199,Kind Protein Bars (199),Snacks,58.98,36c7d4ae-40a0-4d07-8391-a48ba7692171,Black,2020-08-10,2026-09-12,17 months,220,4.5,4873,703,30
+prod-00200,Avocados 4-Pack (200),Fruits,76.01,02f934c8-9786-496a-a2fd-a5bd3b668f1d,White,2019-08-24,2027-04-23,15 months,590,3.4,2949,1064,5
+prod-00201,Sargento Shredded Cheddar (201),Dairy,69.77,fd37046c-3608-4033-af36-9e7bcc00a342,Purple,2022-01-21,2029-08-17,18 months,85,3.2,4535,1080,5
+prod-00202,Sargento Shredded Cheddar (202),Dairy,8.79,b0367c0f-3ad0-42bc-a901-d211df5cdf16,Green,2022-02-18,2025-06-27,30 months,574,4.7,3312,714,15
+prod-00203,Blueberries Pint (203),Fruits,28.03,dd300952-d6a6-49ad-95c5-04bb933f591d,Green,2020-04-23,2026-10-25,19 months,209,4.7,4306,1106,30
+prod-00204,Oroweat Whole Grain Bread (204),Bakery,5.15,7d467b43-1e72-4071-bca4-4f1557554d1a,Red,2022-10-24,2025-05-16,21 months,888,3.8,4067,1635,20
+prod-00205,Tropicana Orange Juice 1L (205),Beverages,39.97,d318f094-0e8b-4ef5-bc34-651425e03a37,Blue,2022-12-28,2025-06-04,17 months,748,4.4,4027,1112,30
+prod-00206,Strawberries 1lb (206),Fruits,83.69,b6759cd0-23f1-4c17-94ac-26ca2ada231b,Black,2024-02-26,2027-12-11,15 months,292,4.1,3529,1758,25
+prod-00207,Avocados 4-Pack (207),Fruits,31.47,516b1727-1762-49d5-9fd9-cf28898f4eac,Blue,2021-12-23,2025-03-11,8 months,135,4.7,3588,1737,30
+prod-00208,Doritos Nacho Cheese (208),Snacks,66.97,e3ea7e2e-34d1-4f7b-9155-5823824cf2b1,Red,2024-03-31,2028-01-15,13 months,845,3.6,1995,1477,25
+prod-00209,Tropicana Orange Juice 1L (209),Beverages,17.07,e54cda9b-85f7-4aa4-9082-daeb5a651f2f,Red,2022-01-22,2025-06-11,16 months,627,4.0,3008,824,30
+prod-00210,Starbucks Cold Brew (210),Beverages,8.11,7a594d57-0f3b-43d1-a5a3-6a219ec0d85e,White,2020-06-13,2026-10-23,14 months,731,4.0,1511,571,30
+prod-00211,Carrots 2lb Bag (211),Vegetables,58.99,851cad5d-a791-4354-8130-4385942d8d7b,Red,2022-10-02,2029-05-30,6 months,606,3.7,3482,788,20
+prod-00212,Cabot Vermont Cheddar (212),Dairy,99.72,7157e763-b74d-4390-8fa2-763656751a91,Green,2024-05-11,2027-01-27,15 months,623,4.8,2043,414,25
+prod-00213,Land O'Lakes Butter (213),Dairy,53.18,935d0591-5f11-497c-bdfb-f0c613bf33cd,Blue,2023-05-13,2027-11-07,11 months,695,3.3,4099,1008,10
+prod-00214,Marie Callender's Chicken Pot Pie (214),Frozen Foods,17.73,c34ed366-9e90-44e6-ab34-7ac5209532fc,Red,2020-04-13,2025-01-14,23 months,845,3.3,3218,656,10
+prod-00215,Red Bull Energy Drink (215),Beverages,96.55,5816bf2e-3da0-4be0-8aef-e4b6a13b8d94,Green,2022-06-21,2027-01-17,25 months,77,4.2,755,1041,5
+prod-00216,Nestle Pure Life Water 6-Pack (216),Beverages,95.73,fed12e03-8dd0-4e58-b823-748a565dd4a0,Orange,2020-09-07,2026-09-04,27 months,669,4.3,449,378,30
+prod-00217,Sweet Potatoes (217),Vegetables,38.43,431d5560-267e-4b28-a078-6cab068e4e90,Red,2023-12-29,2028-07-11,36 months,605,3.4,4098,1411,20
+prod-00218,Oreo Double Stuf Cookies (218),Snacks,48.31,c9595133-9201-48d2-afad-0263b11e14bf,Orange,2021-11-22,2027-01-29,18 months,389,3.8,1243,939,5
+prod-00219,King's Hawaiian Rolls (219),Bakery,81.41,c0d212c3-9520-4a50-a538-c9e5bd5f9a52,Blue,2023-02-19,2028-04-11,17 months,847,4.9,497,466,15
+prod-00220,Sara Lee Honey Wheat Bread (220),Bakery,42.13,0f359688-ca61-4c0e-9c54-6ddf4dbb0673,Orange,2021-05-09,2028-05-24,24 months,380,3.5,745,430,20
+prod-00221,Oroweat Whole Grain Bread (221),Bakery,71.41,4bfb2cbb-7186-41f3-8749-57238f8e81eb,Black,2021-01-30,2027-11-22,7 months,689,4.3,4608,496,25
+prod-00222,Sargento Shredded Cheddar (222),Dairy,30.08,dfe84a3e-eb2d-4e59-9260-769296699014,Red,2022-05-17,2029-05-07,29 months,555,4.5,4232,1944,15
+prod-00223,Dole Pineapple Chunks (223),Fruits,62.37,ae982197-1db4-496b-add9-926aad8097ac,White,2022-11-04,2028-10-12,15 months,397,3.9,2334,887,15
+prod-00224,Kind Protein Bars (224),Snacks,58.88,a88d2d9e-3cf8-48da-b5db-27b2d4f8a766,Orange,2021-11-23,2025-08-16,13 months,522,4.9,4615,484,20
+prod-00225,Nestle Pure Life Water 6-Pack (225),Beverages,51.14,9dfc91c4-4498-4428-a462-27be097409ea,Yellow,2024-01-24,2029-01-23,15 months,280,4.5,2872,1948,5
+prod-00226,Dole Pineapple Chunks (226),Fruits,77.92,9f6c115a-bee3-4323-a2d4-ffa8404cfc2c,Orange,2023-06-07,2026-01-26,22 months,239,3.9,1583,1701,10
+prod-00227,Cabot Vermont Cheddar (227),Dairy,27.27,35ae0ea3-f941-43e2-9e7f-efbc9bddf1e8,White,2020-03-23,2027-01-18,34 months,274,4.1,2334,1634,5
+prod-00228,Navel Oranges (228),Fruits,17.89,c81fb901-b7df-47df-a083-76822ff1f787,Purple,2020-01-21,2026-11-01,26 months,434,4.4,2083,657,10
+prod-00229,Entenmann's Chocolate Donuts (229),Bakery,77.72,582f1ae7-75f3-4df0-ace9-56860611616c,Red,2021-08-30,2028-11-03,24 months,426,4.2,2062,1153,0
+prod-00230,Chobani Greek Yogurt (230),Dairy,17.75,48cf298b-b920-4005-beb2-0f05660bd67f,Orange,2024-07-06,2026-12-27,16 months,332,4.8,909,1320,10
+prod-00231,Cucumbers 2-Pack (231),Vegetables,96.39,9d58cd14-f282-4f82-b368-db141dc42b3d,Red,2024-04-24,2029-07-26,24 months,682,3.7,3296,362,20
+prod-00232,Organic Gala Apples (232),Fruits,44.90,bf7d0125-9b92-425b-a25e-381978de47b5,White,2021-01-08,2025-02-06,24 months,677,3.6,4515,507,10
+prod-00233,Oreo Double Stuf Cookies (233),Snacks,86.55,b9fb0d7f-673a-4a87-9bf7-3232ef8c3fd9,Yellow,2022-05-02,2027-03-26,19 months,794,3.4,613,1218,0
+prod-00234,Doritos Nacho Cheese (234),Snacks,35.33,4340bc85-e470-4dbf-9182-d1e57975dc3c,Black,2023-11-05,2025-09-09,35 months,308,3.1,433,1043,25
+prod-00235,Lay's Classic Potato Chips (235),Snacks,10.23,6b97e7fa-1973-41e4-8b6d-5e18e6f88f1b,Yellow,2021-02-06,2027-07-24,19 months,408,3.1,2612,1089,25
+prod-00236,Navel Oranges (236),Fruits,43.92,13b50317-195e-4887-ade6-fda74282b926,Blue,2021-08-03,2028-01-04,16 months,759,4.7,4195,1166,10
+prod-00237,Coca-Cola Classic 12-Pack (237),Beverages,79.45,26f6a67e-3ec4-45b4-b0b3-d04dc0c60ed9,Red,2022-07-06,2029-04-25,17 months,505,4.4,4919,1885,5
+prod-00238,Stouffer's Lasagna (238),Frozen Foods,55.92,9f347bca-9840-4c4b-9421-6f475bf189d7,Green,2021-05-30,2027-01-22,30 months,460,4.3,107,946,10
+prod-00239,Popcorners Kettle Corn (239),Snacks,79.33,0d6e5dcb-f570-4779-b429-cee6895ef7d0,White,2021-05-15,2024-11-08,6 months,698,4.2,2103,1159,20
+prod-00240,Thomas' English Muffins (240),Bakery,41.75,d6b33c2a-5351-4e1a-bc95-a275314b4d91,Yellow,2020-12-24,2025-04-23,36 months,367,4.7,4359,1581,20
+prod-00241,Sargento Shredded Cheddar (241),Dairy,70.44,b1f64045-a764-4126-863a-3a86283dc906,Yellow,2020-12-05,2027-05-11,15 months,726,4.0,4976,1252,15
+prod-00242,Doritos Nacho Cheese (242),Snacks,13.37,b09ca806-2337-4a60-b016-c2524b235c67,White,2022-12-07,2026-11-21,34 months,274,4.7,2228,1642,5
+prod-00243,Birds Eye Steamfresh Broccoli (243),Frozen Foods,63.66,155b3758-5ede-4d23-8652-13ccaf13b431,Black,2023-12-13,2026-04-16,18 months,868,3.7,1398,1167,5
+prod-00244,Ben & Jerry's Chocolate Fudge Brownie (244),Frozen Foods,24.08,7d8d3830-a3dd-4dac-b13b-617e13f02f41,White,2021-06-18,2027-04-03,6 months,283,4.9,3046,1184,10
+prod-00245,Hot Pockets Ham & Cheese (245),Frozen Foods,38.77,d3120ec4-0adf-41f3-b242-fdcc98dc1067,Green,2023-05-18,2025-04-13,24 months,733,4.4,1944,1661,10
+prod-00246,Oroweat Whole Grain Bread (246),Bakery,46.37,796fa328-63f3-4134-ba86-8acdbeedcb2e,Yellow,2021-02-22,2027-04-23,18 months,713,3.5,3711,1486,20
+prod-00247,Entenmann's Chocolate Donuts (247),Bakery,11.67,2ddd63e8-0f27-4b23-ac43-b66c2bde9a6a,Yellow,2020-07-03,2028-05-14,15 months,876,4.1,3165,974,15
+prod-00248,Red Bell Peppers (248),Vegetables,35.74,9a5d3392-3cf3-4d2c-9cd2-5930e401c755,Yellow,2020-06-21,2026-06-19,15 months,423,4.1,1202,1244,0
+prod-00249,Marie Callender's Chicken Pot Pie (249),Frozen Foods,33.54,fd733af7-0312-45f0-8b93-122d2830b3dc,Purple,2024-06-08,2025-07-09,12 months,721,3.3,779,596,10
+prod-00250,Kind Protein Bars (250),Snacks,37.80,46f54ec9-5b4f-4fc7-a4f9-d6874e725cc8,Black,2023-08-29,2028-10-19,12 months,657,4.2,4633,257,5
+prod-00251,Organic Baby Spinach (251),Vegetables,96.55,40c6e740-4c6e-4138-9be7-d1b8cf554cb0,Green,2021-01-20,2027-08-23,32 months,521,3.6,3469,1380,25
+prod-00252,Sara Lee Honey Wheat Bread (252),Bakery,80.27,1aeb74bf-81a9-458d-bf97-527de1d3ab30,Black,2023-10-31,2026-06-06,14 months,282,3.1,4147,1698,10
+prod-00253,DiGiorno Pepperoni Pizza (253),Frozen Foods,50.02,e763ea21-dd95-42df-b277-90123fa66dca,Yellow,2019-11-08,2027-02-22,12 months,741,4.9,2923,370,30
+prod-00254,Marie Callender's Chicken Pot Pie (254),Frozen Foods,13.81,b6516583-a023-4526-bdae-4d0c26e390a4,Purple,2024-04-18,2027-07-18,33 months,162,4.3,109,1434,15
+prod-00255,Lipton Green Tea (255),Beverages,54.38,995a5fa9-0425-4c99-b71c-3854d1c9be51,Orange,2021-09-13,2028-05-09,35 months,879,4.8,4353,412,5
+prod-00256,Cucumbers 2-Pack (256),Vegetables,59.69,92e371b6-1872-4ed2-9f05-e3a8b7e827ba,Orange,2023-06-17,2026-02-08,31 months,546,4.4,2931,1240,25
+prod-00257,Yoplait Original Yogurt (257),Dairy,36.87,58cb9f29-ea74-46b1-9ce0-bc539de1d34e,Yellow,2024-01-21,2029-06-15,8 months,491,3.7,4047,1911,25
+prod-00258,Lay's Classic Potato Chips (258),Snacks,95.12,cece8500-199c-46a8-b51d-a713dafe05d7,Green,2023-12-26,2027-10-12,6 months,613,4.0,4316,444,15
+prod-00259,Pepperidge Farm Milano Cookies (259),Bakery,40.71,1f63ed3f-6395-49b3-83a8-6bf6437b5ba2,Orange,2023-09-13,2027-02-07,33 months,317,4.4,2286,1301,5
+prod-00260,Organic Baby Spinach (260),Vegetables,88.26,aa5773c9-5fdc-4d4e-bcd4-91ec1b0a5e33,Yellow,2023-09-06,2026-09-24,11 months,559,4.9,773,216,10
+prod-00261,Carrots 2lb Bag (261),Vegetables,10.24,de9dc69b-33ca-44d2-ba64-f0159f185335,Black,2021-03-30,2024-09-11,34 months,856,3.5,2127,1799,15
+prod-00262,Broccoli Crowns (262),Vegetables,16.06,fabfb9af-5ba8-4c13-846b-756087711744,Red,2024-02-11,2027-06-07,8 months,435,4.7,1556,1120,20
+prod-00263,Pepperidge Farm Milano Cookies (263),Bakery,33.49,7b1df982-5089-4c3c-8a31-d2f296db8e75,Yellow,2023-05-12,2027-12-28,15 months,436,4.8,143,1878,5
+prod-00264,Seedless Red Grapes (264),Fruits,97.28,50575294-10cc-459c-959e-b6fc258eec5e,Blue,2020-09-20,2025-03-07,33 months,162,4.3,4293,1288,15
+prod-00265,Chobani Greek Yogurt (265),Dairy,99.18,69668de7-3fa5-4c65-b6df-7ed980c65ec9,Blue,2019-11-30,2028-06-16,18 months,662,4.9,3709,273,15
+prod-00266,Ben & Jerry's Chocolate Fudge Brownie (266),Frozen Foods,44.38,996d2f91-18e2-41c1-872e-f777ea32ecb5,Green,2020-06-05,2026-07-28,25 months,674,3.8,1994,1754,0
+prod-00267,Birds Eye Steamfresh Broccoli (267),Frozen Foods,7.83,b245f0ae-3df7-41c8-ba19-829cc88823f9,White,2022-10-30,2025-10-28,33 months,130,4.9,3881,848,0
+prod-00268,Seedless Red Grapes (268),Fruits,84.64,08e3f289-7086-45ae-a98a-11ff4a22c7df,White,2022-02-07,2024-11-26,13 months,748,4.4,2386,254,25
+prod-00269,DiGiorno Pepperoni Pizza (269),Frozen Foods,57.21,149620d0-a5ba-4413-89fe-a1255de43473,Black,2021-07-20,2029-05-06,7 months,162,3.1,4670,1782,10
+prod-00270,Birds Eye Steamfresh Broccoli (270),Frozen Foods,96.41,68637a42-5f2b-4d84-9cf1-5d00f346952a,Blue,2022-12-14,2027-08-28,8 months,51,4.8,2671,694,20
+prod-00271,Avocados 4-Pack (271),Fruits,32.68,b3dba50a-201f-4e37-b3a7-0b5240a66416,Red,2022-11-30,2029-08-13,29 months,691,4.0,1515,1907,20
+prod-00272,Marie Callender's Chicken Pot Pie (272),Frozen Foods,56.78,7b5d3c7d-08d8-41d2-a5bc-a28691aa4c87,Black,2023-02-11,2025-03-02,12 months,269,3.9,108,1633,15
+prod-00273,Philadelphia Cream Cheese (273),Dairy,41.83,3c29c2b6-ff55-4107-89c4-80b347324c8c,White,2021-03-19,2029-01-22,24 months,615,4.1,1962,409,15
+prod-00274,Birds Eye Steamfresh Broccoli (274),Frozen Foods,65.46,e6f1be76-849a-4af5-8b03-7e7ecb05d390,Blue,2024-04-05,2028-02-07,11 months,904,3.3,1333,1848,30
+prod-00275,Birds Eye Steamfresh Broccoli (275),Frozen Foods,54.45,fc089ff3-d350-44e5-a451-511d8f6f64ef,Red,2023-09-02,2029-03-20,22 months,785,3.9,3225,1860,25
+prod-00276,Pepperidge Farm Milano Cookies (276),Bakery,90.05,68c3eec6-34b7-4612-97a4-975de2502777,Yellow,2024-08-20,2026-08-12,32 months,274,4.7,4811,333,15
+prod-00277,Pepperidge Farm Milano Cookies (277),Bakery,21.91,5f6c979c-6bf0-4c2d-bb62-6bbe67b77ca2,Yellow,2023-04-30,2025-10-15,15 months,434,3.0,2557,1474,5
+prod-00278,Carrots 2lb Bag (278),Vegetables,84.02,0a18f4fa-934f-44df-b137-4e4138122d6c,Orange,2022-08-21,2026-10-26,33 months,452,3.5,109,261,10
+prod-00279,Pringles Sour Cream & Onion (279),Snacks,16.74,8b55b609-d5ce-4d85-9715-9d48407e5cfb,Black,2020-10-15,2028-12-07,16 months,687,3.0,3104,1714,10
+prod-00280,Lipton Green Tea (280),Beverages,97.91,54d4850c-8ba6-4b05-9aa9-4931e8ff3925,Purple,2023-01-23,2027-01-16,22 months,179,3.8,4747,790,0
+prod-00281,Nature Valley Granola Bars (281),Snacks,21.20,e982bd0e-32e7-4310-b441-bb404ddd7207,White,2022-08-28,2024-12-19,19 months,102,4.5,367,391,25
+prod-00282,Carrots 2lb Bag (282),Vegetables,49.09,2972122f-8a1c-49b8-bb28-bc1fe4f7046f,Green,2021-02-04,2026-10-24,33 months,733,4.6,3961,226,15
+prod-00283,Nature Valley Granola Bars (283),Snacks,48.74,d4c67ded-607d-423c-b7f2-0f66f5a83854,Blue,2023-02-21,2029-02-22,24 months,779,4.9,2814,792,15
+prod-00284,DiGiorno Pepperoni Pizza (284),Frozen Foods,45.50,ceeaa8ff-ac03-4c95-a1e6-814f348df8a9,Purple,2021-08-10,2025-02-15,16 months,721,4.2,4646,701,5
+prod-00285,Lay's Classic Potato Chips (285),Snacks,98.17,d4a81876-3afe-4a4e-b6b2-56ed8005e2c7,Black,2022-06-14,2029-06-19,20 months,759,3.5,2741,1217,15
+prod-00286,Seedless Red Grapes (286),Fruits,21.89,18fff6af-5edf-42ab-b7ea-8a6dbb188d5b,White,2023-11-24,2025-12-03,23 months,465,4.8,3906,1569,15
+prod-00287,Horizon Organic Whole Milk (287),Dairy,90.65,a9dd5ed0-d87c-48b1-9f94-9e338388d5ef,Green,2021-07-18,2027-09-07,7 months,296,4.6,1491,1212,10
+prod-00288,Ben & Jerry's Chocolate Fudge Brownie (288),Frozen Foods,23.95,27d6d73a-abc9-497a-864a-579e4cec0b28,Black,2023-05-26,2024-09-05,27 months,885,4.1,1182,487,30
+prod-00289,Cabot Vermont Cheddar (289),Dairy,62.74,18d75693-0cd2-4664-b0b9-1c859fc99e41,Black,2020-07-19,2028-10-27,16 months,488,4.4,393,879,15
+prod-00290,Bananas Bunch (290),Fruits,55.36,c59af9ce-7dd1-49f5-9bdd-772691e7856a,Blue,2023-06-29,2025-04-02,33 months,252,4.8,4179,348,25
+prod-00291,Lipton Green Tea (291),Beverages,75.25,5cec6664-c1ae-4b28-8349-3595075c067f,Red,2023-10-08,2029-07-27,32 months,233,4.4,2935,280,5
+prod-00292,Ben & Jerry's Chocolate Fudge Brownie (292),Frozen Foods,72.07,30262bc7-7539-416f-9ecf-ee38c1582ac7,Black,2022-11-06,2027-03-16,20 months,172,3.7,4305,1184,5
+prod-00293,Pringles Sour Cream & Onion (293),Snacks,74.49,ec364f99-3d86-407f-bd55-0a150c6bf754,Orange,2023-01-01,2025-09-11,18 months,450,4.4,2254,1270,20
+prod-00294,Silk Almond Milk (294),Dairy,39.96,beca9de9-3a1d-4514-a2d1-71b08797c4c6,Black,2022-01-11,2029-04-02,19 months,816,3.1,2444,1754,20
+prod-00295,Starbucks Cold Brew (295),Beverages,32.08,24c2c2a0-3bcd-4cc5-9c5a-7951d751c9d5,Yellow,2023-04-07,2027-05-07,23 months,343,3.8,4023,795,0
+prod-00296,Nature Valley Granola Bars (296),Snacks,7.26,ce1544ea-a99a-48bb-9953-843aa98b344d,Orange,2019-11-30,2027-09-06,31 months,329,3.8,1954,1900,5
+prod-00297,Broccoli Crowns (297),Vegetables,35.78,bee3dc85-58e6-4ef2-90d8-acd63b0dc6fe,Black,2022-03-06,2027-10-04,25 months,886,3.3,3968,380,25
+prod-00298,DiGiorno Pepperoni Pizza (298),Frozen Foods,27.06,d394b9a8-6ca9-4308-bf1c-66c9febf5a9c,Black,2020-04-02,2024-09-09,27 months,933,3.0,3890,1689,5
+prod-00299,Popcorners Kettle Corn (299),Snacks,43.86,91dd65d8-2e4c-4ef3-bcb6-83dc4bee85eb,Orange,2021-04-05,2027-12-19,33 months,659,3.3,3132,1235,25
+prod-00300,Dole Pineapple Chunks (300),Fruits,75.92,d2763fd2-65d7-4987-919d-5e2da34b1465,Orange,2020-01-10,2028-06-02,18 months,247,4.3,944,1810,25
+prod-00301,Oreo Double Stuf Cookies (301),Snacks,94.90,786b71f3-ac58-4e4b-8be6-8c58cfa1fa8b,White,2024-06-17,2025-10-17,17 months,956,4.6,1807,396,10
+prod-00302,Oreo Double Stuf Cookies (302),Snacks,12.12,45051a30-d437-4638-941d-5f875d0e89b8,Purple,2023-12-08,2025-10-19,12 months,560,5.0,2107,790,20
+prod-00303,Kind Protein Bars (303),Snacks,22.11,5c90737a-c5e5-4dc7-ae4b-b7b476834546,Purple,2021-09-22,2027-03-23,31 months,801,3.7,1373,661,25
+prod-00304,Cabot Vermont Cheddar (304),Dairy,48.87,ca293061-6528-4017-bd22-81df9be8c80e,Orange,2023-06-23,2025-08-07,6 months,193,4.2,4534,1240,30
+prod-00305,Pepsi Zero Sugar (305),Beverages,38.99,a57171b2-4ab3-4750-bb57-8f37efd72743,Purple,2024-04-28,2026-05-22,21 months,658,4.9,2204,1150,0
+prod-00306,Red Bull Energy Drink (306),Beverages,26.60,52ae22b4-ecfd-493d-be5a-56bc4ea5ee3a,Purple,2024-05-15,2028-02-03,23 months,250,3.3,3067,1555,10
+prod-00307,Philadelphia Cream Cheese (307),Dairy,52.50,fd8d717a-84c4-4400-9260-279f01dc8aa3,Black,2021-11-27,2025-02-20,29 months,173,4.4,4342,410,25
+prod-00308,Dave's Killer Bread (308),Bakery,8.40,97ad9dd3-b4df-4ee0-a174-c76c14d5cca6,Black,2024-06-22,2025-07-06,32 months,236,4.5,4941,1826,30
+prod-00309,Cabot Vermont Cheddar (309),Dairy,59.82,dd42b0b3-986b-482d-aa56-d9d21a7f46e6,Green,2020-12-11,2025-09-03,31 months,375,3.2,1312,974,30
+prod-00310,Cucumbers 2-Pack (310),Vegetables,98.01,2c7c5973-65ea-41ff-bfa3-37c99ea8902d,White,2019-10-27,2025-05-04,25 months,513,4.7,2395,489,10
+prod-00311,Russet Potatoes 5lb (311),Vegetables,72.57,e2d4ff91-ff67-47d8-8d1c-033f729564a7,Black,2023-05-19,2026-11-27,21 months,398,4.6,2297,1798,20
+prod-00312,Kind Protein Bars (312),Snacks,53.73,21610193-b675-42fc-bfb2-6ef3148f92d9,Purple,2024-04-28,2028-06-28,22 months,820,3.1,4909,1585,10
+prod-00313,Russet Potatoes 5lb (313),Vegetables,3.96,aba1d3ba-d72e-4b3d-85c6-b2a54c4236b9,Purple,2019-12-17,2025-03-02,29 months,709,3.2,3384,105,20
+prod-00314,Carrots 2lb Bag (314),Vegetables,45.68,ae0f039d-c27c-4354-bad4-9a841a7a4894,Red,2020-12-14,2028-03-15,25 months,813,3.1,2364,802,5
+prod-00315,Horizon Organic Whole Milk (315),Dairy,81.04,771a93d5-1aa7-4907-b56b-09bc5c6a13e4,Orange,2023-12-02,2027-02-26,6 months,981,3.7,1710,1110,5
+prod-00316,Sargento Shredded Cheddar (316),Dairy,63.47,4861cd28-2378-4108-9e09-db3dd6bcd070,Black,2023-12-10,2028-09-10,24 months,452,4.0,1518,629,20
+prod-00317,Sweet Potatoes (317),Vegetables,98.67,935ca938-423c-412e-9b3b-2e4a207d1435,Blue,2022-08-10,2024-09-26,25 months,395,4.1,1886,258,25
+prod-00318,Bananas Bunch (318),Fruits,53.04,8697e407-ad43-4ef5-b6e5-d4d004f1e2fb,Red,2022-07-07,2028-03-02,7 months,560,3.5,4499,1431,15
+prod-00319,Marie Callender's Chicken Pot Pie (319),Frozen Foods,50.00,530efe5e-b071-4fd2-b6ea-bdfe3e096eca,White,2022-04-01,2028-05-24,28 months,196,4.8,3582,1779,15
+prod-00320,Coca-Cola Classic 12-Pack (320),Beverages,11.67,4c7d1179-0f89-4904-b2fd-ecfb1d668f6e,Green,2022-05-16,2024-09-01,16 months,197,3.7,1977,1051,0
+prod-00321,Roma Tomatoes (321),Vegetables,82.28,fc976e67-6f45-4d72-acd9-cba902fadb3c,White,2020-11-23,2025-08-20,24 months,913,3.1,3007,1318,15
+prod-00322,Dole Pineapple Chunks (322),Fruits,91.03,7ec6196b-9333-4aa8-b235-df18b998903d,Purple,2023-05-09,2028-07-15,12 months,760,3.6,479,1602,0
+prod-00323,Marie Callender's Chicken Pot Pie (323),Frozen Foods,29.35,edffdd57-ab99-4036-abc0-d702f36bf29b,Black,2020-07-21,2025-11-14,35 months,869,4.1,3400,329,30
+prod-00324,Doritos Nacho Cheese (324),Snacks,67.70,26019282-4092-43d8-9f01-d0a7de4d5b2e,Black,2022-10-07,2027-02-17,21 months,538,3.8,793,1629,20
+prod-00325,Popcorners Kettle Corn (325),Snacks,4.44,3f82748e-26d9-4029-af0b-69bcb1163650,Yellow,2020-05-05,2027-07-04,18 months,978,3.5,3676,1825,25
+prod-00326,Doritos Nacho Cheese (326),Snacks,35.32,df13c4d2-6047-4e73-ad54-a8b6b91fe662,Orange,2023-01-29,2025-12-05,21 months,985,3.3,4245,1460,20
+prod-00327,King's Hawaiian Rolls (327),Bakery,71.96,c890d7e5-0ded-4b09-9da5-bba832e91390,Blue,2019-08-30,2026-02-12,14 months,689,4.6,1547,791,20
+prod-00328,Lipton Green Tea (328),Beverages,21.74,e19a41c5-a47d-45e7-bf71-5ac93d4c0748,Green,2023-09-16,2025-07-04,31 months,600,5.0,2490,232,0
+prod-00329,Cucumbers 2-Pack (329),Vegetables,55.14,c912b3e8-257f-4d98-8b8f-93349809124a,Yellow,2024-08-01,2027-06-20,17 months,387,3.7,1855,1048,10
+prod-00330,Sweet Potatoes (330),Vegetables,31.39,a2656bbc-f858-426b-b0c6-627f04e50491,Red,2024-07-08,2025-06-26,30 months,921,3.8,3184,1843,0
+prod-00331,Nature Valley Granola Bars (331),Snacks,67.98,3e827f9f-508e-4ca9-b51a-b1d1bd72133f,Black,2022-11-30,2025-03-04,27 months,690,4.2,1979,1780,25
+prod-00332,Organic Gala Apples (332),Fruits,94.58,51717c3a-5d29-46ec-af9d-181bcc5f4006,Red,2022-10-27,2025-08-08,29 months,828,4.4,2909,258,30
+prod-00333,Red Bull Energy Drink (333),Beverages,59.04,1e8826df-f1df-401d-8692-4b163c03dabe,Blue,2021-01-09,2028-11-12,10 months,522,3.8,947,1395,25
+prod-00334,Gatorade Lemon-Lime (334),Beverages,30.84,a7ad583c-5a9d-4ce2-b3f5-ebc870bc1fa3,Red,2024-07-01,2026-02-28,8 months,995,4.8,3071,632,30
+prod-00335,Cucumbers 2-Pack (335),Vegetables,50.03,45e712ce-ade5-4d11-85e9-23103f72e910,Blue,2020-05-17,2024-11-16,22 months,200,4.1,4161,780,10
+prod-00336,Lipton Green Tea (336),Beverages,68.45,0e9fb97f-d7f6-453d-923c-b3e19c0f1209,Red,2023-02-10,2026-11-16,11 months,464,3.9,1295,394,5
+prod-00337,Starbucks Cold Brew (337),Beverages,24.98,5843500e-aae3-410e-9a0a-e21a7223af41,White,2023-12-07,2026-04-05,7 months,347,4.3,1612,1928,5
+prod-00338,Silk Almond Milk (338),Dairy,74.76,607e7c42-9d6b-4169-9240-d42e50905c71,Purple,2020-04-25,2025-12-19,23 months,660,4.9,4002,1036,10
+prod-00339,Organic Baby Spinach (339),Vegetables,70.59,1ae7b7a3-77c5-42cc-abe0-7f833cbccd08,White,2024-03-04,2025-11-04,14 months,312,4.6,3420,920,30
+prod-00340,Organic Gala Apples (340),Fruits,94.50,74e5d535-f8c9-4661-a247-ff67cf4253d4,Purple,2024-04-10,2025-02-22,27 months,813,3.1,2557,1453,25
+prod-00341,Broccoli Crowns (341),Vegetables,11.51,fdbc91f4-1e33-4135-a280-f70eb0f67afc,Blue,2019-12-09,2027-04-11,12 months,193,3.7,3562,1923,30
+prod-00342,Pepperidge Farm Milano Cookies (342),Bakery,40.16,e89adae8-b91c-4f50-9f01-368c2b3bddcc,Purple,2024-05-05,2024-11-03,32 months,395,3.9,3550,380,10
+prod-00343,Navel Oranges (343),Fruits,5.46,b185f73b-ad89-4247-b3d0-71aebaa829a0,Orange,2024-01-15,2025-11-19,7 months,673,3.6,326,1560,30
+prod-00344,Nature Valley Granola Bars (344),Snacks,68.79,dc7277a4-6302-4211-9fb1-4877315f35da,Orange,2022-12-28,2027-10-13,20 months,621,4.4,1907,1187,15
+prod-00345,Marie Callender's Chicken Pot Pie (345),Frozen Foods,67.73,289a7e69-5e82-4643-83ed-2dcd134050a2,White,2021-12-12,2025-09-06,34 months,930,4.7,4408,458,10
+prod-00346,Doritos Nacho Cheese (346),Snacks,35.91,2447765f-361b-4116-9017-aff147c150dd,Green,2020-02-13,2025-10-30,18 months,51,4.5,518,1112,10
+prod-00347,Horizon Organic Whole Milk (347),Dairy,8.12,0c9917ec-594b-415b-8a34-58d7ba68fd18,White,2023-11-11,2029-01-08,17 months,946,5.0,1975,1352,20
+prod-00348,Kind Protein Bars (348),Snacks,39.94,b67716af-bf3d-4a7b-bc92-b5214424f05f,Orange,2024-05-03,2028-05-04,20 months,353,3.5,3255,1737,0
+prod-00349,Sweet Potatoes (349),Vegetables,40.25,47f0e823-2cc7-4688-9d7e-a05a85856fe3,Red,2024-07-20,2029-06-06,10 months,303,4.7,1018,1929,10
+prod-00350,Avocados 4-Pack (350),Fruits,27.47,918a3577-3c39-4fa1-aa47-05a5f059d1af,Purple,2020-09-20,2027-11-04,7 months,701,4.5,4972,1370,20
+prod-00351,Entenmann's Chocolate Donuts (351),Bakery,93.65,48d26893-6da4-42f6-b284-0bbfb3f12c72,Yellow,2023-10-17,2025-08-06,21 months,502,3.7,4154,1215,10
+prod-00352,Nestle Pure Life Water 6-Pack (352),Beverages,43.22,92d16780-8f5f-43a7-b899-144f0a39b8a4,Black,2020-09-09,2029-08-09,7 months,86,4.5,3918,946,15
+prod-00353,Lay's Classic Potato Chips (353),Snacks,91.20,49917f14-724f-493e-965d-41dc70c6d1dd,Orange,2021-04-18,2024-11-12,30 months,209,3.2,4371,747,10
+prod-00354,Dole Pineapple Chunks (354),Fruits,17.34,6969f3fc-1af2-4230-ba9a-bf25b0549ff4,White,2019-12-18,2026-12-27,14 months,58,4.6,2731,100,10
+prod-00355,Organic Gala Apples (355),Fruits,46.93,bfcc8901-9787-44aa-a082-2755473a467e,White,2019-11-10,2026-04-16,12 months,282,4.1,3774,414,20
+prod-00356,Lay's Classic Potato Chips (356),Snacks,11.76,8b2346de-fe73-4cc1-96ea-131639a20c98,Yellow,2024-07-21,2026-05-14,23 months,148,3.6,1445,1414,10
+prod-00357,Lipton Green Tea (357),Beverages,64.44,361da0c4-047f-4f80-bd4a-287143449889,Orange,2022-12-26,2024-10-20,18 months,708,4.3,4730,1369,20
+prod-00358,Marie Callender's Chicken Pot Pie (358),Frozen Foods,31.27,b67f790d-f3a0-4b80-bf02-0499ca405459,Purple,2022-05-15,2024-11-05,27 months,865,4.3,1929,1363,30
+prod-00359,Roma Tomatoes (359),Vegetables,25.27,0252e5d5-d94d-42e4-9d60-5626d48fb7c6,Purple,2023-10-03,2028-02-06,35 months,257,3.4,1763,580,0
+prod-00360,Strawberries 1lb (360),Fruits,13.56,3e498901-d370-4342-81f2-fb3d240ca83b,Blue,2023-07-31,2025-10-01,14 months,180,3.1,4519,1395,20
+prod-00361,Chobani Greek Yogurt (361),Dairy,64.24,561154a4-bfd9-4bb4-9baa-fcdc1a368156,Green,2020-10-03,2029-05-19,9 months,453,3.9,184,753,25
+prod-00362,Red Bell Peppers (362),Vegetables,61.71,370e82be-c87a-4316-aa9c-d0a78c21db5a,Black,2023-08-22,2026-12-22,33 months,201,4.1,3912,1640,30
+prod-00363,Ben & Jerry's Chocolate Fudge Brownie (363),Frozen Foods,4.15,3d153149-458e-4b82-9558-155b39667bd5,Green,2020-07-24,2027-06-11,26 months,103,4.8,986,947,0
+prod-00364,Lay's Classic Potato Chips (364),Snacks,77.60,e70fcc42-94dd-4d44-87dd-0421b2958419,White,2023-12-06,2026-11-24,14 months,169,4.9,3439,888,25
+prod-00365,Pringles Sour Cream & Onion (365),Snacks,21.01,1fc394b7-d703-4c1c-899a-f01d7f705201,Black,2019-10-30,2024-10-29,36 months,722,4.1,4307,413,10
+prod-00366,Stouffer's Lasagna (366),Frozen Foods,60.36,2c07a1f7-e6c9-42b8-be84-6910dd90c88e,Red,2023-07-20,2025-11-01,33 months,969,4.5,2775,1692,0
+prod-00367,Sargento Shredded Cheddar (367),Dairy,24.69,aca495ad-5103-41e8-a114-1198160b4c07,Purple,2022-11-29,2028-10-07,16 months,677,3.9,2897,238,5
+prod-00368,Nature Valley Granola Bars (368),Snacks,48.87,b690694f-b088-4b1d-8204-7228d9b7ac33,Blue,2021-01-20,2027-07-01,27 months,636,4.5,4247,597,25
+prod-00369,Oroweat Whole Grain Bread (369),Bakery,84.21,f3b14520-e119-45e7-8dcb-074faf561c5f,Red,2024-02-14,2025-03-29,19 months,674,3.4,2231,1450,5
+prod-00370,Lipton Green Tea (370),Beverages,55.67,c1a40d47-cf04-4340-b026-63dec24cbb43,Purple,2020-12-31,2028-01-12,31 months,469,3.7,3794,220,20
+prod-00371,Sargento Shredded Cheddar (371),Dairy,70.95,54299caf-6dfe-4f34-b903-e286f90a4835,Orange,2021-10-09,2026-11-10,25 months,471,4.3,2859,1515,15
+prod-00372,Lay's Classic Potato Chips (372),Snacks,40.71,2735a74b-9080-4a61-be54-5fad2a98b381,Blue,2020-03-29,2029-04-12,20 months,153,3.0,2878,564,10
+prod-00373,Seedless Red Grapes (373),Fruits,35.96,ed4c0705-cc9e-4704-8f3d-dbcb66971f49,White,2024-03-18,2027-09-26,7 months,901,4.4,840,1089,30
+prod-00374,Dole Pineapple Chunks (374),Fruits,93.68,a3e770fc-57f1-40e1-a0dd-467677d7f1b5,Yellow,2020-05-26,2025-11-08,18 months,303,4.7,2976,1009,25
+prod-00375,Tropicana Orange Juice 1L (375),Beverages,77.80,05d65aba-188c-4a73-a972-f13c6129a9b6,Red,2022-07-23,2027-03-24,9 months,276,3.8,4620,1300,30
+prod-00376,Blueberries Pint (376),Fruits,22.97,5401cc33-453a-4578-a089-9c6e9f354725,Red,2024-01-23,2028-06-28,16 months,161,3.9,1811,463,5
+prod-00377,Russet Potatoes 5lb (377),Vegetables,12.29,a09748e0-c284-49ec-9d84-ffce9bf2b4c9,Orange,2020-07-23,2024-10-19,26 months,559,4.7,155,1621,15
+prod-00378,Popcorners Kettle Corn (378),Snacks,36.90,fd43ee6d-dcdf-4cde-ad28-de69b22628da,Red,2021-10-18,2028-01-17,8 months,522,4.6,3462,260,20
+prod-00379,Sweet Potatoes (379),Vegetables,80.25,3ca4490d-aa94-4527-b32d-c165b4fe7f24,Black,2022-05-19,2026-02-08,26 months,148,3.6,2959,763,0
+prod-00380,Lay's Classic Potato Chips (380),Snacks,71.42,7a983a00-8f9c-4b51-93dc-acd584099ddb,Blue,2024-06-15,2029-02-19,23 months,202,3.6,906,1066,10
+prod-00381,Hot Pockets Ham & Cheese (381),Frozen Foods,93.63,20c89cb1-1a24-4f5f-9587-959af05c20ea,Purple,2021-10-26,2025-04-10,29 months,910,4.4,3156,649,25
+prod-00382,Popcorners Kettle Corn (382),Snacks,60.43,169443cf-878b-44c5-ab5e-71c5fc445ba1,Red,2021-05-30,2027-08-15,12 months,963,4.1,4850,1458,0
+prod-00383,Thomas' English Muffins (383),Bakery,34.42,d9e03ee6-c1e3-47c3-810e-8131941e9f7c,Red,2021-06-03,2028-09-13,9 months,945,3.3,1106,1173,10
+prod-00384,Birds Eye Steamfresh Broccoli (384),Frozen Foods,85.79,47fb44d8-30eb-48b1-8988-df0466063a91,Blue,2022-06-21,2028-07-12,36 months,927,3.6,4203,846,5
+prod-00385,Cabot Vermont Cheddar (385),Dairy,73.32,7f04447e-1436-43d8-991d-63f9ebbd696d,Black,2022-02-14,2027-02-16,8 months,387,4.8,1881,188,15
+prod-00386,Wonder Bread Classic White (386),Bakery,62.83,5f04154f-fa54-4bac-a3ec-d25a0b7e8b1c,Orange,2022-04-04,2026-08-20,17 months,755,4.4,1089,1699,20
+prod-00387,Organic Baby Spinach (387),Vegetables,12.09,8f6886b1-efb3-4d68-b5c9-001e143b5127,Purple,2024-07-08,2024-11-19,7 months,871,5.0,4033,992,10
+prod-00388,DiGiorno Pepperoni Pizza (388),Frozen Foods,16.43,fddd42fb-98d5-48be-9ab2-99b9a8c4bf61,Black,2020-03-27,2027-01-15,22 months,212,4.5,3264,820,5
+prod-00389,Hot Pockets Ham & Cheese (389),Frozen Foods,37.24,0f990f28-f714-4463-a783-dcebfc186a14,Orange,2023-08-04,2026-05-25,12 months,769,4.9,3469,1348,25
+prod-00390,Popcorners Kettle Corn (390),Snacks,75.14,37568902-1688-42fc-bf38-8c7c42c24980,Orange,2023-10-21,2025-11-11,20 months,730,3.4,2178,485,20
+prod-00391,Land O'Lakes Butter (391),Dairy,85.40,a7e8fa75-eb89-407a-bdb0-a2f52639401a,Green,2020-06-04,2025-03-19,13 months,210,4.5,477,1290,10
+prod-00392,Ben & Jerry's Chocolate Fudge Brownie (392),Frozen Foods,63.36,0741c6e7-8ede-4a34-8d73-cb152dd75ff0,Red,2021-12-20,2028-11-20,30 months,629,3.0,2477,1837,30
+prod-00393,Broccoli Crowns (393),Vegetables,13.59,d136f598-bd2e-42b2-be08-1e49b1cf656d,Purple,2022-07-22,2025-06-15,16 months,850,4.3,381,753,5
+prod-00394,Avocados 4-Pack (394),Fruits,13.57,5f71a1c3-c192-49b9-941a-82140051406b,Yellow,2022-02-22,2024-10-03,9 months,447,3.9,4834,436,20
+prod-00395,Marie Callender's Chicken Pot Pie (395),Frozen Foods,98.91,607eff50-8ef0-49e0-8077-6735fdca9a73,Yellow,2024-08-20,2025-12-18,21 months,326,3.7,3019,689,0
+prod-00396,Philadelphia Cream Cheese (396),Dairy,24.64,57eb2173-c04d-444a-a4a9-27b9691338de,Green,2024-07-28,2025-05-25,20 months,865,4.7,4264,534,30
+prod-00397,Red Bell Peppers (397),Vegetables,67.89,6d03365f-2180-4a70-b82c-77e7374742ea,Red,2022-05-13,2027-07-28,25 months,965,4.7,3694,1645,15
+prod-00398,Coca-Cola Classic 12-Pack (398),Beverages,36.01,f9aaae9b-de55-4617-8939-ece1e06c955e,Yellow,2022-03-14,2026-05-20,34 months,553,3.0,1938,1371,15
+prod-00399,Sara Lee Honey Wheat Bread (399),Bakery,29.28,df7f684b-0569-4c5a-be4b-8386193bc767,Orange,2023-07-13,2028-06-24,36 months,945,4.2,4532,1167,25
+prod-00400,Navel Oranges (400),Fruits,50.30,14a2e6c4-d088-4d58-823b-97c6a6447b1a,Red,2020-11-24,2026-04-10,11 months,441,3.7,2992,586,30
+prod-00401,Russet Potatoes 5lb (401),Vegetables,17.95,2fb47ddc-00e6-48c8-ab53-25ee59baa112,Purple,2023-01-16,2025-01-14,34 months,184,3.8,314,1931,30
+prod-00402,Roma Tomatoes (402),Vegetables,96.58,6e3cc2e5-de44-44ee-a54e-291d14076301,Blue,2021-10-11,2029-06-01,28 months,244,4.7,4830,1600,25
+prod-00403,Red Bull Energy Drink (403),Beverages,17.21,9d4f3ebb-abd6-4434-a452-b171d29904ec,White,2023-12-16,2027-12-26,27 months,450,3.6,4618,208,0
+prod-00404,Pringles Sour Cream & Onion (404),Snacks,11.56,252ac0f4-b0a6-4321-b319-6b8e43c654a9,Orange,2020-11-12,2025-06-23,28 months,689,4.9,2220,799,15
+prod-00405,Organic Gala Apples (405),Fruits,43.97,8d231f60-55b1-4102-9a31-dca2e6f33b9d,Blue,2020-08-17,2025-04-13,28 months,82,3.4,3893,1193,15
+prod-00406,King's Hawaiian Rolls (406),Bakery,39.27,8d6fdd59-8e95-48c0-b1c7-4042dd1c2bde,White,2022-03-04,2028-12-21,22 months,737,4.3,2970,1867,10
+prod-00407,Hot Pockets Ham & Cheese (407),Frozen Foods,13.74,072e4cae-9645-437c-87f6-c883ea1cb653,Yellow,2022-06-21,2028-11-28,30 months,509,4.3,885,642,5
+prod-00408,Horizon Organic Whole Milk (408),Dairy,13.79,f0bd4a9d-8d2e-41ae-9f31-2d606ae1ff6a,Purple,2023-07-27,2027-08-30,15 months,932,3.5,1037,904,0
+prod-00409,Red Bull Energy Drink (409),Beverages,20.94,d31070a6-6063-4bd9-b966-8d3d8061ddf6,Black,2020-05-01,2025-08-28,13 months,519,3.6,1789,1821,25
+prod-00410,Broccoli Crowns (410),Vegetables,98.76,775d96ae-eb61-432a-be22-c07b01d4b184,Blue,2022-04-15,2026-05-06,16 months,424,4.7,3811,782,5
+prod-00411,Lipton Green Tea (411),Beverages,65.54,c3c47261-1533-4dd5-bcee-e17f5270fb16,Yellow,2019-10-31,2025-06-07,15 months,71,4.5,1356,1232,15
+prod-00412,Wonder Bread Classic White (412),Bakery,72.91,87b801cc-2bfb-4242-a7f2-7019e1b70025,Green,2020-02-16,2027-10-04,6 months,799,3.7,3212,708,5
+prod-00413,Strawberries 1lb (413),Fruits,62.78,a22c342e-a927-4b5b-827a-64d5967fd30f,Green,2022-12-18,2029-04-04,11 months,719,4.1,4634,938,20
+prod-00414,Wonder Bread Classic White (414),Bakery,36.68,456a8f2d-6629-4619-9cf0-8004d174361d,Yellow,2023-12-05,2025-06-03,36 months,87,3.1,1437,649,0
+prod-00415,Popcorners Kettle Corn (415),Snacks,57.23,6e237c1c-2e15-43a4-b317-d6865a5e8009,Blue,2020-01-03,2028-06-22,24 months,279,3.4,369,363,0
+prod-00416,Sara Lee Honey Wheat Bread (416),Bakery,66.15,2ffc8c7e-feee-4354-bd85-d2caac042953,Red,2023-11-28,2028-05-16,31 months,414,4.0,1590,389,30
+prod-00417,Wonder Bread Classic White (417),Bakery,68.84,14ba3db9-6932-4941-953f-e6c1395c6e19,Purple,2022-06-19,2027-12-06,31 months,612,3.2,2221,244,30
+prod-00418,Philadelphia Cream Cheese (418),Dairy,60.53,e4864452-88ee-409b-acac-ab1ceed4b277,Red,2019-09-11,2025-03-03,34 months,487,4.7,1780,628,0
+prod-00419,Green Giant Cauliflower Rice (419),Frozen Foods,41.60,6f93a4ff-073e-4919-9eee-927592f13303,Red,2022-01-29,2028-11-29,22 months,825,4.4,4869,193,10
+prod-00420,Ben & Jerry's Chocolate Fudge Brownie (420),Frozen Foods,57.90,1bcf787a-fa19-46c3-971e-4378c75b34d6,Blue,2020-11-07,2025-06-21,23 months,332,4.9,3953,437,5
+prod-00421,Land O'Lakes Butter (421),Dairy,70.87,2752d61c-7569-4e84-8989-2f9e6ef43315,Orange,2023-06-05,2027-04-22,19 months,76,4.4,509,1688,5
+prod-00422,Pringles Sour Cream & Onion (422),Snacks,1.42,82b0836b-8298-42cd-9e59-0cbff01f4d6b,Purple,2020-07-25,2026-02-15,29 months,275,4.9,1541,1098,25
+prod-00423,Carrots 2lb Bag (423),Vegetables,43.55,b160afff-4cd5-4f55-a8ad-4b3b1179552b,Black,2020-03-08,2026-12-21,36 months,326,4.1,2358,1955,10
+prod-00424,Sara Lee Honey Wheat Bread (424),Bakery,16.10,319a1274-88de-4de2-bc0c-02e55be1bae2,Yellow,2020-06-25,2028-10-18,24 months,847,4.2,891,1744,0
+prod-00425,Pepsi Zero Sugar (425),Beverages,66.65,b733127b-0976-490c-94fa-79ff2288a26f,Purple,2019-09-19,2025-02-12,23 months,658,5.0,459,1692,10
+prod-00426,Land O'Lakes Butter (426),Dairy,9.57,824569d7-bec3-4798-aec0-47ff09a4964a,Yellow,2022-05-21,2027-09-02,8 months,333,4.3,4777,1783,10
+prod-00427,Cucumbers 2-Pack (427),Vegetables,44.22,4ffb9df6-8849-438b-849f-8ebe9d11978e,Orange,2023-11-07,2029-06-08,6 months,928,3.1,522,1184,15
+prod-00428,Silk Almond Milk (428),Dairy,77.64,080c10cd-a1f7-480d-8b83-16590e401fab,Black,2022-01-03,2025-05-01,20 months,530,4.4,220,1660,0
+prod-00429,Starbucks Cold Brew (429),Beverages,12.34,4aa645e4-5f26-4291-97eb-bd1b3fe63e20,Purple,2021-02-01,2026-10-10,9 months,502,4.8,2320,177,25
+prod-00430,Strawberries 1lb (430),Fruits,46.49,ad6afcc9-f764-42ea-919a-f4254c5b58cd,Orange,2021-12-24,2029-02-07,36 months,878,4.6,4229,1662,20
+prod-00431,Roma Tomatoes (431),Vegetables,92.77,396be897-8fe7-47c4-b055-6d5024682656,Red,2020-11-30,2024-11-06,8 months,865,4.2,3065,1554,25
+prod-00432,Red Bell Peppers (432),Vegetables,47.43,66b86f68-e372-44e8-a720-adc7432a6ab9,White,2022-07-23,2026-03-11,22 months,708,4.3,170,198,15
+prod-00433,Cabot Vermont Cheddar (433),Dairy,25.80,2073d39d-60c6-40e1-8871-644b617e1269,Orange,2021-08-07,2027-05-19,9 months,565,5.0,4740,1663,0
+prod-00434,Eggo Waffles Homestyle (434),Frozen Foods,48.77,f02df263-74ae-4bd0-af1d-56c551864cc8,Purple,2024-01-03,2024-11-04,9 months,596,3.2,3792,745,30
+prod-00435,Organic Gala Apples (435),Fruits,19.16,8ed261eb-30fc-426c-8a78-65c50f3eeea3,Yellow,2022-08-16,2028-07-05,13 months,241,4.3,4730,908,0
+prod-00436,Horizon Organic Whole Milk (436),Dairy,4.53,3b6c8bf3-00fa-4246-88cc-20478298d34c,Blue,2021-12-21,2026-10-22,36 months,98,3.6,3829,1438,0
+prod-00437,Horizon Organic Whole Milk (437),Dairy,1.13,f2e9ea6e-a1b8-46ff-a775-96ff8547bb12,White,2021-06-30,2026-06-18,6 months,561,4.3,113,1346,5
+prod-00438,Hot Pockets Ham & Cheese (438),Frozen Foods,43.93,e5dd12d8-1138-457d-b65d-241e341ed9d6,Orange,2020-05-01,2025-01-13,13 months,66,4.2,4000,1969,0
+prod-00439,Eggo Waffles Homestyle (439),Frozen Foods,57.20,d887c356-ddcf-453e-8548-bceddd53518b,Yellow,2021-05-13,2029-01-31,6 months,221,3.3,3719,1312,0
+prod-00440,Oreo Double Stuf Cookies (440),Snacks,91.19,51d232ce-fdb9-4e5b-a747-80e0251a912f,Yellow,2022-08-28,2028-08-14,10 months,269,3.4,370,1075,20
+prod-00441,Nature Valley Granola Bars (441),Snacks,55.17,cf3c74c3-f73f-4e0e-9c87-38db255399d2,Purple,2020-08-28,2026-02-23,32 months,207,4.2,3224,404,0
+prod-00442,Sara Lee Honey Wheat Bread (442),Bakery,26.47,490c550f-ecff-4cc8-bd43-fb4250ba92d2,Green,2024-01-08,2025-10-06,12 months,526,3.3,1683,975,10
+prod-00443,Thomas' English Muffins (443),Bakery,85.56,de8c9e0a-ae0c-4fd7-afae-0d4c5c79e4d4,Black,2020-05-10,2026-01-10,22 months,95,3.5,4658,455,0
+prod-00444,Kind Protein Bars (444),Snacks,62.67,4e6616d0-8750-4a18-8f5f-bc974de2c15b,Yellow,2023-07-04,2026-02-19,10 months,422,4.7,622,872,0
+prod-00445,Coca-Cola Classic 12-Pack (445),Beverages,24.73,4b1ff39c-e457-454a-9a8f-cbc9778e1a63,Red,2022-07-23,2024-12-15,23 months,567,3.7,2917,1603,25
+prod-00446,Pringles Sour Cream & Onion (446),Snacks,54.43,21543ab1-e9d6-4aef-b96b-a9b5a7c6e51b,White,2020-04-19,2028-12-26,27 months,148,4.0,2939,878,0
+prod-00447,Sargento Shredded Cheddar (447),Dairy,63.28,45b351f0-bf65-4661-80bd-a2104acd5a62,Blue,2021-02-09,2027-11-01,31 months,941,4.9,542,1977,30
+prod-00448,Pepperidge Farm Milano Cookies (448),Bakery,93.37,548c7f48-f59d-49c6-8437-25c56f051a5d,Yellow,2021-12-08,2028-03-05,36 months,794,3.5,2183,1870,5
+prod-00449,Blueberries Pint (449),Fruits,91.43,f7733bda-4268-4dae-8f6d-c51e5046dbb1,Red,2021-07-09,2028-01-12,24 months,86,3.8,3027,139,15
+prod-00450,Dave's Killer Bread (450),Bakery,86.65,de447ce7-d9a7-4a51-a0d1-898d487bee57,Orange,2023-12-25,2026-06-16,8 months,329,4.2,1321,575,5
+prod-00451,Nature Valley Granola Bars (451),Snacks,42.14,2fdc0821-0001-429e-a3be-30e0256b55e2,Green,2020-12-31,2026-08-04,28 months,398,4.5,3549,1237,20
+prod-00452,Bananas Bunch (452),Fruits,6.00,27bae22a-09a2-4219-91a8-f2180ba0403e,Purple,2023-08-01,2026-07-25,28 months,546,4.8,2540,1449,25
+prod-00453,Nature Valley Granola Bars (453),Snacks,52.92,4943567b-e737-499a-a9fc-0a833140b3fa,Orange,2020-04-29,2026-07-01,34 months,351,4.8,2462,778,25
+prod-00454,Organic Baby Spinach (454),Vegetables,28.60,c8a845ae-adfa-4187-aa09-894a6666f03b,White,2023-11-13,2027-11-04,9 months,230,4.6,4603,937,20
+prod-00455,Nestle Pure Life Water 6-Pack (455),Beverages,61.81,417942ec-fba2-4247-96d4-fbce35734c82,Blue,2022-05-31,2028-04-18,9 months,656,3.5,994,1745,10
+prod-00456,Silk Almond Milk (456),Dairy,53.42,7afed045-f508-43f8-ae4e-4a6a3f40c328,Purple,2020-01-07,2028-08-18,11 months,148,3.0,4002,631,10
+prod-00457,Entenmann's Chocolate Donuts (457),Bakery,99.43,d46c0493-5825-4a51-afa1-857c0d4afb0a,Black,2023-12-17,2027-12-19,17 months,749,3.8,2353,329,20
+prod-00458,Starbucks Cold Brew (458),Beverages,21.29,a2a5db5a-2120-4781-bbd7-d7976977b827,Black,2020-08-03,2026-04-15,20 months,165,3.3,2110,1511,15
+prod-00459,Bananas Bunch (459),Fruits,15.12,f2fd93c6-5721-4b0d-9546-40b8c380ef3d,Green,2019-09-05,2025-01-02,33 months,240,4.4,4290,1084,25
+prod-00460,Coca-Cola Classic 12-Pack (460),Beverages,92.15,8c4d11d9-6133-4811-bb5d-a9f875933ac3,White,2022-12-11,2027-03-22,33 months,302,4.3,4735,880,15
+prod-00461,Philadelphia Cream Cheese (461),Dairy,76.84,536079b9-516e-4d5b-8aed-a7040d62cc61,Purple,2020-01-23,2026-01-29,10 months,977,3.1,3315,1428,20
+prod-00462,Broccoli Crowns (462),Vegetables,8.59,eb728366-103e-43a1-9820-2eae8dceb548,Blue,2024-06-22,2026-03-12,36 months,210,4.7,4704,175,0
+prod-00463,Gatorade Lemon-Lime (463),Beverages,18.17,96280957-26a7-44e7-a3db-054baaa63ed9,White,2022-01-29,2025-10-01,11 months,305,3.5,2660,364,5
+prod-00464,Russet Potatoes 5lb (464),Vegetables,89.29,6d5262fa-7f41-47e0-9958-09d985f50692,White,2021-01-17,2026-12-22,11 months,372,3.9,2946,414,5
+prod-00465,Chex Mix Traditional (465),Snacks,61.29,3374eb30-4a43-4a5a-be43-9ae7e9f308b3,Yellow,2021-09-13,2027-12-09,34 months,177,4.3,1145,727,0
+prod-00466,Cabot Vermont Cheddar (466),Dairy,27.26,185bde2f-f1a0-4d75-9315-6a06eb2d3dff,Purple,2022-11-11,2028-08-07,32 months,67,3.9,4933,1638,15
+prod-00467,Marie Callender's Chicken Pot Pie (467),Frozen Foods,79.80,9a74ab23-1b99-4244-bedf-474c54a8cee5,Orange,2020-11-03,2028-11-16,34 months,842,3.9,3034,1091,5
+prod-00468,Popcorners Kettle Corn (468),Snacks,81.58,12a1b33d-ff1e-4972-8eac-d18be66d67d9,Yellow,2021-10-22,2029-05-15,18 months,784,3.1,570,1646,5
+prod-00469,Cabot Vermont Cheddar (469),Dairy,86.38,5d98c673-dd81-4a22-929b-b6e1228445ae,White,2024-07-16,2029-01-22,34 months,615,3.8,4479,1384,10
+prod-00470,Entenmann's Chocolate Donuts (470),Bakery,30.45,70b42192-8273-48ff-92ee-a9c50424131a,White,2023-09-15,2025-02-03,29 months,619,4.5,471,1492,30
+prod-00471,Red Bull Energy Drink (471),Beverages,58.92,955594e4-fb19-4378-9289-cd6624b41de6,White,2023-09-29,2028-03-15,12 months,372,4.8,3503,1787,15
+prod-00472,Blueberries Pint (472),Fruits,29.91,6f709f1b-ad25-4f45-ae41-3f93cad3fe21,White,2021-07-01,2025-03-02,27 months,921,3.8,1503,1833,20
+prod-00473,Marie Callender's Chicken Pot Pie (473),Frozen Foods,49.28,75ea085e-8f19-4b70-bcc8-734d81ab5083,Red,2020-07-22,2026-02-19,10 months,735,3.8,4702,181,20
+prod-00474,Cucumbers 2-Pack (474),Vegetables,20.86,42c879d4-4ea6-4426-afad-363d9df8b54d,Purple,2022-05-06,2029-05-12,6 months,841,4.4,4046,1760,0
+prod-00475,Blueberries Pint (475),Fruits,80.62,722ab7a7-ba09-46b6-bb87-6426bfef3ba7,Blue,2023-03-11,2028-07-26,12 months,675,4.9,4175,329,30
+prod-00476,Horizon Organic Whole Milk (476),Dairy,67.09,4d7bce56-6e73-497d-85b1-05493e369e28,Purple,2022-05-19,2028-06-28,9 months,337,3.5,4773,745,5
+prod-00477,Russet Potatoes 5lb (477),Vegetables,57.53,b0466f54-9e54-413d-be64-410462b06ed5,Black,2021-03-16,2028-05-15,32 months,992,3.9,2620,1721,20
+prod-00478,Lay's Classic Potato Chips (478),Snacks,4.83,f8974d60-92c5-4c94-83e4-a05c71868d17,Blue,2024-01-23,2024-09-19,15 months,903,4.6,1107,397,30
+prod-00479,Avocados 4-Pack (479),Fruits,81.48,a160c233-0268-4d00-9252-7797ca68ee83,Black,2019-09-07,2026-06-28,11 months,712,4.2,3446,1678,0
+prod-00480,Doritos Nacho Cheese (480),Snacks,68.47,47f595ad-fb9d-4508-b786-58364fd30dde,Green,2021-12-26,2027-12-12,28 months,688,3.2,767,1839,30
+prod-00481,Seedless Red Grapes (481),Fruits,76.89,6eac7c34-6417-4669-a5e5-0fa33c548e4c,Yellow,2021-12-17,2025-05-28,22 months,204,4.3,1546,380,10
+prod-00482,Green Giant Cauliflower Rice (482),Frozen Foods,72.87,66924a92-244f-4aaf-9422-30a1bd8787d8,Purple,2023-06-24,2028-02-12,21 months,539,3.4,4066,567,15
+prod-00483,Lay's Classic Potato Chips (483),Snacks,44.58,2c764e53-021d-4b61-b663-8d09cc8f5405,Red,2023-10-14,2025-05-10,27 months,435,4.0,2007,629,5
+prod-00484,Doritos Nacho Cheese (484),Snacks,31.70,8744b7ce-2a53-45c4-a7f6-57513b226e9b,Green,2020-08-15,2027-08-13,16 months,834,4.1,2467,507,30
+prod-00485,Cabot Vermont Cheddar (485),Dairy,92.52,dfacece6-e583-4731-960e-33197581b4f2,Black,2020-09-26,2027-05-07,10 months,153,4.8,2205,1826,5
+prod-00486,Entenmann's Chocolate Donuts (486),Bakery,39.78,bda7970a-3c95-40ba-939a-cf898253bed2,Yellow,2020-10-28,2024-09-29,7 months,978,3.9,4468,1074,0
+prod-00487,Organic Gala Apples (487),Fruits,36.83,e9cbc8f6-9779-42db-84f9-fac8cc4f7592,Black,2024-05-18,2029-01-20,9 months,442,3.6,3129,322,5
+prod-00488,Wonder Bread Classic White (488),Bakery,79.15,0479297b-9688-4edc-a795-11c24739693c,Purple,2024-01-21,2025-10-23,8 months,860,3.5,140,1997,15
+prod-00489,Tropicana Orange Juice 1L (489),Beverages,99.50,518eabda-b47e-436e-885f-28962987a7b7,Orange,2020-01-18,2026-06-27,17 months,295,4.7,4933,868,20
+prod-00490,Organic Baby Spinach (490),Vegetables,49.81,5fb60d22-14d0-439e-8393-1c563ca6c7a4,Black,2022-06-23,2025-05-06,34 months,225,3.3,4904,1138,0
+prod-00491,Thomas' English Muffins (491),Bakery,60.79,29f13d15-4da4-4453-80cb-50b40e3e3271,Purple,2019-10-01,2029-02-22,25 months,88,3.9,225,793,15
+prod-00492,Russet Potatoes 5lb (492),Vegetables,34.31,8801584e-9a03-4db3-8087-6612ad074e2d,Blue,2021-11-08,2028-05-01,11 months,526,3.4,877,645,5
+prod-00493,Eggo Waffles Homestyle (493),Frozen Foods,25.67,320087a9-6e07-4d6f-9af3-39d63ed2bec5,Green,2020-05-12,2028-08-13,16 months,731,4.5,935,1303,20
+prod-00494,Nature Valley Granola Bars (494),Snacks,67.49,41b65926-0653-402e-a5e9-d8321710d739,Purple,2020-05-23,2027-01-08,6 months,808,3.9,978,1125,15
+prod-00495,Doritos Nacho Cheese (495),Snacks,99.44,8cfca1ab-6ed5-495e-af5a-4d7200e96fce,Green,2024-07-12,2029-02-28,10 months,587,3.7,4589,250,20
+prod-00496,Silk Almond Milk (496),Dairy,57.29,dc4e4113-23c6-4880-8a6a-f5774da630ad,Orange,2020-12-21,2028-09-02,10 months,916,3.7,936,1233,20
+prod-00497,Dave's Killer Bread (497),Bakery,27.93,84361a8a-48d5-424b-ab04-74e89e44a8f7,Yellow,2021-04-16,2028-08-17,24 months,867,4.7,624,1430,0
+prod-00498,Roma Tomatoes (498),Vegetables,11.96,2aa6cf50-462f-4229-a863-69db5a06f8dd,Yellow,2020-08-21,2029-03-08,19 months,970,4.1,1351,1937,30
+prod-00499,Sara Lee Honey Wheat Bread (499),Bakery,34.16,2d7d2513-d62f-4ea3-8930-5069e2fd9e80,White,2023-11-20,2029-07-22,20 months,457,4.4,4341,1520,30
+prod-00500,Hot Pockets Ham & Cheese (500),Frozen Foods,2.42,b0891df1-2119-4db3-a2a4-989cf89f1ec4,White,2023-02-19,2025-10-01,32 months,574,4.8,834,1988,5
+prod-00501,Silk Almond Milk (501),Dairy,28.68,3767c38f-717d-47b8-96f1-b641d2e648e2,Red,2021-02-25,2029-08-08,23 months,877,4.8,268,717,10
+prod-00502,King's Hawaiian Rolls (502),Bakery,18.94,0ab2c707-bae7-41c5-bcfc-792800136d94,Blue,2024-04-11,2026-02-05,16 months,555,3.7,1248,866,10
+prod-00503,Roma Tomatoes (503),Vegetables,54.58,9ba24b12-04f7-4c75-a6f3-aae2b1b84f65,Purple,2021-01-27,2025-01-18,35 months,952,4.9,399,113,10
+prod-00504,Oroweat Whole Grain Bread (504),Bakery,36.47,ada5ad34-2046-4994-a171-8b77994fd82e,Red,2021-07-10,2028-02-26,8 months,874,3.0,3421,1396,30
+prod-00505,Entenmann's Chocolate Donuts (505),Bakery,94.45,967450a1-472b-428e-9c60-f12593313ac6,Yellow,2024-05-24,2025-05-12,12 months,85,3.8,621,1501,15
+prod-00506,DiGiorno Pepperoni Pizza (506),Frozen Foods,51.85,10f259b2-23b4-4668-8b35-ee6e8cc9176d,Black,2024-02-02,2028-02-26,26 months,734,4.8,717,755,10
+prod-00507,Roma Tomatoes (507),Vegetables,48.87,54824944-e3de-4712-aca5-5b5757d6f243,Blue,2022-01-15,2029-03-31,29 months,69,3.5,3684,1027,30
+prod-00508,Entenmann's Chocolate Donuts (508),Bakery,87.00,72d794dc-bc36-4508-aa9d-41487de08203,White,2022-02-03,2025-04-11,9 months,370,3.5,1817,306,25
+prod-00509,Kind Protein Bars (509),Snacks,30.57,f2f557ee-4cf3-4709-ac9b-8d8898ce62a4,Purple,2020-11-23,2025-04-06,35 months,825,3.6,4701,718,25
+prod-00510,Land O'Lakes Butter (510),Dairy,77.30,5fc86cc1-7a23-42b9-bde7-84686a711a61,Green,2020-02-15,2028-10-24,31 months,561,4.2,401,1370,5
+prod-00511,Coca-Cola Classic 12-Pack (511),Beverages,43.66,0b81ab0f-d41a-4d7b-a646-4e445fd7dec7,Orange,2020-06-15,2028-06-30,8 months,449,3.9,752,834,30
+prod-00512,Bananas Bunch (512),Fruits,14.07,c5c4ada5-5e35-42b4-bd0e-4f023810ca29,Blue,2020-01-28,2026-04-05,20 months,703,4.5,3401,879,10
+prod-00513,Nestle Pure Life Water 6-Pack (513),Beverages,55.44,83cd2ec6-0782-497b-ace8-0f0f80333aa4,White,2022-04-09,2026-08-27,12 months,932,4.8,4259,1860,30
+prod-00514,Dole Pineapple Chunks (514),Fruits,48.98,5eb16de4-5cb7-486c-9aed-6157f0beeb57,Blue,2019-12-22,2027-10-30,27 months,520,4.3,2737,1510,20
+prod-00515,Silk Almond Milk (515),Dairy,92.65,bba2eda9-072c-40d8-a444-9c0ae0ad713f,Blue,2022-08-23,2027-01-14,12 months,192,3.4,2379,1198,30
+prod-00516,Kind Protein Bars (516),Snacks,5.91,c24c0019-530a-497b-99c4-fefb2e8a8ee2,Purple,2020-10-17,2027-07-21,36 months,141,4.9,1722,1166,25
+prod-00517,Silk Almond Milk (517),Dairy,8.09,e093cafd-1155-4e0f-8418-ceb377e01705,White,2023-09-20,2027-10-22,25 months,403,3.5,4514,1256,20
+prod-00518,Sweet Potatoes (518),Vegetables,43.04,2fdcc60a-6750-4e4b-a27c-6c525b0e1335,Orange,2023-12-14,2026-12-23,12 months,883,3.3,1781,530,20
+prod-00519,Seedless Red Grapes (519),Fruits,18.71,eafbd790-046c-43ee-84f4-6eea07953005,Blue,2020-02-14,2029-04-03,34 months,849,3.2,191,894,30
+prod-00520,Oreo Double Stuf Cookies (520),Snacks,70.52,007a545f-4c37-4550-9a10-0e7ac940d886,Blue,2022-04-17,2028-03-15,36 months,776,4.1,3806,1559,10
+prod-00521,Organic Gala Apples (521),Fruits,87.99,23713d66-d842-47dd-a45f-d8c910e68302,Blue,2023-08-28,2024-12-07,17 months,903,3.2,1060,155,5
+prod-00522,Bananas Bunch (522),Fruits,3.01,f90409be-35a0-427e-8745-0c1ec23da2e0,Yellow,2024-07-05,2026-02-04,14 months,100,3.3,4259,307,5
+prod-00523,Broccoli Crowns (523),Vegetables,18.77,8b0bf4eb-5412-437f-8036-fe8d0c27f12d,Purple,2022-03-16,2027-12-08,32 months,714,3.6,943,838,10
+prod-00524,Cabot Vermont Cheddar (524),Dairy,2.41,1f3622ca-ce4c-4498-8007-d7b595ed5494,Yellow,2022-03-15,2024-11-07,8 months,747,3.6,318,203,5
+prod-00525,Nature Valley Granola Bars (525),Snacks,31.46,5523bce6-0d5a-4925-8627-a4e513dc5989,Green,2019-12-09,2025-09-13,32 months,624,4.2,803,563,25
+prod-00526,Oroweat Whole Grain Bread (526),Bakery,8.30,12fbc51f-aa9e-49ec-ad2b-5e0870e8111f,Red,2024-01-08,2027-05-16,34 months,239,4.6,4814,1971,10
+prod-00527,Carrots 2lb Bag (527),Vegetables,61.79,1a8b273a-5134-4129-a854-589325ac5bf6,White,2024-03-21,2029-01-30,21 months,174,4.5,346,569,5
+prod-00528,Russet Potatoes 5lb (528),Vegetables,2.44,59beb5c5-5e94-40d7-b86b-9cc4712834db,Green,2020-05-14,2024-09-10,11 months,199,3.5,4137,679,0
+prod-00529,Thomas' English Muffins (529),Bakery,72.69,3afa9877-4f91-4c88-be2d-2c1f21732c14,Orange,2023-01-05,2029-07-14,14 months,363,3.5,156,349,0
+prod-00530,Birds Eye Steamfresh Broccoli (530),Frozen Foods,7.62,e6e6db3d-180d-4b2c-87e4-5e81503b3a58,Black,2020-05-18,2027-11-19,22 months,619,4.9,4059,1091,5
+prod-00531,Lipton Green Tea (531),Beverages,25.12,8cc26a51-7bd0-4bb5-b671-a572d2ae3ccd,Green,2020-12-01,2028-11-28,9 months,391,3.0,4952,702,20
+prod-00532,DiGiorno Pepperoni Pizza (532),Frozen Foods,82.50,e57acca1-6f4c-40a7-9e71-80336aeaab5b,Red,2021-03-17,2025-01-09,25 months,354,4.8,1958,882,25
+prod-00533,Red Bull Energy Drink (533),Beverages,83.83,0ee09661-1c89-4b08-bc3a-a0097cb7abd6,Red,2021-02-28,2028-08-28,23 months,741,3.4,2012,502,0
+prod-00534,Stouffer's Lasagna (534),Frozen Foods,72.58,a93db6f4-ed4a-4dc9-8da9-2876680f9386,Orange,2020-07-21,2025-09-19,14 months,731,4.9,4321,125,25
+prod-00535,Cabot Vermont Cheddar (535),Dairy,59.41,e4f5fa41-f1d4-4522-bbfd-a19b3f31003e,Yellow,2023-11-15,2029-07-26,17 months,887,3.7,366,818,30
+prod-00536,Silk Almond Milk (536),Dairy,7.15,3ed202a0-bec2-4b41-9fd1-b3b58fde1c65,Blue,2021-10-12,2027-10-10,32 months,832,3.9,3582,1040,15
+prod-00537,DiGiorno Pepperoni Pizza (537),Frozen Foods,90.02,9b52b9d5-6d4e-40cb-8ef8-813a0589b808,Purple,2024-06-06,2029-03-14,15 months,103,4.4,1780,1887,25
+prod-00538,Blueberries Pint (538),Fruits,68.25,7276d5d9-3bb6-42c7-b3b4-f59bd6947a76,Purple,2022-07-04,2027-01-12,29 months,493,4.2,3293,109,10
+prod-00539,Oreo Double Stuf Cookies (539),Snacks,85.83,900816ac-7682-4a10-89d5-939d5d4916c2,Black,2024-04-26,2026-11-24,10 months,662,3.6,1631,1733,15
+prod-00540,Thomas' English Muffins (540),Bakery,49.80,110b7819-97cd-46e7-ad37-4f6733435e3b,White,2022-06-09,2028-01-07,27 months,313,4.1,2106,713,5
+prod-00541,Ben & Jerry's Chocolate Fudge Brownie (541),Frozen Foods,87.79,1ef4ba0e-2126-4b00-afd5-728f738a6858,Blue,2023-03-11,2025-10-31,17 months,102,4.5,4805,1620,5
+prod-00542,Strawberries 1lb (542),Fruits,7.99,6551d00f-5ec8-4931-a09d-e8aa11ea77f0,White,2021-08-23,2029-05-07,11 months,621,3.1,4664,1533,30
+prod-00543,Popcorners Kettle Corn (543),Snacks,25.60,9b96ab85-8f6b-41cc-ad62-d3ccfd751b84,Orange,2020-12-06,2027-04-24,11 months,669,3.0,4996,1259,20
+prod-00544,Yoplait Original Yogurt (544),Dairy,68.35,cf692521-1491-4d2f-9a71-961c4a17cbb9,Green,2022-07-14,2027-05-31,12 months,54,3.9,4328,947,30
+prod-00545,Lipton Green Tea (545),Beverages,20.57,6f70d692-99c6-49f3-9d59-497bf5234a63,Purple,2023-11-27,2028-09-10,13 months,152,3.3,3550,320,0
+prod-00546,Avocados 4-Pack (546),Fruits,31.42,0a950be2-bb7f-4384-9057-c44bd708c753,Blue,2023-01-25,2028-05-10,32 months,245,4.3,1119,643,25
+prod-00547,Tropicana Orange Juice 1L (547),Beverages,76.93,35f342c9-8384-4760-ad12-cca27fdacc81,Orange,2022-10-25,2027-03-13,17 months,823,3.4,417,1400,0
+prod-00548,Starbucks Cold Brew (548),Beverages,79.57,d03fb06c-ce34-4abf-a429-8a31744f5cb8,Purple,2023-09-28,2028-02-27,11 months,926,3.9,1700,195,25
+prod-00549,Nestle Pure Life Water 6-Pack (549),Beverages,19.27,f3bf1061-cf07-4c25-8b85-6e27a2eb06ac,White,2020-01-02,2028-07-29,36 months,933,3.4,810,1936,15
+prod-00550,Pepperidge Farm Milano Cookies (550),Bakery,12.27,1745e5ec-c4c5-44d7-9aee-74b2301a3465,Black,2022-11-28,2029-05-16,23 months,399,4.1,3296,1562,30
+prod-00551,Dave's Killer Bread (551),Bakery,39.40,55031a30-9360-4ff4-950c-9cd739ddd1e2,Green,2023-09-25,2028-09-06,18 months,96,3.2,550,1631,0
+prod-00552,Chex Mix Traditional (552),Snacks,62.45,095c3f87-943e-48d6-80ff-ccb856f715d9,Blue,2021-03-28,2024-09-09,33 months,916,3.0,1981,879,5
+prod-00553,Popcorners Kettle Corn (553),Snacks,81.56,62de657a-0010-454b-ab3a-67b79b5f8ccc,Purple,2023-05-10,2025-04-12,9 months,872,3.1,1843,1811,20
+prod-00554,Philadelphia Cream Cheese (554),Dairy,73.54,1dacb4aa-206f-47a4-8087-781e915461a2,White,2022-05-07,2025-05-03,11 months,985,4.9,1423,714,10
+prod-00555,Wonder Bread Classic White (555),Bakery,75.06,9d387dbd-8929-4830-bfb1-6ace88e1baf1,White,2024-02-16,2025-10-20,16 months,869,3.3,3660,1310,15
+prod-00556,Broccoli Crowns (556),Vegetables,60.15,35e72b24-be32-4c7f-b28a-dafe8b85e360,Green,2023-07-30,2027-09-23,29 months,705,4.4,2780,941,25
+prod-00557,Yoplait Original Yogurt (557),Dairy,80.64,8575ee06-02c0-4372-a9e4-d7b4e9c37958,Red,2020-10-27,2026-01-06,26 months,318,3.1,4337,1961,15
+prod-00558,DiGiorno Pepperoni Pizza (558),Frozen Foods,56.43,e817df30-0594-4e4f-a602-be1846085e91,Orange,2019-08-30,2029-06-11,30 months,419,3.2,3151,1160,10
+prod-00559,King's Hawaiian Rolls (559),Bakery,52.57,e458b978-1530-415a-b79e-75bbc5f9f752,Black,2024-03-12,2025-07-19,22 months,685,4.0,4764,1333,5
+prod-00560,Popcorners Kettle Corn (560),Snacks,25.69,b8ae7906-eff0-4f59-9989-91e7c86f52e1,White,2021-02-06,2026-09-16,34 months,155,3.9,2451,979,15
+prod-00561,Carrots 2lb Bag (561),Vegetables,59.56,d00ef54c-5d21-4248-89df-08452c8581d4,White,2022-06-07,2029-08-15,35 months,719,4.9,2804,1538,0
+prod-00562,Tropicana Orange Juice 1L (562),Beverages,50.37,65d85e43-dc31-4db1-ae72-b42a14da949b,Orange,2023-09-28,2027-04-19,28 months,708,4.9,2740,1890,0
+prod-00563,Eggo Waffles Homestyle (563),Frozen Foods,38.80,50ea75e5-2bee-4887-9a20-ff722d31eed0,Orange,2019-09-03,2028-08-15,30 months,706,4.6,4225,230,0
+prod-00564,Cabot Vermont Cheddar (564),Dairy,1.20,b70ce286-1f27-493d-a4d8-2ee1db0ee2eb,Black,2021-10-14,2028-10-09,17 months,169,4.2,3548,1960,20
+prod-00565,Popcorners Kettle Corn (565),Snacks,31.02,45b7840b-0107-4299-9238-1a625d10b950,Black,2023-06-10,2027-11-27,34 months,880,3.9,794,197,10
+prod-00566,DiGiorno Pepperoni Pizza (566),Frozen Foods,16.02,c594f394-88fa-45d8-a4a2-f82da4c361ee,Green,2022-02-15,2026-09-18,17 months,836,3.7,4353,1566,5
+prod-00567,Nestle Pure Life Water 6-Pack (567),Beverages,25.11,161995d9-ad0e-4538-98a3-0f5c4f2bc6f9,White,2021-07-03,2027-10-03,16 months,653,4.9,2293,1668,0
+prod-00568,Sara Lee Honey Wheat Bread (568),Bakery,33.69,e8a3214d-8415-407b-bfef-0391e60c03e4,Blue,2024-07-08,2025-05-15,30 months,107,4.2,439,1159,0
+prod-00569,Sara Lee Honey Wheat Bread (569),Bakery,62.25,4b16cc04-bc66-4196-af6a-12eafbf36c58,Blue,2020-07-03,2028-01-11,9 months,395,4.2,1868,1069,20
+prod-00570,Carrots 2lb Bag (570),Vegetables,39.41,db4c8f64-c218-4901-b36f-42000723c728,Yellow,2019-10-03,2026-09-19,11 months,790,3.5,191,1872,0
+prod-00571,Kind Protein Bars (571),Snacks,47.70,fdeb63c7-b992-47af-8787-7af0738caeee,Black,2021-04-24,2026-01-15,29 months,523,3.1,4524,1638,25
+prod-00572,Red Bull Energy Drink (572),Beverages,32.36,4eea6214-35c3-48f8-b3b0-ea48a143ee17,Purple,2021-04-13,2029-08-09,8 months,166,4.9,271,1766,20
+prod-00573,Birds Eye Steamfresh Broccoli (573),Frozen Foods,33.44,1247ef44-2d69-4712-b29d-3c912d0d8ec7,Orange,2023-05-29,2028-07-25,8 months,879,3.6,2849,1343,25
+prod-00574,Sweet Potatoes (574),Vegetables,53.89,4b840441-a016-48a5-84aa-b220efa47cce,Orange,2021-08-06,2027-09-24,33 months,840,3.9,3202,1485,10
+prod-00575,Land O'Lakes Butter (575),Dairy,34.26,282f2c22-b4e3-4b88-ae08-25f62bda4d5c,Purple,2020-11-03,2025-04-17,24 months,176,3.2,720,1054,15
+prod-00576,Carrots 2lb Bag (576),Vegetables,99.55,8f97202e-7aae-4c81-a66b-7e0d6b8e43ab,Green,2023-05-19,2025-08-19,31 months,442,4.7,1088,793,0
+prod-00577,Lay's Classic Potato Chips (577),Snacks,60.71,1a786013-53ce-4a1f-89ce-38418ee3f8b8,Yellow,2022-11-20,2026-02-14,13 months,957,3.1,176,127,0
+prod-00578,Lay's Classic Potato Chips (578),Snacks,12.72,66845e34-1668-4003-a0e1-5d49c3f6e1be,Green,2023-12-04,2025-07-27,6 months,690,4.7,2298,1004,30
+prod-00579,Stouffer's Lasagna (579),Frozen Foods,35.13,7bb93e47-fd6a-45ff-87e0-e8dea207e1c6,Black,2024-02-03,2026-12-03,36 months,107,3.3,4337,1661,10
+prod-00580,Roma Tomatoes (580),Vegetables,80.13,2c3deb8f-6a9f-424e-bafa-826f2a4b9b61,Green,2023-02-09,2029-07-24,24 months,683,4.8,330,768,15
+prod-00581,Birds Eye Steamfresh Broccoli (581),Frozen Foods,75.31,68e1f0de-c1df-4222-8ef6-20179fc8fe66,Green,2021-06-24,2026-07-18,24 months,562,4.5,2275,621,20
+prod-00582,Cucumbers 2-Pack (582),Vegetables,47.03,93af1462-7c52-4399-80b1-e64b89937da6,Blue,2022-09-24,2028-06-05,35 months,800,3.3,3007,1022,15
+prod-00583,Gatorade Lemon-Lime (583),Beverages,77.87,ca4d979a-e7a4-4f4c-a319-6248ec75289a,Red,2023-03-03,2025-04-30,14 months,851,4.1,2644,208,0
+prod-00584,Chobani Greek Yogurt (584),Dairy,37.37,b0e09d4c-786b-422c-a8d4-2e203239f814,White,2021-04-02,2027-01-28,7 months,145,3.6,3712,929,10
+prod-00585,Pepperidge Farm Milano Cookies (585),Bakery,51.37,bfa8fa8f-bcf3-4339-9783-243e121c4a69,Blue,2020-04-23,2026-05-03,25 months,687,3.4,2957,707,25
+prod-00586,Organic Baby Spinach (586),Vegetables,16.05,700474f1-a404-4588-bec2-4ecc3297aa99,Black,2024-01-13,2026-03-24,28 months,167,4.7,1653,757,5
+prod-00587,Navel Oranges (587),Fruits,53.27,a6f52022-975d-403c-896b-e82bd0c7b2ab,Yellow,2020-12-21,2027-10-30,35 months,609,3.8,4464,1304,10
+prod-00588,Doritos Nacho Cheese (588),Snacks,45.44,4c92aa5e-c160-4693-9dce-412834070b61,White,2021-05-18,2026-04-11,14 months,650,3.8,2765,309,20
+prod-00589,Starbucks Cold Brew (589),Beverages,44.86,6b595f70-46d1-49cb-a72e-979e320c05c7,Green,2020-05-02,2028-11-26,26 months,537,3.3,3840,441,20
+prod-00590,Stouffer's Lasagna (590),Frozen Foods,3.00,e4bc4a55-115b-4bf2-bc32-7c9be971ae13,Purple,2021-04-22,2029-05-05,17 months,286,3.8,1061,1780,0
+prod-00591,Kind Protein Bars (591),Snacks,37.97,67a2c226-6199-4032-9bfd-06c40bd97687,Black,2022-09-18,2026-01-10,32 months,934,4.7,1727,1172,30
+prod-00592,Lay's Classic Potato Chips (592),Snacks,74.28,e9182d7c-37fc-415e-98b2-a70e96016397,Black,2023-07-21,2028-02-03,7 months,946,3.7,2067,1596,10
+prod-00593,Popcorners Kettle Corn (593),Snacks,83.46,101ac344-99ab-4514-8ba7-e8591a093dd2,Black,2021-07-11,2025-03-21,28 months,321,4.9,3431,765,5
+prod-00594,Sargento Shredded Cheddar (594),Dairy,40.67,915f1862-04d7-4223-a709-a34a3efc79bf,Green,2023-11-07,2027-10-01,29 months,238,4.9,1174,872,10
+prod-00595,DiGiorno Pepperoni Pizza (595),Frozen Foods,49.38,c17645b9-574f-4ea5-8fe0-bfb4dd5fed3e,Purple,2020-02-15,2026-02-22,20 months,753,3.3,3304,428,20
+prod-00596,Carrots 2lb Bag (596),Vegetables,4.26,2733b2e4-b115-4136-8cec-ec18365fc9ee,Yellow,2020-03-27,2025-06-02,36 months,496,3.4,1128,655,30
+prod-00597,Entenmann's Chocolate Donuts (597),Bakery,92.64,3eddd03a-c08c-4efe-87c2-e344d082b377,Orange,2020-05-18,2026-06-22,24 months,630,4.7,747,1359,10
+prod-00598,Nestle Pure Life Water 6-Pack (598),Beverages,50.16,0a96f84a-4063-4f0d-8203-68bb691f70fd,Purple,2021-06-23,2028-12-08,9 months,839,3.8,4933,1564,0
+prod-00599,King's Hawaiian Rolls (599),Bakery,54.10,1f6462d1-0d82-43e6-98d3-3f9dc0abe234,Purple,2024-06-14,2025-05-22,13 months,910,3.0,3262,1244,20
+prod-00600,Broccoli Crowns (600),Vegetables,20.58,7cf77088-003d-4f8b-8857-49ac3c6f702f,Purple,2023-06-10,2029-04-13,28 months,296,3.5,1002,347,10
+prod-00601,Pringles Sour Cream & Onion (601),Snacks,42.35,c795cd72-6095-4ffa-99c2-e0dd505befea,Red,2024-02-22,2027-03-19,17 months,125,4.2,4167,1642,10
+prod-00602,Starbucks Cold Brew (602),Beverages,54.94,6a58582f-bae3-4384-bbc1-95bff4b2147f,Black,2024-06-04,2027-11-06,35 months,203,4.6,1603,1143,0
+prod-00603,Blueberries Pint (603),Fruits,43.24,c0f2d3cc-d176-4d1d-ab54-4a1b0ee3e270,Purple,2022-02-28,2028-09-01,27 months,705,3.3,2962,795,0
+prod-00604,Hot Pockets Ham & Cheese (604),Frozen Foods,78.75,d071af2e-4aff-40ff-b07a-418f452e8180,Yellow,2022-05-11,2028-06-12,16 months,484,3.2,4578,602,10
+prod-00605,Entenmann's Chocolate Donuts (605),Bakery,83.04,38eb3b01-01d8-43df-9807-f4a92819b656,Yellow,2022-02-08,2025-12-03,29 months,135,4.8,2997,463,30
+prod-00606,Organic Baby Spinach (606),Vegetables,1.47,c89e5d51-f4c2-4985-90ed-548aea76078e,Red,2021-06-20,2027-05-01,17 months,746,4.5,1445,588,5
+prod-00607,Broccoli Crowns (607),Vegetables,96.60,88ff3c08-69de-4e21-b13f-182f42ea7f74,White,2022-08-07,2028-02-24,26 months,334,4.2,589,1323,20
+prod-00608,Sara Lee Honey Wheat Bread (608),Bakery,30.97,1c9ae55e-e555-42c7-bb82-f4fde3acdec6,Purple,2021-05-30,2029-01-15,15 months,269,4.5,525,1889,10
+prod-00609,Hot Pockets Ham & Cheese (609),Frozen Foods,83.06,2831690f-2a3d-4d8a-9ec7-daca7834d7f4,Yellow,2021-03-27,2025-06-23,26 months,118,3.9,2831,1526,0
+prod-00610,Yoplait Original Yogurt (610),Dairy,1.28,b400bd98-943c-4749-9e43-a3e373b10538,White,2019-08-29,2026-09-25,18 months,96,4.5,4091,1368,20
+prod-00611,Doritos Nacho Cheese (611),Snacks,20.47,35d01a88-6d7c-4d47-b9ea-cb1b141cd38c,Purple,2023-03-28,2028-10-29,15 months,143,3.7,1507,1606,0
+prod-00612,Sweet Potatoes (612),Vegetables,63.46,0f9eaa4a-851e-4500-bbeb-875d06b5f57a,White,2019-08-23,2028-09-17,28 months,799,3.5,522,1699,20
+prod-00613,Organic Gala Apples (613),Fruits,87.57,b30b771e-77e9-4363-a7b1-8d7ad84d1a05,Yellow,2021-09-03,2026-05-25,11 months,502,4.5,3055,1934,10
+prod-00614,Strawberries 1lb (614),Fruits,62.81,7540bda4-7773-47be-94c5-241ef2f56d41,Red,2023-12-04,2028-07-09,29 months,253,3.8,1314,911,25
+prod-00615,Avocados 4-Pack (615),Fruits,49.52,41d90c49-5cc8-4cb2-9388-10a38e8623c4,Yellow,2021-10-13,2026-01-05,17 months,961,5.0,4042,764,25
+prod-00616,Green Giant Cauliflower Rice (616),Frozen Foods,62.13,54efab54-a60e-4008-908b-e0139241e69b,Red,2020-11-23,2027-05-19,17 months,267,3.7,1900,1140,30
+prod-00617,Organic Gala Apples (617),Fruits,7.30,7a9ef38f-4c8b-4fb6-b5e5-7d5cc82dcfd8,Green,2023-05-25,2025-04-23,35 months,523,4.8,4560,138,15
+prod-00618,Dole Pineapple Chunks (618),Fruits,59.63,ca05b514-75fe-4924-8960-1046f0bc03ce,Blue,2024-02-29,2029-02-27,31 months,481,4.9,2169,764,25
+prod-00619,Kind Protein Bars (619),Snacks,85.09,b33dd62d-447c-404d-8626-a15a7b3862e6,Yellow,2023-03-24,2026-02-03,17 months,390,3.5,4743,966,15
+prod-00620,Sara Lee Honey Wheat Bread (620),Bakery,25.77,16818c66-a037-49cc-9550-8f3056efa246,Purple,2020-06-19,2027-04-30,8 months,600,4.6,2477,394,20
+prod-00621,King's Hawaiian Rolls (621),Bakery,86.98,cf83536e-e230-4836-864b-06ca8d0493ed,Yellow,2021-07-20,2025-05-20,31 months,661,3.9,2203,138,30
+prod-00622,Red Bell Peppers (622),Vegetables,47.74,d85397a4-37a3-4d9b-ac7d-5940255f5553,Blue,2019-11-01,2026-04-21,18 months,338,4.8,1371,286,30
+prod-00623,Pepsi Zero Sugar (623),Beverages,61.89,30476683-936e-483c-b5c9-4d0c243b50b6,Orange,2022-07-24,2026-10-05,29 months,303,3.9,4456,849,30
+prod-00624,Gatorade Lemon-Lime (624),Beverages,45.60,060d7ca3-a744-4704-830c-18a2a6c549d5,Green,2024-08-02,2026-02-12,28 months,783,4.5,3943,1061,0
+prod-00625,Marie Callender's Chicken Pot Pie (625),Frozen Foods,2.01,022aaaae-ced5-4053-ab18-b0d0ccc422f1,Black,2020-05-15,2026-04-08,16 months,406,3.9,534,883,0
+prod-00626,Wonder Bread Classic White (626),Bakery,8.22,cb11ee81-f2b4-443a-8e0a-1cb599fa1471,Green,2021-07-11,2026-09-29,16 months,72,3.5,3698,408,0
+prod-00627,Pringles Sour Cream & Onion (627),Snacks,3.92,417a4159-4475-497b-93db-3e2ef328cff3,Red,2022-07-28,2027-06-13,34 months,811,3.4,3649,461,10
+prod-00628,Pepperidge Farm Milano Cookies (628),Bakery,28.72,662e7ff8-bc85-4576-bf31-a50182f7c16d,Orange,2021-09-19,2025-07-11,8 months,571,3.9,3871,561,20
+prod-00629,Strawberries 1lb (629),Fruits,98.77,7785fdbc-3801-4975-a310-fc97d30404d3,Red,2022-01-12,2028-09-23,14 months,807,4.5,634,768,10
+prod-00630,Philadelphia Cream Cheese (630),Dairy,34.69,14410850-5678-4378-a2c3-96ff1734fe90,White,2021-08-25,2024-10-31,22 months,886,4.2,480,1354,15
+prod-00631,Cucumbers 2-Pack (631),Vegetables,20.41,c548776a-9e2a-4dfc-96b2-915fc505dba1,Blue,2022-06-28,2027-12-27,25 months,149,4.4,2250,805,15
+prod-00632,Oreo Double Stuf Cookies (632),Snacks,90.37,f34db7ae-2e20-4325-a9d5-58bc325e74f8,Yellow,2019-11-22,2028-06-29,29 months,851,3.6,4224,1373,0
+prod-00633,Avocados 4-Pack (633),Fruits,11.62,9dcde948-be35-4ca4-b394-259bae666e00,Orange,2021-01-23,2029-08-15,6 months,229,4.0,4025,877,0
+prod-00634,Sweet Potatoes (634),Vegetables,27.51,5a7358da-eb2d-41ed-aa10-bc7371aa8a03,Purple,2023-04-07,2025-03-28,26 months,272,3.1,3228,101,20
+prod-00635,Dole Pineapple Chunks (635),Fruits,72.45,15244b9b-8ac1-4d99-899d-f0fac7081df2,Blue,2023-08-20,2026-07-27,16 months,955,4.6,4149,1598,15
+prod-00636,Tropicana Orange Juice 1L (636),Beverages,85.38,0e55a68a-b9f8-4db6-9568-9e819fde89fa,Green,2020-03-12,2025-01-24,8 months,811,5.0,646,752,20
+prod-00637,Sara Lee Honey Wheat Bread (637),Bakery,69.09,a212fc45-b316-4a4a-81a8-437c2a7411a1,Black,2021-05-29,2026-05-15,14 months,708,3.8,3716,281,15
+prod-00638,Sweet Potatoes (638),Vegetables,49.69,120da152-e975-44a0-b56d-a3d0f1476d6f,Blue,2021-11-03,2027-12-15,21 months,491,3.0,4522,101,5
+prod-00639,Land O'Lakes Butter (639),Dairy,65.96,1dbfc548-97da-4311-9937-86b38d9bdc40,Orange,2022-10-07,2025-10-08,28 months,657,3.3,1851,1293,20
+prod-00640,Bananas Bunch (640),Fruits,76.83,73a7583a-1d92-4ca2-8103-d54df5d69ce4,Blue,2020-11-30,2025-06-22,32 months,818,4.3,4924,1393,5
+prod-00641,Wonder Bread Classic White (641),Bakery,34.58,4cde837a-ea1d-4735-9904-191f0bb8cc7f,White,2024-06-10,2029-05-22,34 months,374,4.2,3215,1076,10
+prod-00642,Thomas' English Muffins (642),Bakery,64.74,b997fe10-2189-49f6-ad69-68196aa51700,Green,2023-08-26,2025-07-14,31 months,565,4.6,318,406,30
+prod-00643,Doritos Nacho Cheese (643),Snacks,72.84,36350bee-5860-46aa-9fa9-81a1f36e1895,Orange,2020-11-18,2028-11-24,17 months,65,3.5,225,975,15
+prod-00644,Nature Valley Granola Bars (644),Snacks,6.02,d21b918d-cb4d-4377-98d1-6ea956fa4a1c,Red,2022-07-20,2026-07-06,18 months,841,4.5,4514,148,5
+prod-00645,Hot Pockets Ham & Cheese (645),Frozen Foods,57.98,97539cdf-e74c-467c-af66-1323b943f50b,Yellow,2020-08-05,2025-02-04,23 months,385,4.4,1428,1545,10
+prod-00646,Seedless Red Grapes (646),Fruits,5.00,a4040d78-65fe-4537-81c1-4bdaf51901ca,Red,2024-07-31,2026-12-07,14 months,808,3.6,1323,1095,20
+prod-00647,Nestle Pure Life Water 6-Pack (647),Beverages,86.10,abc3b537-0154-40db-85f5-a9c40abee0fb,Red,2023-04-16,2028-02-23,35 months,307,4.1,4280,1408,5
+prod-00648,Organic Baby Spinach (648),Vegetables,73.06,bbdc4c18-4f6e-41fb-856e-20561ae57412,Red,2020-06-08,2028-05-16,10 months,546,3.3,2870,479,5
+prod-00649,Lipton Green Tea (649),Beverages,98.18,5e9458cb-5222-4e66-bea9-34b521014e57,Orange,2024-08-20,2025-05-31,19 months,945,3.9,1674,1955,10
+prod-00650,Entenmann's Chocolate Donuts (650),Bakery,16.58,b338457d-8903-4167-a94e-7d7064fca662,Green,2020-12-26,2029-01-16,21 months,209,4.8,2042,890,30
+prod-00651,Hot Pockets Ham & Cheese (651),Frozen Foods,88.10,70aa73e8-123c-4cf0-9b52-393e820db859,Black,2022-05-22,2025-07-07,7 months,524,3.8,3440,890,5
+prod-00652,Birds Eye Steamfresh Broccoli (652),Frozen Foods,5.48,c71eeb8d-1c56-4cb8-9d30-a84287d37a47,Green,2020-03-19,2027-07-09,17 months,901,4.7,4557,603,10
+prod-00653,King's Hawaiian Rolls (653),Bakery,75.58,14a13518-e154-4a37-bf85-3a64406ce86c,Black,2022-11-07,2025-04-19,17 months,713,4.2,2514,883,25
+prod-00654,Organic Baby Spinach (654),Vegetables,23.40,c214a4e0-c71a-40f7-bec4-5574d19cd2bb,Red,2021-03-10,2029-01-04,19 months,957,3.4,1354,655,15
+prod-00655,Yoplait Original Yogurt (655),Dairy,50.24,2d0451ee-4f23-4f01-bc61-e8d04a05a7a1,Yellow,2021-05-27,2024-12-19,31 months,739,4.2,1087,671,15
+prod-00656,Lay's Classic Potato Chips (656),Snacks,17.51,6a45ba01-3144-4570-ab03-85fc7023a5b2,Red,2024-03-27,2025-07-28,32 months,724,4.0,1948,1322,15
+prod-00657,King's Hawaiian Rolls (657),Bakery,72.24,7ff436c9-29bb-4770-86d0-7a03f0bd2e61,Blue,2020-02-12,2025-10-27,9 months,429,3.8,4001,208,5
+prod-00658,Stouffer's Lasagna (658),Frozen Foods,13.49,69b1b733-251c-4fc5-8469-9c7b0cf1fb5a,Yellow,2022-05-15,2026-05-10,11 months,594,3.2,3819,164,5
+prod-00659,Starbucks Cold Brew (659),Beverages,55.33,7d74e9a2-c76f-491f-9702-36586dcac15b,Purple,2023-04-28,2027-06-04,20 months,978,3.8,1417,1808,0
+prod-00660,Cabot Vermont Cheddar (660),Dairy,46.67,b46be71d-668a-4975-9c43-829bc494e8be,Green,2020-12-04,2026-12-31,21 months,740,3.1,1471,1476,0
+prod-00661,Dole Pineapple Chunks (661),Fruits,60.82,79280df5-cfc9-4a17-93fb-861c7d670496,Green,2024-07-20,2028-03-10,19 months,476,3.2,460,1221,10
+prod-00662,Stouffer's Lasagna (662),Frozen Foods,59.99,fc501c5c-38ee-410e-b49e-55c5e558f026,Orange,2021-01-26,2025-09-13,13 months,662,3.8,457,1252,5
+prod-00663,Pepperidge Farm Milano Cookies (663),Bakery,20.20,38f386c6-c5d3-4c79-b396-1ee2b6eac0b4,Orange,2021-07-29,2028-11-10,10 months,317,3.6,3301,367,10
+prod-00664,Sara Lee Honey Wheat Bread (664),Bakery,3.23,84a135c7-10b1-4326-bd5e-b7435995137b,Green,2023-08-31,2026-12-05,12 months,884,4.9,3990,1532,20
+prod-00665,Cucumbers 2-Pack (665),Vegetables,90.90,bab6af23-7939-4816-8589-ddaace81c623,Purple,2022-06-28,2029-08-04,15 months,626,3.8,2883,186,30
+prod-00666,Eggo Waffles Homestyle (666),Frozen Foods,71.60,3ca4bee4-540c-4210-96b2-38f18015b9ff,Blue,2024-05-09,2024-11-28,6 months,466,4.5,163,1724,5
+prod-00667,Lipton Green Tea (667),Beverages,50.43,a1a260fc-791c-46a1-b2a6-ff916a422500,Green,2022-01-21,2026-06-17,35 months,217,4.1,2328,1979,25
+prod-00668,Starbucks Cold Brew (668),Beverages,62.84,96167406-a1b2-41b3-84d5-4cb8a4720154,Blue,2020-07-13,2025-09-21,35 months,891,4.4,2734,1517,20
+prod-00669,Hot Pockets Ham & Cheese (669),Frozen Foods,47.61,9ca63c83-22f0-4e02-b6be-3c2c3f82a91d,Green,2023-03-04,2028-08-15,35 months,92,3.5,3949,549,5
+prod-00670,Cucumbers 2-Pack (670),Vegetables,93.15,c82b5735-f4d6-4e84-bb08-efbb7cee695b,Red,2019-11-21,2028-12-08,34 months,605,4.9,4038,1028,15
+prod-00671,Lay's Classic Potato Chips (671),Snacks,92.24,376b1f1f-eaae-4ef6-b11e-bf25be9b20c4,Black,2021-10-09,2025-07-21,23 months,334,4.1,1615,840,10
+prod-00672,Silk Almond Milk (672),Dairy,8.67,e596e350-ec8f-4fd9-b754-5180b6b7a060,Red,2024-01-23,2027-04-14,36 months,446,4.7,679,570,25
+prod-00673,Chobani Greek Yogurt (673),Dairy,48.54,20c05fd1-e132-4b0f-a7d2-f9d2210f2ba1,Green,2023-02-22,2028-04-15,21 months,61,3.7,4517,1765,0
+prod-00674,Marie Callender's Chicken Pot Pie (674),Frozen Foods,84.21,f8d9346e-966f-430d-b0c1-6be248758457,Blue,2020-05-25,2027-07-23,15 months,656,3.2,2431,1767,15
+prod-00675,Cabot Vermont Cheddar (675),Dairy,59.69,3240e51a-9383-4c62-9c42-92381b657eec,Red,2022-07-10,2028-09-03,23 months,351,4.3,2513,864,25
+prod-00676,Cabot Vermont Cheddar (676),Dairy,37.82,2e609338-bf88-4f60-9445-af647d518e78,Red,2020-12-21,2025-10-13,32 months,947,3.0,2258,209,0
+prod-00677,Carrots 2lb Bag (677),Vegetables,89.44,1cfc922d-2c4d-4488-8f18-16e8d7b21ae7,Yellow,2021-10-09,2025-09-27,12 months,302,4.0,2225,1932,5
+prod-00678,DiGiorno Pepperoni Pizza (678),Frozen Foods,96.26,7ef5b3ab-8164-46e8-a138-afb66482f95f,Red,2019-09-06,2024-09-22,31 months,548,3.4,3869,393,20
+prod-00679,Doritos Nacho Cheese (679),Snacks,77.60,622b754c-f0e9-4b97-a6c1-037726ec04a4,Blue,2022-11-08,2025-09-29,25 months,803,4.3,2383,314,20
+prod-00680,Pringles Sour Cream & Onion (680),Snacks,23.86,467402c6-ec9a-47be-8838-35ac20d80bdb,Purple,2022-07-02,2028-04-06,15 months,84,5.0,3866,1435,25
+prod-00681,Starbucks Cold Brew (681),Beverages,84.62,3b3ca594-164f-45e4-9eb8-edcbeebe9878,Black,2021-11-10,2025-04-18,21 months,776,3.9,3205,1327,30
+prod-00682,Oreo Double Stuf Cookies (682),Snacks,95.67,0d111d45-c558-46ab-9dcd-58b9855d4160,Red,2021-05-17,2025-09-11,13 months,898,4.6,3652,1551,15
+prod-00683,Entenmann's Chocolate Donuts (683),Bakery,41.35,280d3c7b-417f-4d9f-a93f-196aa3493726,Purple,2022-03-16,2026-05-09,30 months,139,4.0,3575,1059,0
+prod-00684,Pringles Sour Cream & Onion (684),Snacks,26.03,7d51a9e9-6fea-46e1-9263-93c72233c6bb,Blue,2023-05-29,2028-05-01,9 months,825,4.0,1938,1659,25
+prod-00685,Marie Callender's Chicken Pot Pie (685),Frozen Foods,75.37,c44156e0-0c44-4b0f-8ff1-a254278db2ad,Blue,2023-07-23,2027-09-23,8 months,654,4.9,321,1216,10
+prod-00686,Nature Valley Granola Bars (686),Snacks,51.04,483f21a8-dd7f-4740-8144-38730ff48412,White,2024-03-15,2027-07-22,31 months,971,4.8,995,780,10
+prod-00687,Stouffer's Lasagna (687),Frozen Foods,11.73,2c673400-073d-4536-9588-e964853f97be,Purple,2021-04-06,2027-03-04,29 months,651,4.6,3511,1151,30
+prod-00688,Kind Protein Bars (688),Snacks,62.03,5ac9a860-f8b7-4a63-9f83-552c225cdb3a,Blue,2020-12-16,2026-10-17,29 months,467,3.6,3108,1441,10
+prod-00689,Wonder Bread Classic White (689),Bakery,26.15,127d11cd-67a6-4971-80a9-fb5bfa3b4204,Green,2022-05-31,2028-02-22,22 months,164,4.1,1084,1522,0
+prod-00690,Oreo Double Stuf Cookies (690),Snacks,77.38,534479c1-a68a-404d-a7d3-f81905d035cd,Blue,2022-02-21,2027-04-07,34 months,666,3.4,1732,1825,20
+prod-00691,Pepperidge Farm Milano Cookies (691),Bakery,44.44,948ea713-3ea3-4819-8517-c64129cd0a36,Yellow,2024-07-04,2027-05-19,25 months,952,3.9,3770,365,20
+prod-00692,Cucumbers 2-Pack (692),Vegetables,50.34,05e7fe08-39ca-432a-a793-2dbc944d0dee,Purple,2022-03-20,2027-01-07,10 months,245,4.0,2990,995,15
+prod-00693,Pepperidge Farm Milano Cookies (693),Bakery,84.20,d5df882b-0ad1-4d22-927e-bbd25c05ec98,Red,2020-02-26,2026-09-20,18 months,875,4.7,2143,1093,30
+prod-00694,Lay's Classic Potato Chips (694),Snacks,44.19,bfd79a03-339a-4d85-8180-4533be9a90c2,Orange,2020-07-29,2027-12-04,36 months,550,4.8,1508,384,0
+prod-00695,Sargento Shredded Cheddar (695),Dairy,34.81,7355870f-7fef-4fb4-9437-5161d1971a1a,Purple,2024-02-02,2027-01-26,17 months,675,3.8,3972,1186,5
+prod-00696,Organic Gala Apples (696),Fruits,17.06,fb605cdd-07f4-4937-8dbe-bc4b11742e36,Blue,2022-08-06,2027-03-11,32 months,542,3.0,4777,698,30
+prod-00697,Chobani Greek Yogurt (697),Dairy,54.06,beadb87f-169b-436c-930e-7ba8bdb71a5d,White,2023-12-11,2026-07-06,12 months,124,4.7,1435,1013,5
+prod-00698,Chex Mix Traditional (698),Snacks,45.06,6cac45e7-ae8f-4eca-8e13-89b7e95bdc0e,Orange,2020-12-09,2029-08-05,24 months,462,3.3,3737,1642,10
+prod-00699,Birds Eye Steamfresh Broccoli (699),Frozen Foods,37.60,9f457748-e061-4394-8a4e-2ac5d8c8c972,Purple,2023-04-18,2028-12-27,24 months,425,4.2,3558,766,25
+prod-00700,Nestle Pure Life Water 6-Pack (700),Beverages,12.23,eb3c6371-e67a-4d09-8842-7e6790814a2b,Red,2023-06-24,2026-06-11,6 months,469,3.0,4497,119,25
+prod-00701,Avocados 4-Pack (701),Fruits,83.49,1cd3a167-4dd0-4158-9fe3-9c54a4e11aba,Green,2022-07-25,2026-06-18,24 months,778,3.8,3700,1887,25
+prod-00702,Blueberries Pint (702),Fruits,10.71,66113173-fa4a-42fa-b3b2-6c67f12f0c57,Orange,2023-08-01,2026-06-26,29 months,326,5.0,4986,1471,20
+prod-00703,Avocados 4-Pack (703),Fruits,13.39,7ef6c0b5-0b4a-4c31-8d24-bc81cb1e8657,Yellow,2022-10-21,2025-05-28,14 months,810,3.2,1475,149,20
+prod-00704,Land O'Lakes Butter (704),Dairy,6.84,125fe4b7-70bb-4c51-b2bf-49714e02f32d,Orange,2021-12-23,2025-09-13,14 months,725,3.8,1633,1312,30
+prod-00705,Eggo Waffles Homestyle (705),Frozen Foods,82.95,fed65d53-ddf0-4254-8246-6c43e2c7865f,Orange,2021-06-30,2028-05-11,8 months,443,3.6,2052,166,0
+prod-00706,Avocados 4-Pack (706),Fruits,60.48,4e0d0654-591b-4476-8529-e8d7b35e2e8c,Blue,2024-02-10,2029-05-11,11 months,918,4.8,3357,464,0
+prod-00707,Cabot Vermont Cheddar (707),Dairy,61.59,8c68f7bb-0aa8-45e8-a6a0-d61911df7a9e,Yellow,2019-08-25,2026-01-16,35 months,506,4.7,3091,1325,15
+prod-00708,Sara Lee Honey Wheat Bread (708),Bakery,36.02,6d156472-2ca5-4b4a-8f22-8c52a7fee996,White,2023-01-05,2025-10-03,17 months,969,3.5,4790,1012,0
+prod-00709,Chobani Greek Yogurt (709),Dairy,12.12,8f2c71ce-83c2-451c-8fb0-4e6ffa2bdb78,Purple,2021-07-23,2026-01-04,21 months,241,3.2,3596,1222,15
+prod-00710,Popcorners Kettle Corn (710),Snacks,18.82,9fee1d03-2b7f-434f-8e9c-cbda8e09bfd8,Red,2021-09-19,2027-10-20,19 months,788,4.3,4257,760,10
+prod-00711,Red Bull Energy Drink (711),Beverages,92.41,eed72e15-3b61-4e4d-a567-cc9c1344a405,Orange,2022-11-19,2025-12-10,7 months,738,3.7,3572,1076,10
+prod-00712,Russet Potatoes 5lb (712),Vegetables,42.62,1dc58216-a56a-459b-b6e6-5449fe918642,Black,2019-10-03,2029-04-13,29 months,148,4.3,3017,1283,20
+prod-00713,Entenmann's Chocolate Donuts (713),Bakery,76.97,e6f768ba-3906-48f5-826c-90db4ceab3a0,Purple,2023-01-03,2025-03-29,33 months,597,3.1,1265,915,30
+prod-00714,Bananas Bunch (714),Fruits,48.70,91a3e351-48c5-4196-baac-09e9f4d29406,Red,2022-03-11,2028-08-22,7 months,145,3.3,4661,1801,30
+prod-00715,Popcorners Kettle Corn (715),Snacks,39.48,9b197012-386b-4fbb-b1f1-bd7532ae6dad,Red,2021-07-29,2028-02-02,15 months,713,4.4,2458,127,30
+prod-00716,Gatorade Lemon-Lime (716),Beverages,46.64,f44ee9fb-6d3d-4a2f-9039-d291a3cfa1e9,Yellow,2021-04-11,2027-09-29,21 months,712,3.4,3338,565,20
+prod-00717,Lipton Green Tea (717),Beverages,76.11,ea14f595-5c12-492d-b82a-4c5da8622e0a,Blue,2021-11-03,2025-09-12,21 months,239,4.7,2250,1823,20
+prod-00718,Carrots 2lb Bag (718),Vegetables,44.51,265a8261-69c9-4717-8f49-076011825190,Yellow,2024-06-15,2025-03-11,25 months,785,3.1,2175,1961,5
+prod-00719,Thomas' English Muffins (719),Bakery,10.60,09d58d6f-1b4f-45fd-8d0b-7500dbc86e6d,Black,2020-09-22,2028-08-16,12 months,86,3.4,3767,1949,15
+prod-00720,Starbucks Cold Brew (720),Beverages,8.83,86ada3f6-dd5e-494f-94f7-0a4a1508bc27,Black,2022-01-20,2026-04-29,28 months,829,5.0,4703,1321,25
+prod-00721,Dole Pineapple Chunks (721),Fruits,15.32,7890af01-4b9b-453a-ba31-11a38079a67c,Black,2024-03-21,2027-07-10,30 months,418,3.9,2281,1332,25
+prod-00722,Cucumbers 2-Pack (722),Vegetables,96.56,edf3f196-9160-48ee-91b5-b846b1e6243a,Yellow,2024-06-22,2025-02-15,29 months,744,4.4,158,1560,10
+prod-00723,Organic Gala Apples (723),Fruits,46.60,5b170da6-824a-49f9-934d-e03d6bf30352,White,2023-07-22,2029-03-26,14 months,574,3.4,2058,365,15
+prod-00724,Cabot Vermont Cheddar (724),Dairy,54.95,0922aa52-b860-427e-9973-6b857c9352a9,Blue,2023-10-29,2024-11-20,34 months,328,4.2,284,869,5
+prod-00725,Blueberries Pint (725),Fruits,51.89,480cbac7-c390-4b0e-aa7a-85c6c8e6172c,Black,2020-08-12,2029-03-09,13 months,266,4.5,2719,1092,5
+prod-00726,Stouffer's Lasagna (726),Frozen Foods,68.83,f386e78e-9947-4ce0-8228-367efaffac91,Green,2023-12-08,2026-12-20,14 months,916,3.6,1780,1614,10
+prod-00727,Silk Almond Milk (727),Dairy,27.16,22d3d535-6269-4ebb-b472-a7c16a4d2a22,Black,2019-11-23,2026-03-13,16 months,922,4.7,677,1532,10
+prod-00728,Popcorners Kettle Corn (728),Snacks,13.66,29bff129-ebff-496d-93ff-ba661c502b6d,Yellow,2020-02-03,2028-10-13,20 months,847,4.2,4054,356,20
+prod-00729,Starbucks Cold Brew (729),Beverages,24.54,5f0bab3a-1e2a-4d15-be09-d55c2b5fd319,Green,2023-01-20,2026-12-16,19 months,322,3.8,4377,1459,5
+prod-00730,Kind Protein Bars (730),Snacks,1.06,ec70e603-eea5-4a51-963e-c3d5006fd938,Orange,2021-07-08,2025-07-18,31 months,930,4.1,170,957,20
+prod-00731,DiGiorno Pepperoni Pizza (731),Frozen Foods,20.82,adaffab3-5ac9-42f7-96ba-64605655ad34,Black,2020-03-03,2028-10-03,6 months,111,4.2,655,1356,10
+prod-00732,Yoplait Original Yogurt (732),Dairy,65.54,5d9a2bca-4963-4af7-b804-3716a91d9c2d,Orange,2023-09-17,2027-05-13,18 months,645,3.3,951,1839,25
+prod-00733,Navel Oranges (733),Fruits,35.05,d9a10102-46f2-4e53-a76b-5a67e6648a75,Blue,2022-06-08,2026-08-11,19 months,929,3.8,1318,172,5
+prod-00734,DiGiorno Pepperoni Pizza (734),Frozen Foods,69.77,8d625644-8c8b-40ba-b2c2-c8eefd6cfc8d,Green,2021-07-19,2026-01-26,18 months,778,3.7,3740,1136,5
+prod-00735,Ben & Jerry's Chocolate Fudge Brownie (735),Frozen Foods,33.38,a19a6409-da09-4280-a24a-623101b38a87,Blue,2023-04-30,2028-01-29,31 months,391,3.8,2012,682,0
+prod-00736,Green Giant Cauliflower Rice (736),Frozen Foods,61.88,a2acf7c5-c5a2-49a7-a693-e774583266e3,Green,2022-03-31,2027-04-16,9 months,446,4.5,2830,1628,5
+prod-00737,Sara Lee Honey Wheat Bread (737),Bakery,47.77,c1954cd3-5fd0-4d15-99e0-5e8a8bb3441b,Yellow,2019-09-21,2024-10-19,23 months,748,4.0,2465,1124,20
+prod-00738,DiGiorno Pepperoni Pizza (738),Frozen Foods,32.27,ae9156d9-6a43-49cf-bedd-d0c6141ec8d8,Yellow,2020-01-08,2024-09-09,28 months,68,4.9,366,1282,0
+prod-00739,King's Hawaiian Rolls (739),Bakery,70.44,0b861691-520f-4846-a1ab-c585062ada87,Orange,2022-11-26,2028-12-20,30 months,226,3.6,4016,1632,30
+prod-00740,Chex Mix Traditional (740),Snacks,31.10,a65ef957-3ccf-49b8-babd-28f4c4483d7d,Orange,2022-12-11,2026-03-06,32 months,661,3.8,4809,582,5
+prod-00741,Pringles Sour Cream & Onion (741),Snacks,35.32,366368c8-263b-4988-9297-dbb558c8b14b,Black,2022-10-24,2025-06-13,32 months,445,4.6,1500,1339,0
+prod-00742,Stouffer's Lasagna (742),Frozen Foods,44.94,65437972-bc65-4091-a9eb-0129ad920a3b,Purple,2021-05-16,2026-10-17,27 months,494,4.1,4773,294,5
+prod-00743,Gatorade Lemon-Lime (743),Beverages,7.13,90bc09ee-7822-4ca0-921e-c3e47cc82b21,White,2023-09-05,2024-09-18,14 months,282,4.1,3793,1435,15
+prod-00744,Navel Oranges (744),Fruits,71.65,afce78b5-1257-4ef8-925a-0e8331abef81,Yellow,2020-09-20,2028-09-29,14 months,964,3.1,4827,502,25
+prod-00745,King's Hawaiian Rolls (745),Bakery,50.74,d1fab313-9f0c-4242-ab0f-ea3b82ab380c,Yellow,2022-10-15,2029-04-15,14 months,125,3.8,2426,103,30
+prod-00746,Doritos Nacho Cheese (746),Snacks,37.17,4430a3cd-5077-4472-be07-2c8250458b6b,Blue,2022-10-05,2027-08-10,19 months,314,3.5,2901,864,20
+prod-00747,Roma Tomatoes (747),Vegetables,68.67,0e1f5040-8e5e-42e0-a1f6-e5f1927971ae,White,2022-05-14,2025-07-26,29 months,504,5.0,2134,1919,20
+prod-00748,Russet Potatoes 5lb (748),Vegetables,52.71,c0d8042a-4546-447c-a777-287c6faee4fe,Purple,2021-06-01,2025-10-15,25 months,845,3.6,2930,1935,30
+prod-00749,Strawberries 1lb (749),Fruits,18.88,b0fc39ef-371a-4196-8ce2-ba5fa2cef5b3,Green,2024-04-13,2029-06-29,24 months,767,4.8,1084,641,0
+prod-00750,Chobani Greek Yogurt (750),Dairy,37.54,e1008719-fb70-4593-95f8-4baa35e07f71,Purple,2023-07-08,2027-11-06,28 months,784,4.4,4199,903,15
+prod-00751,Marie Callender's Chicken Pot Pie (751),Frozen Foods,28.72,041cf104-6ecd-4db7-a0d2-496c72533ee1,White,2022-02-09,2024-11-16,6 months,433,3.7,1175,205,0
+prod-00752,Dave's Killer Bread (752),Bakery,3.22,6d57d21c-b6f9-46b9-8b33-88fa84b48f59,Black,2021-11-16,2026-06-29,11 months,613,4.1,1123,221,0
+prod-00753,Marie Callender's Chicken Pot Pie (753),Frozen Foods,44.07,02deac5a-551d-49c4-8202-a72d9ed2d4ca,Black,2024-01-03,2027-06-29,30 months,900,4.7,3997,1054,10
+prod-00754,Pringles Sour Cream & Onion (754),Snacks,10.80,dafb3c69-c4a2-4702-ab9a-0baf4ec1f406,Green,2024-07-01,2027-09-07,17 months,555,4.8,4974,807,0
+prod-00755,DiGiorno Pepperoni Pizza (755),Frozen Foods,53.94,6e681640-f591-4465-8628-206904d86791,Orange,2023-09-02,2024-10-24,21 months,416,3.3,379,1082,5
+prod-00756,Lipton Green Tea (756),Beverages,4.90,32b43711-1989-4c61-8874-b753dddbfebc,White,2023-12-24,2027-06-09,11 months,193,3.7,1211,814,10
+prod-00757,Land O'Lakes Butter (757),Dairy,65.04,3d665cb2-ba36-49f1-b84d-9cab25adca43,Blue,2020-06-18,2028-09-08,28 months,934,3.7,1283,871,10
+prod-00758,Broccoli Crowns (758),Vegetables,35.22,c3de800f-4454-4f13-bc1e-26b5c6e7d33b,Orange,2023-02-06,2028-12-05,20 months,118,3.1,2175,1390,30
+prod-00759,Red Bell Peppers (759),Vegetables,22.57,3541e165-b2e4-49b6-b863-3ed0b2796df2,Blue,2022-05-14,2027-11-20,20 months,148,4.2,3699,1364,0
+prod-00760,Doritos Nacho Cheese (760),Snacks,59.62,27b7f621-61a8-467b-9b32-9c4602a7d5e9,Purple,2021-12-15,2025-08-18,25 months,445,4.7,4042,1176,10
+prod-00761,Wonder Bread Classic White (761),Bakery,85.60,91b53583-73f6-4a80-bdd8-7bd40ca352eb,Blue,2019-08-25,2028-10-10,7 months,74,3.8,371,1247,20
+prod-00762,Kind Protein Bars (762),Snacks,43.66,5a5f87e2-d6d9-4822-8fb3-1497c79b3465,Blue,2021-11-24,2028-07-05,35 months,997,4.5,1223,1211,25
+prod-00763,Stouffer's Lasagna (763),Frozen Foods,7.12,06bff059-2032-4a49-8c8e-1bf15e366c20,Green,2019-12-12,2025-09-20,22 months,940,4.3,4079,409,10
+prod-00764,Thomas' English Muffins (764),Bakery,43.94,48653f85-1599-4cfb-a0eb-6b782fcebc0c,Purple,2019-12-06,2029-03-18,19 months,518,3.8,1327,1879,10
+prod-00765,Bananas Bunch (765),Fruits,19.32,becc33ab-bbda-45c9-ae15-a46ddd30dfe2,Purple,2020-07-03,2029-06-18,6 months,533,3.3,289,951,30
+prod-00766,Coca-Cola Classic 12-Pack (766),Beverages,85.24,4457e6ca-3aaf-45ab-98a5-cb667e6594e3,Black,2021-08-24,2028-06-26,12 months,614,4.4,645,656,5
+prod-00767,Cucumbers 2-Pack (767),Vegetables,10.39,954b6a2d-ae3b-4788-bd52-fc8176c1df3d,Blue,2024-07-27,2026-01-01,24 months,200,4.7,2441,1012,20
+prod-00768,Strawberries 1lb (768),Fruits,38.48,caf818d3-ae0c-46fc-9e98-e999dd517f82,Green,2020-08-13,2025-12-30,10 months,193,4.4,4066,1699,10
+prod-00769,Lipton Green Tea (769),Beverages,94.17,0fbd768b-aaef-4732-88a0-65e567fc6a8d,Orange,2024-03-14,2024-12-07,34 months,618,3.0,4114,797,5
+prod-00770,Organic Baby Spinach (770),Vegetables,95.27,869f64ae-584a-4a6f-8565-5a5c505f4500,White,2021-05-13,2029-04-19,14 months,88,3.4,4966,112,20
+prod-00771,Starbucks Cold Brew (771),Beverages,99.40,baee8e78-5b8f-474c-b924-a567c5efc910,Orange,2023-01-13,2026-04-22,33 months,158,3.1,868,308,10
+prod-00772,Sara Lee Honey Wheat Bread (772),Bakery,8.30,9b10d0be-9802-436a-aa19-8a6b91879e79,Black,2020-05-25,2024-08-27,16 months,742,4.1,3875,534,0
+prod-00773,Marie Callender's Chicken Pot Pie (773),Frozen Foods,45.64,9c89b1c9-ca2c-4dbe-8aff-909521ca77bf,Purple,2022-06-03,2028-05-09,9 months,91,4.5,2831,1175,10
+prod-00774,Blueberries Pint (774),Fruits,68.18,c89b848b-3c13-469e-b239-244ad7408e41,Purple,2021-03-12,2029-05-28,23 months,235,3.2,1110,949,25
+prod-00775,Oreo Double Stuf Cookies (775),Snacks,48.42,6aa511c1-f98e-4065-8a0c-a686fd96577e,Purple,2020-07-06,2027-07-13,30 months,984,4.7,4898,206,20
+prod-00776,Red Bull Energy Drink (776),Beverages,75.73,750c0039-3fce-458a-aec4-083fd0881e52,Blue,2022-01-14,2026-05-23,31 months,447,4.1,564,1644,25
+prod-00777,Lay's Classic Potato Chips (777),Snacks,93.25,164d2cf3-d612-4357-89a5-5de59cc10aa2,Red,2019-10-31,2026-09-25,29 months,272,4.4,2700,723,10
+prod-00778,Horizon Organic Whole Milk (778),Dairy,79.10,0355c84a-f825-43f4-a229-86e6a242bb50,Purple,2022-01-24,2028-01-24,28 months,683,4.9,1016,219,25
+prod-00779,Thomas' English Muffins (779),Bakery,81.73,811f4592-d5a1-4b02-9a34-cd88fe9bdb7b,Yellow,2021-06-02,2029-02-08,21 months,182,3.2,1552,166,20
+prod-00780,Nestle Pure Life Water 6-Pack (780),Beverages,11.69,31c1391d-dc94-4f9f-9bcf-8db2d0d9f4a8,Black,2023-12-27,2025-09-18,29 months,212,4.8,3568,1086,0
+prod-00781,Chex Mix Traditional (781),Snacks,82.94,9dc23aa2-7f03-4e81-a04b-1c073507dd5a,Green,2020-04-10,2029-03-30,7 months,264,3.3,4389,181,10
+prod-00782,Nestle Pure Life Water 6-Pack (782),Beverages,89.33,84d8738d-b6a7-4a0f-8022-17202aa8ffa9,Blue,2020-09-29,2029-01-11,11 months,782,3.8,165,813,20
+prod-00783,Philadelphia Cream Cheese (783),Dairy,92.56,58baa277-f7f2-4fd0-bf06-f0c373e47628,White,2021-12-23,2028-07-06,22 months,284,4.7,2702,1820,30
+prod-00784,Thomas' English Muffins (784),Bakery,79.03,bc9e1fd7-789f-4916-a044-26db2f7e986d,Orange,2022-03-09,2025-01-23,35 months,892,4.8,1825,1992,25
+prod-00785,Broccoli Crowns (785),Vegetables,90.14,51eac55a-fec7-44d0-bd45-177028841f18,Blue,2024-02-02,2028-01-01,29 months,707,4.0,4796,1792,5
+prod-00786,Silk Almond Milk (786),Dairy,64.17,20ef1c68-a821-4050-b947-2e3dad04c231,Black,2021-02-03,2029-01-05,7 months,800,4.2,1599,1751,25
+prod-00787,Marie Callender's Chicken Pot Pie (787),Frozen Foods,14.81,722e7494-b35f-4b9d-9ce0-4b3265abb189,Orange,2023-05-20,2028-11-05,15 months,637,4.4,2004,213,10
+prod-00788,Red Bull Energy Drink (788),Beverages,2.78,b605282e-55a9-4905-a54d-c54900ff259c,Black,2022-08-08,2028-06-21,15 months,58,4.7,4671,1768,25
+prod-00789,Horizon Organic Whole Milk (789),Dairy,13.98,2b9e1f36-2e85-4999-98e6-3a0b58169b64,Green,2020-01-31,2026-10-13,11 months,123,3.2,4064,859,30
+prod-00790,Doritos Nacho Cheese (790),Snacks,36.02,2f71075b-f943-4f99-b3a8-725fac263e0f,Green,2024-03-14,2027-07-04,6 months,541,4.6,2909,1746,25
+prod-00791,Starbucks Cold Brew (791),Beverages,2.98,ef78123a-499e-4492-935e-b5d2121114d4,Orange,2024-07-20,2026-05-24,19 months,962,4.0,4190,553,25
+prod-00792,Oroweat Whole Grain Bread (792),Bakery,99.38,7a0f2ef2-18c5-4d11-a1c5-6d97a4b062a2,White,2020-11-18,2027-06-02,24 months,302,3.9,986,1059,0
+prod-00793,Chobani Greek Yogurt (793),Dairy,77.23,2f5a5d77-7d3d-4a01-8ee8-01f2f01aaedd,White,2022-05-25,2024-12-27,24 months,279,3.8,3908,331,5
+prod-00794,Eggo Waffles Homestyle (794),Frozen Foods,52.96,57b7bb68-f99f-4479-a265-d846441cbe70,Green,2021-04-23,2024-10-03,20 months,568,4.0,4277,1694,25
+prod-00795,Broccoli Crowns (795),Vegetables,88.93,29da10ba-4b38-4229-95f0-91d97204d346,White,2021-08-08,2024-12-20,19 months,223,4.9,2060,1926,10
+prod-00796,Roma Tomatoes (796),Vegetables,79.88,7a1da4a9-fda9-4db3-b505-a5e70a1489e5,Blue,2024-04-05,2026-03-13,20 months,702,4.1,2847,872,20
+prod-00797,Blueberries Pint (797),Fruits,39.16,e02784ad-9880-4f86-b197-58b707e790c4,Black,2019-11-03,2026-06-18,7 months,217,4.9,143,661,30
+prod-00798,Popcorners Kettle Corn (798),Snacks,12.33,3c73f8ad-cb9a-4785-b255-4410046b176b,Orange,2021-06-03,2026-10-06,24 months,219,3.4,3942,415,15
+prod-00799,Broccoli Crowns (799),Vegetables,58.47,1ec0a1bb-cf9e-4d7d-9a01-2dd197d0080b,Black,2020-09-13,2027-03-03,36 months,442,4.4,4805,1906,25
+prod-00800,Seedless Red Grapes (800),Fruits,68.41,7b7bb111-a8d6-40f8-a2ad-2bd1a64947ff,Orange,2019-10-12,2025-10-12,34 months,995,4.6,1988,574,5
+prod-00801,Blueberries Pint (801),Fruits,16.55,e01c9fe7-200a-4248-9e8a-bbd8b080c381,White,2019-12-28,2025-04-08,34 months,844,4.4,3998,975,20
+prod-00802,Carrots 2lb Bag (802),Vegetables,1.00,84a7da79-bd7b-4306-b651-0e31eb12c220,Yellow,2023-01-28,2027-01-18,25 months,683,4.2,3992,470,5
+prod-00803,Avocados 4-Pack (803),Fruits,61.37,bde41e95-3a12-4266-9684-3c091bfbe5e1,Green,2022-01-09,2025-04-21,20 months,243,4.1,819,1738,30
+prod-00804,Sara Lee Honey Wheat Bread (804),Bakery,58.17,d3fc9868-bd17-417c-8ad6-ff9bffd09bbe,Yellow,2022-03-07,2029-01-13,10 months,566,4.7,790,1092,10
+prod-00805,Coca-Cola Classic 12-Pack (805),Beverages,47.50,5d1835e1-ea5e-45f5-bca4-def37874dff3,Orange,2020-07-18,2025-12-29,34 months,78,4.6,2045,1787,0
+prod-00806,Red Bell Peppers (806),Vegetables,82.83,efb0b108-f889-46a2-a9fd-93353f85f5d7,White,2021-01-04,2027-03-06,10 months,214,3.2,209,1656,25
+prod-00807,Doritos Nacho Cheese (807),Snacks,4.89,0244c3fd-beb7-4795-af29-e17ac634ed65,Orange,2020-08-27,2026-12-01,36 months,471,4.7,4414,357,0
+prod-00808,Pepperidge Farm Milano Cookies (808),Bakery,67.41,da720c5a-84fe-49d0-8565-f3cb78b6ac3b,Red,2024-04-13,2026-09-30,9 months,388,3.8,4658,822,25
+prod-00809,Silk Almond Milk (809),Dairy,23.34,0c8e637a-690b-4713-a984-159e63d86942,Blue,2020-10-22,2026-07-23,6 months,697,3.5,614,528,25
+prod-00810,Philadelphia Cream Cheese (810),Dairy,89.74,02e3759e-147a-4fc8-b2a3-29baa5539adb,Black,2021-05-28,2025-08-26,9 months,545,4.7,736,1623,5
+prod-00811,Chex Mix Traditional (811),Snacks,13.49,861ff77d-f79d-46ee-9f1e-7a808caab187,White,2019-11-18,2026-02-01,26 months,414,3.9,3428,1717,15
+prod-00812,Popcorners Kettle Corn (812),Snacks,98.37,69cc4b1e-d056-4d87-ad9e-0bff8d915d50,Black,2020-02-13,2026-12-14,10 months,882,4.6,726,1133,10
+prod-00813,Popcorners Kettle Corn (813),Snacks,96.88,e6ae1f30-3141-4e76-952c-e10eda63dbcd,White,2019-09-20,2028-02-16,28 months,391,3.5,169,776,20
+prod-00814,Ben & Jerry's Chocolate Fudge Brownie (814),Frozen Foods,69.52,c8374092-6fc9-4b76-9367-cd2dbfd4fef4,Black,2020-04-29,2028-07-02,27 months,549,3.0,2606,762,10
+prod-00815,Gatorade Lemon-Lime (815),Beverages,61.94,0ff2bfd4-55ae-4665-97cf-2bdebcb4be1a,Blue,2020-06-04,2024-11-10,16 months,706,4.0,3989,1808,15
+prod-00816,Tropicana Orange Juice 1L (816),Beverages,5.71,17f70c9a-9608-483d-8974-52f9ed1d5cc3,White,2022-07-27,2025-03-28,13 months,560,3.2,3899,524,30
+prod-00817,Avocados 4-Pack (817),Fruits,17.41,55317c37-aa4e-4140-a56f-82f8f417767e,Blue,2020-06-12,2028-04-30,19 months,376,4.5,1950,1700,30
+prod-00818,Kind Protein Bars (818),Snacks,40.26,f21d0e03-240a-4c01-afa9-e2046d7d4b0c,Black,2023-08-27,2027-04-11,27 months,266,3.6,4419,1885,20
+prod-00819,Organic Baby Spinach (819),Vegetables,71.82,14b1b98e-306f-40da-ba14-819ee336f23c,Red,2023-11-13,2029-06-21,27 months,350,3.9,2978,1635,15
+prod-00820,Gatorade Lemon-Lime (820),Beverages,87.96,26de0449-5d86-4520-872a-988a6a8e537b,Red,2021-08-26,2027-06-19,6 months,181,3.2,3452,1440,10
+prod-00821,Starbucks Cold Brew (821),Beverages,35.90,e664614a-5b78-4f4c-be31-693d082d872d,Red,2021-04-06,2026-02-19,15 months,853,3.6,4077,729,10
+prod-00822,Entenmann's Chocolate Donuts (822),Bakery,10.60,586533e2-5297-411b-9627-9cb649d3d672,Yellow,2023-08-13,2027-01-06,25 months,119,4.6,1734,233,5
+prod-00823,Land O'Lakes Butter (823),Dairy,86.64,f472fbb5-5721-435d-8e6a-8569514ae481,Black,2020-08-10,2027-01-20,12 months,301,3.3,3576,1060,25
+prod-00824,Red Bull Energy Drink (824),Beverages,76.30,d71d332f-bdb0-4812-b4b2-9d4c600b1451,Green,2022-02-02,2028-03-06,24 months,464,4.3,2643,117,30
+prod-00825,Hot Pockets Ham & Cheese (825),Frozen Foods,85.76,e48cbc28-7551-426c-ac39-80ae7827b837,Blue,2020-05-28,2026-12-26,12 months,836,4.8,868,1470,15
+prod-00826,Marie Callender's Chicken Pot Pie (826),Frozen Foods,30.73,5c474c7e-6efa-44cc-83bf-f5b7ba97a8dd,Yellow,2021-06-21,2025-01-31,23 months,494,4.4,2703,467,0
+prod-00827,DiGiorno Pepperoni Pizza (827),Frozen Foods,24.42,1da8bdee-eb1c-42a5-8307-de9bdc0a7536,Orange,2020-07-09,2025-12-25,8 months,925,4.6,1091,1890,15
+prod-00828,Strawberries 1lb (828),Fruits,56.43,ce67b5b9-de82-4739-81ab-fa71941e700a,Green,2021-09-16,2025-08-25,29 months,231,3.2,1828,267,15
+prod-00829,Pringles Sour Cream & Onion (829),Snacks,48.50,650f6862-cddf-43f4-accc-d271c39624d2,Yellow,2022-04-27,2026-11-19,16 months,216,3.5,2128,116,30
+prod-00830,Organic Gala Apples (830),Fruits,84.41,2a6af518-b8e3-49ff-96d6-d44b02f36dff,Yellow,2023-04-28,2027-02-01,23 months,140,4.8,1629,1008,20
+prod-00831,Coca-Cola Classic 12-Pack (831),Beverages,63.91,cc800fe4-9766-4278-aa20-ffd3b72fd2d2,Red,2020-07-30,2028-11-04,17 months,763,4.4,588,1645,25
+prod-00832,Nature Valley Granola Bars (832),Snacks,88.24,538b49d7-0610-4bf5-969d-fe2988868317,Red,2022-06-27,2027-08-06,10 months,907,4.3,4252,1630,20
+prod-00833,Lipton Green Tea (833),Beverages,49.11,45faa45a-3681-4b9a-9296-f5d16c09639b,Red,2021-01-07,2024-10-16,22 months,580,4.3,611,1865,30
+prod-00834,Blueberries Pint (834),Fruits,60.95,fafc1b79-b750-473f-a113-24c6d0b2b115,Red,2019-10-22,2029-07-03,33 months,88,3.8,3419,1597,5
+prod-00835,Oreo Double Stuf Cookies (835),Snacks,36.46,f9495770-55a3-4a94-91cf-5e51962a0745,Blue,2019-08-30,2028-06-13,13 months,175,3.1,2251,642,0
+prod-00836,Kind Protein Bars (836),Snacks,20.28,1243c025-1e79-4f26-a36a-f4fcb4cf682e,Orange,2020-11-08,2024-12-21,22 months,500,4.6,2704,826,30
+prod-00837,King's Hawaiian Rolls (837),Bakery,57.15,f8e473f9-c929-464a-9856-f3542fb8d4dd,Blue,2024-04-17,2027-08-23,21 months,222,4.4,2207,405,10
+prod-00838,Gatorade Lemon-Lime (838),Beverages,11.66,68acc89b-5c50-4586-9a25-f43fcf5015ed,Red,2023-05-19,2024-12-19,20 months,702,3.9,834,478,0
+prod-00839,Land O'Lakes Butter (839),Dairy,13.75,371aadcc-10da-41b1-9c0d-2b0c81bb02dd,Red,2023-01-22,2029-08-17,12 months,803,4.8,3409,439,0
+prod-00840,Bananas Bunch (840),Fruits,63.53,a344e20d-d788-42ec-846e-5c332dc2521d,Yellow,2020-03-24,2024-12-01,19 months,269,3.7,470,250,0
+prod-00841,Thomas' English Muffins (841),Bakery,11.03,3fa8d5ad-2a92-45ac-b5c2-5bce26a4b7b7,Orange,2024-02-18,2025-03-04,29 months,687,3.6,2173,1168,30
+prod-00842,Wonder Bread Classic White (842),Bakery,84.30,fe1f11cf-4e14-42b6-8a85-240f43ad145b,Black,2024-05-12,2025-06-24,31 months,107,4.7,4801,306,5
+prod-00843,Pepperidge Farm Milano Cookies (843),Bakery,78.60,f80b633e-b5dd-47a1-b5bb-890a3067a6bf,White,2019-12-11,2029-02-11,36 months,709,4.6,4305,1545,5
+prod-00844,Eggo Waffles Homestyle (844),Frozen Foods,44.13,f1008726-e283-4e1f-8ded-ff96cc1f1a22,Yellow,2021-10-31,2025-09-19,34 months,525,4.0,4968,238,30
+prod-00845,Oreo Double Stuf Cookies (845),Snacks,58.62,6b4554e5-3ee0-4177-9a49-4bf8f63f486d,Red,2021-06-27,2025-11-01,24 months,505,3.3,2401,1515,0
+prod-00846,Sweet Potatoes (846),Vegetables,67.36,23d1ac90-6822-4d51-a98c-d8252609594f,Black,2020-10-01,2026-07-13,13 months,878,3.4,1930,945,10
+prod-00847,Pepperidge Farm Milano Cookies (847),Bakery,71.73,9f18bea8-e292-493b-9eb6-59fc2e92ef93,Blue,2021-08-17,2028-10-24,15 months,944,4.3,1959,483,10
+prod-00848,Coca-Cola Classic 12-Pack (848),Beverages,85.25,1d3b2005-75b2-4239-adfd-2f26ed1b046f,Black,2021-06-08,2027-03-30,24 months,410,3.8,1016,1904,30
+prod-00849,Ben & Jerry's Chocolate Fudge Brownie (849),Frozen Foods,18.43,72635db8-e34f-430c-9655-e1b72fdeb5be,White,2020-11-17,2024-10-30,22 months,984,4.7,3275,825,10
+prod-00850,Carrots 2lb Bag (850),Vegetables,10.38,ed003ec8-5364-4503-ae8f-53d5c2f381d4,Orange,2022-05-03,2026-09-23,27 months,50,4.9,2762,773,5
+prod-00851,Land O'Lakes Butter (851),Dairy,99.80,d77b02a5-7dd4-4dd4-8ca9-68d3dee74c50,Green,2019-12-05,2029-07-27,33 months,436,4.6,2734,1572,20
+prod-00852,Kind Protein Bars (852),Snacks,78.28,7b434328-586b-4c94-ab3f-ab84c31347ba,Purple,2024-04-27,2026-12-27,17 months,397,3.8,4792,1992,30
+prod-00853,Entenmann's Chocolate Donuts (853),Bakery,20.18,88698142-24c1-48bd-8193-cc11cf40cc03,Red,2021-11-16,2027-04-10,13 months,239,4.6,1337,1091,10
+prod-00854,Strawberries 1lb (854),Fruits,55.11,89351b9c-9b5a-4414-8bf8-cce53f68a2d1,Green,2020-09-30,2026-09-21,23 months,554,3.7,2260,302,20
+prod-00855,Red Bull Energy Drink (855),Beverages,94.36,07dabbcc-197a-48aa-a70e-652fe7bd60c1,Yellow,2023-10-05,2029-02-14,17 months,240,3.3,1435,109,0
+prod-00856,Roma Tomatoes (856),Vegetables,68.41,9e41b0bc-4e39-44da-96c9-f9eac170f5bf,Yellow,2023-09-06,2029-01-28,35 months,557,3.1,2716,449,30
+prod-00857,Seedless Red Grapes (857),Fruits,8.96,829a5209-67ee-41dd-a588-f6f055584fb3,Purple,2022-10-27,2027-12-14,14 months,418,3.8,3043,1199,10
+prod-00858,Pepperidge Farm Milano Cookies (858),Bakery,73.85,af9e7802-78ec-4529-95b5-3113c6a38d57,Yellow,2020-07-08,2027-08-16,30 months,458,4.8,861,1869,0
+prod-00859,Strawberries 1lb (859),Fruits,37.62,b363b6d1-5c66-43cd-a104-0ba847d11db5,Orange,2020-12-17,2025-02-08,23 months,873,3.5,3818,1868,0
+prod-00860,Red Bull Energy Drink (860),Beverages,2.22,71f78b89-43ec-4c4e-b925-221d3fa11c66,Green,2023-12-11,2025-10-14,26 months,978,3.4,2800,837,25
+prod-00861,Silk Almond Milk (861),Dairy,64.68,790fea40-7b7e-4abb-8c40-7af4058c23ed,Black,2024-07-29,2025-03-29,8 months,983,4.9,2231,316,30
+prod-00862,Horizon Organic Whole Milk (862),Dairy,54.03,60d04536-817b-4dd2-867f-4be5ceb0beb1,Blue,2023-07-22,2028-11-30,27 months,166,3.1,4914,1415,15
+prod-00863,Horizon Organic Whole Milk (863),Dairy,2.86,996ba2c6-c103-4dfd-8b8d-e9426b244552,Green,2022-09-23,2025-02-22,9 months,183,4.6,2053,103,0
+prod-00864,Starbucks Cold Brew (864),Beverages,70.42,59f0ff5a-0e89-4295-8f1a-fe46746eece6,Black,2020-10-07,2027-08-20,22 months,107,3.6,1048,1501,0
+prod-00865,Blueberries Pint (865),Fruits,47.66,d02d4a5b-3272-4b51-a086-5338b358750c,Red,2022-04-27,2025-08-06,23 months,605,3.1,401,1784,25
+prod-00866,Cabot Vermont Cheddar (866),Dairy,95.03,afecfd1e-bc58-4b7a-a89d-5af775e54bf8,Blue,2024-07-19,2026-03-08,25 months,734,4.8,4124,1824,5
+prod-00867,DiGiorno Pepperoni Pizza (867),Frozen Foods,18.62,86b91670-9038-43f8-ab68-484fa7164a3c,Black,2019-10-06,2029-08-02,24 months,721,3.3,2688,705,0
+prod-00868,Bananas Bunch (868),Fruits,29.74,62381277-b78c-406a-b4b2-b805045cd9e1,Green,2021-10-28,2026-12-31,32 months,222,4.1,3794,1161,10
+prod-00869,Pepsi Zero Sugar (869),Beverages,98.19,5de4e235-b976-4673-bbc7-4c7061179db4,Orange,2024-07-02,2026-03-16,23 months,878,3.5,2801,687,30
+prod-00870,Cabot Vermont Cheddar (870),Dairy,92.95,5952b656-254c-455d-94cd-5a4f4532be28,Purple,2023-09-17,2028-07-05,20 months,864,3.1,1575,1418,30
+prod-00871,Chex Mix Traditional (871),Snacks,38.18,98bd3715-f501-44fc-a1c3-e52dd2a76d99,Purple,2024-02-09,2025-12-03,13 months,198,3.1,713,1212,5
+prod-00872,Bananas Bunch (872),Fruits,71.17,157fb11b-2b55-4489-9628-ee34368ec501,Blue,2021-08-30,2025-03-22,35 months,129,3.2,768,921,15
+prod-00873,Carrots 2lb Bag (873),Vegetables,5.45,2ce5c3f3-ee5c-4431-be93-fd4ffb3bbfc8,Red,2022-06-27,2024-10-21,21 months,935,3.1,2228,929,15
+prod-00874,Entenmann's Chocolate Donuts (874),Bakery,86.84,12ee7d67-a9db-4b36-8f3e-aaa728bf2f55,Black,2022-06-04,2025-06-23,10 months,262,4.5,317,374,0
+prod-00875,Carrots 2lb Bag (875),Vegetables,26.59,0a81eda3-4591-40ed-a5d3-d9295ffc4db0,White,2021-03-25,2026-09-06,18 months,252,4.0,3031,1637,20
+prod-00876,Popcorners Kettle Corn (876),Snacks,77.11,4c4d5433-a145-45d4-896e-e5969c2fbf22,Green,2022-01-05,2027-09-23,35 months,813,3.7,848,1273,15
+prod-00877,Thomas' English Muffins (877),Bakery,39.54,369b6928-0838-4b6b-bf49-2e341c61500f,Yellow,2019-10-27,2028-08-13,23 months,278,3.8,4320,705,15
+prod-00878,Organic Baby Spinach (878),Vegetables,15.15,2246fc89-b0c8-4c5d-b210-63845199ac02,Blue,2022-07-10,2025-08-19,18 months,725,4.9,300,1436,25
+prod-00879,Coca-Cola Classic 12-Pack (879),Beverages,85.34,752fdf57-193c-46c5-97df-c1754fc06138,Green,2021-09-01,2027-08-31,19 months,276,4.8,2721,1110,15
+prod-00880,Organic Gala Apples (880),Fruits,95.68,fbed4562-849a-424b-9e7a-a6b8fc6d7b44,Yellow,2024-02-17,2027-07-08,11 months,708,4.4,821,199,10
+prod-00881,Broccoli Crowns (881),Vegetables,75.71,2d2eb8ab-2100-4bca-bc3a-2d05ff21b404,Red,2020-12-06,2027-08-28,30 months,581,4.8,1051,1382,20
+prod-00882,Coca-Cola Classic 12-Pack (882),Beverages,85.21,fc0af82b-20ac-4957-bd54-f9754f8f6b70,Yellow,2023-06-29,2027-05-19,8 months,490,3.6,1981,1402,30
+prod-00883,Dole Pineapple Chunks (883),Fruits,22.34,b8ab932b-bebc-4a40-9bee-b2d9f509b034,Red,2024-01-25,2029-05-01,35 months,451,3.8,2327,1127,0
+prod-00884,Stouffer's Lasagna (884),Frozen Foods,7.83,c2ed2d98-c71b-4228-af07-f6ea2f76268b,Black,2021-04-05,2027-08-28,25 months,96,4.2,1532,511,25
+prod-00885,Broccoli Crowns (885),Vegetables,43.89,9fdc62d8-757c-4903-a5ff-3420b2e0364c,Purple,2020-07-17,2028-02-05,36 months,282,4.2,2420,689,25
+prod-00886,Sweet Potatoes (886),Vegetables,16.80,e1db8125-8dc7-4c56-b40e-0435512792a6,Orange,2019-09-02,2024-12-06,20 months,354,4.0,1876,809,30
+prod-00887,Wonder Bread Classic White (887),Bakery,6.30,65c925de-28ae-4c0c-9386-804488fd57ef,Blue,2021-09-23,2027-09-09,17 months,575,3.8,798,425,25
+prod-00888,Silk Almond Milk (888),Dairy,65.19,dfadb62b-78fe-45ad-bf3c-ddf99675b98d,Black,2024-07-20,2025-05-14,6 months,192,5.0,3068,1800,0
+prod-00889,Tropicana Orange Juice 1L (889),Beverages,71.11,ebfa560c-de1b-4986-9192-c822ac0ad95b,Yellow,2022-03-09,2028-10-30,6 months,464,4.6,721,1642,5
+prod-00890,King's Hawaiian Rolls (890),Bakery,27.35,f03eb1ca-1441-4af3-a1d7-96ca10957fb7,Yellow,2021-03-20,2027-02-12,33 months,562,3.9,2687,1072,10
+prod-00891,Lay's Classic Potato Chips (891),Snacks,97.95,bfca2c8a-76f2-478d-9614-45ef83cc09e0,Yellow,2021-01-11,2027-08-09,20 months,422,4.5,559,1124,25
+prod-00892,Bananas Bunch (892),Fruits,89.44,b1e3c7de-adf3-4120-8d16-cc57a700a88a,Blue,2021-12-28,2024-11-15,21 months,615,3.5,1184,699,20
+prod-00893,Pepsi Zero Sugar (893),Beverages,43.91,72f725e8-7ce6-4857-beb3-2a242463188e,Black,2021-01-20,2027-09-08,6 months,935,3.2,399,1541,5
+prod-00894,Blueberries Pint (894),Fruits,24.16,3ce625c6-1dab-4954-89dd-ea18fb898512,Green,2023-01-01,2028-09-10,29 months,308,3.7,2644,1303,20
+prod-00895,Lay's Classic Potato Chips (895),Snacks,95.15,415bd85b-a6e3-4d30-9d43-97a9bebc8f67,Orange,2022-06-17,2029-06-22,35 months,705,3.8,1375,109,30
+prod-00896,Entenmann's Chocolate Donuts (896),Bakery,65.35,b2925a35-79bd-4605-aaf2-c9f7919862cd,Red,2023-08-24,2025-10-09,20 months,520,3.0,1530,474,15
+prod-00897,Sweet Potatoes (897),Vegetables,34.08,ed273571-e076-4120-9c4c-199ec3043328,Green,2023-10-14,2027-06-24,11 months,61,4.6,3552,745,20
+prod-00898,Marie Callender's Chicken Pot Pie (898),Frozen Foods,22.95,a39d129e-7d46-48ce-b715-f040a6767b03,Orange,2020-07-01,2025-02-20,30 months,379,3.7,2488,1575,25
+prod-00899,Lipton Green Tea (899),Beverages,49.62,896221cb-bef4-421c-811a-8568a2fdf829,Red,2020-04-23,2028-10-19,11 months,785,4.2,1921,1233,5
+prod-00900,Cucumbers 2-Pack (900),Vegetables,33.25,5eb19b5a-bca2-4f7e-81c2-1399979e6480,Orange,2023-09-05,2029-03-13,18 months,833,3.1,1088,1248,10
+prod-00901,Dave's Killer Bread (901),Bakery,12.59,6573ff83-6044-4981-8035-0c32c679cc46,Red,2019-11-10,2028-07-26,23 months,407,3.3,313,1555,25
+prod-00902,Doritos Nacho Cheese (902),Snacks,31.23,f1be5f73-1b55-41c1-9212-8bbc160d4ce1,White,2021-07-16,2027-07-04,13 months,457,4.8,631,1842,30
+prod-00903,Russet Potatoes 5lb (903),Vegetables,90.21,23eaf607-8927-4e0e-8ec8-119014631dd1,Purple,2020-06-10,2028-11-30,25 months,717,4.2,3017,1424,10
+prod-00904,Sargento Shredded Cheddar (904),Dairy,28.35,5cce069a-1ee6-4490-a690-43ed983a7586,Purple,2020-04-04,2026-11-05,16 months,422,4.9,3719,751,15
+prod-00905,Green Giant Cauliflower Rice (905),Frozen Foods,8.60,7a2eb986-aa79-433d-891e-da73a0e0ec5b,Red,2021-03-08,2029-07-04,6 months,57,5.0,2084,202,0
+prod-00906,Red Bull Energy Drink (906),Beverages,45.92,6b4f07c1-e6d5-4379-8a03-7071f3110fc5,Green,2022-10-05,2027-11-23,7 months,171,3.7,2358,1746,5
+prod-00907,Stouffer's Lasagna (907),Frozen Foods,47.48,220dec19-4cf9-4b3e-97a4-cb78c1edf1e8,Green,2023-12-02,2025-12-05,14 months,397,3.6,2318,1193,0
+prod-00908,Doritos Nacho Cheese (908),Snacks,64.13,d118b24e-f2ed-4a6d-b95c-a5fc5c40793b,Orange,2023-06-19,2026-05-17,27 months,725,4.7,4733,984,30
+prod-00909,Doritos Nacho Cheese (909),Snacks,29.96,10656591-7fa7-4d27-8e20-2ace1dbfacb2,Black,2022-01-28,2026-03-26,24 months,139,5.0,4871,1016,30
+prod-00910,Bananas Bunch (910),Fruits,13.10,9be26429-2cf3-48cf-8d50-c94c0551488c,Red,2019-11-16,2027-06-08,25 months,697,4.3,4585,209,30
+prod-00911,Pringles Sour Cream & Onion (911),Snacks,45.82,cd052b43-2ce8-45cf-9eb0-09ae3c84a90b,Yellow,2023-10-07,2025-09-28,27 months,747,4.6,2209,323,15
+prod-00912,DiGiorno Pepperoni Pizza (912),Frozen Foods,65.72,a39e4490-65b7-4389-9acc-6d8605c29bf2,Orange,2020-03-20,2028-01-12,20 months,365,4.6,3160,323,20
+prod-00913,Oroweat Whole Grain Bread (913),Bakery,69.42,6beb91de-c69d-42f7-a1b7-898706f308b8,Black,2019-11-03,2025-06-27,6 months,227,3.7,1708,1854,20
+prod-00914,Dole Pineapple Chunks (914),Fruits,5.08,0c199306-a3e1-4e2b-839f-66420171a797,Red,2019-11-14,2027-10-06,25 months,589,4.1,2624,850,15
+prod-00915,Ben & Jerry's Chocolate Fudge Brownie (915),Frozen Foods,32.85,f93a88af-028e-4d55-99c7-be244e34bf97,White,2021-08-08,2028-04-22,12 months,781,4.7,4515,730,10
+prod-00916,Chex Mix Traditional (916),Snacks,94.49,9708ce6d-c73b-4521-bfb4-e0711447733d,Black,2022-01-07,2025-04-27,25 months,918,4.4,789,942,5
+prod-00917,Cucumbers 2-Pack (917),Vegetables,98.87,d4a1d5a7-7bcb-4d38-a482-33eb53a9026f,Orange,2020-07-23,2026-07-01,34 months,90,3.0,2199,313,15
+prod-00918,Ben & Jerry's Chocolate Fudge Brownie (918),Frozen Foods,80.53,f2871063-e995-4b9c-9d82-fd87b4da4ee6,Black,2021-01-01,2026-06-13,31 months,789,3.7,4852,1671,15
+prod-00919,Sargento Shredded Cheddar (919),Dairy,71.92,e291b449-38d5-4305-bf7c-27789ace4420,Yellow,2020-07-13,2024-11-21,22 months,753,3.3,1200,1466,5
+prod-00920,Entenmann's Chocolate Donuts (920),Bakery,40.41,d0b59807-6cf9-4925-8b5f-43adedbfcca6,Purple,2021-10-11,2024-09-18,7 months,972,3.5,218,1480,25
+prod-00921,Sara Lee Honey Wheat Bread (921),Bakery,38.53,3504cda6-1590-464e-8534-856c09025834,Orange,2023-08-01,2025-07-15,9 months,551,4.8,2868,1914,10
+prod-00922,Dole Pineapple Chunks (922),Fruits,67.57,e50b5a8c-b844-4b27-af00-acc4f7b7d993,Orange,2019-10-10,2025-12-28,30 months,194,3.1,605,1562,10
+prod-00923,Eggo Waffles Homestyle (923),Frozen Foods,22.73,ac4e0c48-b519-4495-8601-e7263c36863e,Green,2019-12-24,2026-05-27,12 months,250,3.4,2300,355,5
+prod-00924,Seedless Red Grapes (924),Fruits,18.13,2861629e-4d41-4db1-ba59-8a1f184b3658,Black,2023-04-02,2028-08-12,27 months,978,3.6,1141,766,0
+prod-00925,Popcorners Kettle Corn (925),Snacks,9.89,6afd5205-d2ff-4df4-9349-87dfbfdbc079,Black,2020-11-05,2029-01-21,35 months,773,4.2,3235,1605,25
+prod-00926,Avocados 4-Pack (926),Fruits,46.02,1ab0b874-56b4-476c-bf5b-51cf83e943f0,Black,2022-07-09,2024-08-31,16 months,510,4.1,596,1119,20
+prod-00927,Wonder Bread Classic White (927),Bakery,9.19,e9556f20-b97a-4bb4-b642-d08933ab92c8,Blue,2020-07-23,2026-04-03,10 months,781,3.4,4274,1527,5
+prod-00928,Gatorade Lemon-Lime (928),Beverages,45.52,d2d892b2-8641-4717-8ad0-713d61c62c1a,Blue,2023-06-05,2026-10-01,17 months,801,3.3,158,1906,10
+prod-00929,Red Bull Energy Drink (929),Beverages,60.45,399596eb-847b-46ef-a654-b5139128c328,White,2020-05-16,2028-06-17,11 months,974,3.5,3232,1165,25
+prod-00930,Cabot Vermont Cheddar (930),Dairy,65.59,cdba06d9-d329-4e16-92b3-3b47b0bc5ba6,Purple,2023-01-17,2029-08-21,16 months,958,4.0,3638,1511,0
+prod-00931,Kind Protein Bars (931),Snacks,71.87,8e21a5b6-7221-4da9-bd50-bdde51961306,Red,2023-09-09,2027-02-28,22 months,607,3.5,1753,1152,15
+prod-00932,Philadelphia Cream Cheese (932),Dairy,79.21,c3ae8fc2-23d6-4082-b17f-79e33cc0a72a,Blue,2022-05-07,2028-10-26,10 months,596,4.9,1806,794,15
+prod-00933,Russet Potatoes 5lb (933),Vegetables,88.09,67d07703-f361-4748-8098-fa0a229f21ac,Green,2022-04-05,2026-08-20,6 months,302,3.9,343,1326,15
+prod-00934,Russet Potatoes 5lb (934),Vegetables,19.22,6b41459a-2466-4c18-b392-cb76d0e92ea3,White,2021-07-11,2027-06-26,10 months,439,3.1,2355,660,20
+prod-00935,Lay's Classic Potato Chips (935),Snacks,46.58,f6e98abd-c77c-426d-aee5-612ae1297b88,Blue,2020-09-04,2029-02-22,25 months,643,4.5,1774,426,25
+prod-00936,Cucumbers 2-Pack (936),Vegetables,20.23,889d7ffc-58d6-47df-ac00-eb571a1592ae,Red,2021-07-25,2027-06-21,11 months,932,3.7,2792,942,30
+prod-00937,Stouffer's Lasagna (937),Frozen Foods,58.85,68825ee4-626d-4c22-a11c-7e83f2ca3ade,White,2023-04-08,2027-06-18,28 months,305,4.3,138,1177,10
+prod-00938,Oreo Double Stuf Cookies (938),Snacks,90.00,e44360ab-80a9-431e-ad25-4fd93bab6775,Black,2020-02-19,2025-12-16,17 months,758,3.6,3347,1613,0
+prod-00939,Bananas Bunch (939),Fruits,7.37,876289f7-6d7c-4753-b063-083b80b20444,Red,2021-03-14,2024-10-11,12 months,864,4.1,1715,516,10
+prod-00940,Wonder Bread Classic White (940),Bakery,82.56,63b7862e-89c7-4e41-9ff8-c8801a215806,Blue,2023-12-06,2027-06-27,12 months,970,4.5,119,1857,25
+prod-00941,Tropicana Orange Juice 1L (941),Beverages,80.51,6ecbfcb7-b23f-4475-a045-83465b20aafa,Red,2023-02-15,2028-06-03,19 months,499,4.9,320,1987,20
+prod-00942,Coca-Cola Classic 12-Pack (942),Beverages,67.53,4ca78c3e-9077-4fdb-8de5-33405d425670,Blue,2023-05-09,2027-06-15,33 months,59,3.5,3871,1121,20
+prod-00943,Navel Oranges (943),Fruits,10.41,1bfd7c77-050b-49de-9837-8f46502403ba,Black,2021-12-31,2025-09-16,36 months,873,3.7,350,1483,25
+prod-00944,Horizon Organic Whole Milk (944),Dairy,18.04,d4cc97d3-c8aa-4591-8401-50d0ee5645bd,Green,2021-11-18,2025-08-17,13 months,847,3.9,4407,1672,5
+prod-00945,Strawberries 1lb (945),Fruits,93.39,1dd0be2e-71c6-4319-a7b8-af608f81db4f,Green,2022-04-26,2028-08-12,11 months,291,4.9,4614,1328,25
+prod-00946,Dole Pineapple Chunks (946),Fruits,7.98,9199c3dc-3929-453b-b5ad-e68677ee36ee,Green,2023-07-14,2026-05-05,23 months,300,4.8,606,1002,30
+prod-00947,Carrots 2lb Bag (947),Vegetables,44.33,71f77129-1826-4377-b33b-0d17b3c1938d,Red,2024-05-22,2026-12-21,20 months,926,3.2,4841,379,10
+prod-00948,Sweet Potatoes (948),Vegetables,88.13,00c1dcd7-39c6-4c38-96aa-8a0b9f9f94fe,Yellow,2023-11-14,2025-12-31,34 months,54,3.3,968,1178,30
+prod-00949,Pepperidge Farm Milano Cookies (949),Bakery,95.98,641a22eb-8e69-4e65-b50c-3438e3f51382,Black,2021-03-08,2029-03-04,35 months,168,4.0,4090,322,15
+prod-00950,Entenmann's Chocolate Donuts (950),Bakery,4.79,d0476c8b-fb38-44d0-a541-43f809432f3e,Red,2019-09-09,2028-02-04,25 months,850,3.2,4687,207,5
+prod-00951,King's Hawaiian Rolls (951),Bakery,67.20,ef0b53f3-de2f-445b-b846-b99cb5b35358,Orange,2023-05-16,2029-05-03,13 months,423,3.7,1269,817,30
+prod-00952,Red Bull Energy Drink (952),Beverages,43.12,20d6eb40-c9a1-4bbb-8d33-22e87b9a4bcc,Yellow,2021-11-23,2027-05-08,7 months,114,3.3,839,783,10
+prod-00953,Avocados 4-Pack (953),Fruits,84.52,99ad92fa-5e1a-4645-8eae-e6924142a8bb,Purple,2023-05-17,2029-04-11,14 months,195,4.3,1890,701,5
+prod-00954,Lay's Classic Potato Chips (954),Snacks,48.57,49f10bdd-3315-402c-8bec-44fe735dbf58,Red,2022-04-12,2027-01-31,18 months,273,4.9,523,1632,5
+prod-00955,Marie Callender's Chicken Pot Pie (955),Frozen Foods,14.92,cf4db87a-b18d-45df-8f77-b78fb30328ad,Orange,2023-02-22,2025-05-03,36 months,288,5.0,3155,1060,25
+prod-00956,Green Giant Cauliflower Rice (956),Frozen Foods,46.06,9a5b8d28-d21c-4133-b32c-a54cf6007593,Blue,2021-05-27,2028-03-19,24 months,226,3.8,4487,1129,0
+prod-00957,Silk Almond Milk (957),Dairy,4.46,767ba534-2530-4b03-92fa-1c04bcf68b20,White,2020-09-03,2028-05-02,16 months,828,4.2,2303,606,5
+prod-00958,Marie Callender's Chicken Pot Pie (958),Frozen Foods,47.76,f615e0a8-6909-407c-bc67-24a50ba3230c,Black,2021-08-13,2024-12-06,17 months,902,4.7,2083,1922,25
+prod-00959,Navel Oranges (959),Fruits,86.29,807caf3a-0b75-4037-91a6-1d8cec62d0f4,Black,2022-12-11,2027-02-05,32 months,331,3.2,4022,1294,30
+prod-00960,Green Giant Cauliflower Rice (960),Frozen Foods,9.56,5a415c6f-c25b-4de0-9e1a-909de6582ca3,Purple,2021-10-25,2027-06-22,30 months,112,4.4,2497,974,20
+prod-00961,Nature Valley Granola Bars (961),Snacks,65.21,5bc2f741-ae2b-42b0-952b-71528419ba6b,Purple,2022-08-07,2024-10-22,13 months,266,3.8,2057,367,30
+prod-00962,Birds Eye Steamfresh Broccoli (962),Frozen Foods,11.42,d9015335-52e5-4fc6-8b2f-872868824e31,White,2023-02-04,2026-09-03,11 months,903,3.4,4438,292,15
+prod-00963,Ben & Jerry's Chocolate Fudge Brownie (963),Frozen Foods,57.71,f053a10c-fec3-4f5d-9caf-58b29e999c0f,Orange,2022-08-06,2027-01-19,17 months,876,3.8,1889,855,0
+prod-00964,Yoplait Original Yogurt (964),Dairy,60.53,51812f91-3650-40a4-9175-b9ea4c5a104e,White,2023-05-01,2027-03-22,23 months,844,3.2,684,1303,5
+prod-00965,King's Hawaiian Rolls (965),Bakery,62.73,de40d103-f944-497c-bdee-93450a661644,Blue,2023-06-07,2026-03-16,10 months,738,4.4,3300,859,0
+prod-00966,Sara Lee Honey Wheat Bread (966),Bakery,76.30,508d1ded-c35a-4704-82fa-c7d2b1bdd320,White,2020-03-25,2029-04-27,14 months,510,3.5,1442,169,25
+prod-00967,Marie Callender's Chicken Pot Pie (967),Frozen Foods,19.47,9fcce68a-aabe-4aca-ae17-95b23a1c9bfc,Green,2024-06-23,2026-08-17,15 months,978,3.6,4290,1856,15
+prod-00968,Nature Valley Granola Bars (968),Snacks,41.21,b5cbe153-57e2-4c0c-829a-4353c054f712,Purple,2020-02-05,2025-04-12,10 months,659,3.2,4496,1153,15
+prod-00969,Wonder Bread Classic White (969),Bakery,67.02,fe313e48-0c2d-48f1-8dd9-b4489fe4c2e7,Yellow,2019-10-06,2026-02-24,19 months,154,4.7,1308,1242,0
+prod-00970,Chex Mix Traditional (970),Snacks,94.78,02c15769-470d-4668-a970-d04e2614d4dc,White,2020-07-08,2028-04-11,12 months,148,4.0,2922,1840,10
+prod-00971,King's Hawaiian Rolls (971),Bakery,30.15,e90c91d2-974a-43c6-afff-6d2b8d7c26e5,Purple,2024-07-25,2027-04-25,15 months,560,4.1,3793,609,15
+prod-00972,Marie Callender's Chicken Pot Pie (972),Frozen Foods,93.62,d38a9bb3-f285-427a-9b42-ad700c548a12,Blue,2023-02-20,2024-11-23,25 months,434,4.1,2547,833,20
+prod-00973,Gatorade Lemon-Lime (973),Beverages,36.60,2e5381f8-8dd6-40a7-b4da-20f02bc1507d,Orange,2022-12-02,2025-12-08,14 months,454,3.8,4885,559,20
+prod-00974,Bananas Bunch (974),Fruits,51.27,7740d271-0e09-4e06-b5a9-79a83115a3f9,Purple,2023-12-14,2029-03-13,23 months,872,3.4,1265,1761,5
+prod-00975,Eggo Waffles Homestyle (975),Frozen Foods,83.14,c62f03f4-218d-4270-b128-a3932bf6c357,Green,2020-06-07,2024-12-10,9 months,567,4.5,4856,557,10
+prod-00976,Avocados 4-Pack (976),Fruits,15.83,8cc85fe8-6496-4bfe-b909-d75ba3d4d9bb,Yellow,2019-10-17,2028-03-17,27 months,525,3.3,2405,666,10
+prod-00977,Sweet Potatoes (977),Vegetables,39.94,5785795f-3bf1-4a7f-8c94-6c3eb67bfbfc,Black,2019-12-28,2028-06-12,9 months,758,3.2,1162,138,25
+prod-00978,Philadelphia Cream Cheese (978),Dairy,43.51,f751604a-43cd-4b60-b0b1-fd10a1d80d08,Yellow,2021-09-13,2026-09-11,23 months,912,4.4,4500,1069,5
+prod-00979,Land O'Lakes Butter (979),Dairy,15.98,01ed3ba1-323d-411c-9fc1-fcccf666286d,Black,2021-04-06,2026-07-07,29 months,694,3.4,3454,1973,15
+prod-00980,Yoplait Original Yogurt (980),Dairy,88.70,e8b5d4f8-2567-403f-8a84-a54d94f093aa,Green,2023-08-15,2026-09-13,26 months,919,3.6,1947,361,30
+prod-00981,Ben & Jerry's Chocolate Fudge Brownie (981),Frozen Foods,42.33,2a3c3a3c-06c0-4e3a-97f7-00807b573f8c,Red,2024-02-03,2026-06-27,26 months,820,4.0,625,283,0
+prod-00982,Organic Gala Apples (982),Fruits,16.80,bb7961ce-d78a-4c66-805c-9a65e82207a9,Orange,2020-04-16,2028-12-08,14 months,486,3.9,4602,619,10
+prod-00983,Pringles Sour Cream & Onion (983),Snacks,88.00,37b20d41-8977-40c7-95e7-3e40f7b96513,Blue,2024-02-21,2026-12-02,29 months,72,4.4,1482,1079,10
+prod-00984,Roma Tomatoes (984),Vegetables,2.75,b94fe8aa-e751-42f8-99af-778d46713d48,Black,2020-10-11,2025-02-05,25 months,614,4.2,4206,922,30
+prod-00985,Stouffer's Lasagna (985),Frozen Foods,82.65,cb04c68b-e548-4acf-8bc1-39bf9ac45119,Purple,2021-01-23,2027-01-15,29 months,726,4.3,2822,972,25
+prod-00986,Blueberries Pint (986),Fruits,63.72,548df966-2ff5-497b-8e7c-53041ffa9e07,Yellow,2020-12-27,2026-02-10,35 months,763,4.4,2087,1651,15
+prod-00987,Organic Baby Spinach (987),Vegetables,26.46,7c300574-f8c1-44e5-9bb5-9ae88c50c7db,Purple,2021-05-11,2029-03-23,23 months,507,3.6,4167,485,25
+prod-00988,Oreo Double Stuf Cookies (988),Snacks,1.25,ba65ebc6-966b-407e-b21f-2cdef1553a98,Orange,2022-12-24,2026-03-29,12 months,132,3.6,4204,675,0
+prod-00989,Gatorade Lemon-Lime (989),Beverages,73.39,95edf7e5-a565-40ab-a9ea-8d9025817166,Orange,2023-12-07,2027-12-20,9 months,194,3.9,4223,352,20
+prod-00990,Russet Potatoes 5lb (990),Vegetables,54.04,4815083b-bddf-42e3-b89b-f00301e34c95,Black,2024-07-13,2029-06-20,35 months,134,3.6,785,1134,10
+prod-00991,Thomas' English Muffins (991),Bakery,51.78,5fc393fc-7abf-4df4-b608-427d5fa75dea,Blue,2021-05-13,2029-07-13,19 months,127,5.0,2649,699,25
+prod-00992,Birds Eye Steamfresh Broccoli (992),Frozen Foods,2.88,7ca7885b-15ca-4826-b6e9-5b1ddaa303a8,Black,2021-07-10,2024-09-10,20 months,506,4.6,4777,310,30
+prod-00993,Bananas Bunch (993),Fruits,62.49,887e1b2f-b25a-42e4-bc42-94fa258bebd5,Black,2023-07-05,2028-12-08,34 months,927,3.3,3966,1639,15
+prod-00994,Bananas Bunch (994),Fruits,81.70,a59add60-e747-4d04-8011-b974f3d453a3,Blue,2024-07-12,2027-12-25,10 months,50,3.0,2925,1766,25
+prod-00995,Philadelphia Cream Cheese (995),Dairy,61.92,404fb4c4-f426-4437-8682-8cdeac70f84b,Black,2022-10-14,2028-05-24,33 months,100,3.1,3834,1906,10
+prod-00996,Gatorade Lemon-Lime (996),Beverages,34.66,7e8bceea-7350-41dc-afd1-5dff59c664c6,White,2024-02-22,2026-11-17,13 months,734,3.5,1341,459,20
+prod-00997,Dole Pineapple Chunks (997),Fruits,84.03,975de2f4-6108-4a62-9cab-81d79efcfe1e,Yellow,2023-12-04,2028-10-08,36 months,766,3.2,3600,167,30
+prod-00998,Strawberries 1lb (998),Fruits,8.61,f53d55f5-6cd9-4e5e-8ef6-62576fe1f731,Yellow,2022-04-19,2024-08-31,29 months,821,4.1,1761,526,5
+prod-00999,Navel Oranges (999),Fruits,95.97,1ab0eccd-3eaa-466a-b671-bbf87599ce6d,White,2023-11-26,2028-04-25,13 months,495,4.7,2150,1972,25
+prod-01000,Land O'Lakes Butter (1000),Dairy,41.93,c83e5b1f-3c89-44d0-b3bf-02ecafd27d89,Red,2023-04-30,2026-11-17,30 months,498,4.5,4238,108,15
